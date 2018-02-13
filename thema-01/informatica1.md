@@ -1,4 +1,4 @@
-# Modulenaam: Informatica 1
+# Module: Informatica 1
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
@@ -45,7 +45,7 @@ Van Python worden de volgende onderwerpen behandeld:
 \-
 
 ### Werkvormen
-- Hoor- en Werkcolleges
+- Hoor/werkcolleges
 
 ### Ingangseisen
 \- 
