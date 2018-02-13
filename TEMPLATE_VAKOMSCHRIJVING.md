@@ -1,10 +1,10 @@
-# Modulenaam: __MODULENAAM__
+# Module: __MODULENAAM__
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
 | Osiriscode  | __OSIRISCODE__  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht |
+| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | BOJP, FEFE, HEMI, LADR, KEMC, NOMI, PARN, WATS, WERD |
 | Contactpersoon  |  |
@@ -29,7 +29,8 @@ __AANVULLEN__
 ### Competenties
 1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)
 
-### Werkvormen
+### Werkvormen  
+
 __KIES UIT__
 
 - Praktijkopdrachten/Projectonderwijs  
@@ -39,21 +40,24 @@ __KIES UIT__
 - Peer review
 - Zelfstudie
 
-### Ingangseisen
+### Ingangseisen 
+\- 
+
+### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-#### Voorkennis kan worden opgedaan met
+### Voorkennis kan worden opgedaan met
 \-
 
-#### Bronnen van zelfstudie
+### Bronnen van zelfstudie
 \-
 
 ### Verplicht materiaal
 \-
 
-#### Aanbevolen materiaal
+### Aanbevolen materiaal
 \-
 
