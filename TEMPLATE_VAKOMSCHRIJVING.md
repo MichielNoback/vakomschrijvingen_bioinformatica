@@ -30,7 +30,14 @@ __AANVULLEN__
 1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)
 
 ### Werkvormen
-- Action learning
+__KIES UIT__
+
+- Praktijkopdrachten/Projectonderwijs  
+- Hoorcollege
+- Werkcollege
+- Hoor/werkcolleges
+- Peer review
+- Zelfstudie
 
 ### Ingangseisen
 \- 
