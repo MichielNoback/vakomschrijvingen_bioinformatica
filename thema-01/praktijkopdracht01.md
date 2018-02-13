@@ -7,21 +7,16 @@
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | BOJP, HEMI, HJUR, WERD |
-| Contactpersoon  | WERD (r.wedema@pl.hanze.nl) |
+| Contactpersoon  | WERD |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
-De studenten kunnen na afloop van deze module zelfstandig een website maken die voldoet aan de volgende standaarden:  
-
-- geschreven in valide html 5
-- alle opmaak in valide css
-- een basaal cgi-script in Python bevat
+**AANVULLEN**
 
 ## Inhoud
 
-In deze module maken de studenten een website die de diversiteit van het leven op aarde aanschouwelijk maakt. 
-Ook moeten de studenten een subsite maken over een eigen gekozen, daarmee samenhangend, onderwerp waarbinnen 
-een determinatie uitgevoerd kan worden door middel van een cgi-script.
+In de thema opdracht leren studenten verschillende bronnen en formaten van biologische data te lezen en te analyseren.
+Dit houdt in: Programmeren gebruiken voor het beantwoorden van biologische vragen in de praktijk.
 
 ### Literatuur en andere bronnen
 
@@ -34,25 +29,21 @@ een determinatie uitgevoerd kan worden door middel van een cgi-script.
 - Blackboard course thema 1
 
 ### Competenties
-\-
+1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)
 
 ### Werkvormen
-
 - Action learning
 
 ### Ingangseisen
 \- 
 
-#### Ingangseisen toets
-\-
-
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
 ### Verplicht materiaal
