@@ -2,7 +2,7 @@
   "name": "VakomschrijvingenBFV",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/MichielNoback/vakomschrijvingen_bioinformtica.git",
+  "repository": "https://github.com/MichielNoback/vakomschrijvingen_bioinformatica.git",
   "author": "Michiel <m.a.noback@pl.hanze.nl>",
   "license": "MIT",
   "devDependencies": {
