@@ -28,3 +28,10 @@
     * [Bio-informatica 1](thema-03/bioinformatica1.md)
     * [Presenteren](thema-03/presenteren.md)
     * [SLB](thema-03/SLB1_3.md)
+
+* [Thema 1.4](thema-04/README.md)
+    * [Praktijkopdracht](thema-04/praktijkopdracht04.md)
+    * [Informatica 3 (Python 3)](thema-04/informatica4.md)
+    * [Biologie 3](thema-04/biologie4.md)
+    * [Bio-informatica 1](thema-04/statistiek12.md)
+    * [SLB](thema-04/SLB1_4.md)

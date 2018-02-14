@@ -1,13 +1,13 @@
-# Module: __MODULENAAM__
+# Module: Praktijkopdracht
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
-| ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
+| Osiriscode  | BFVP17PRBF4  |
+| ECTS  | 4 |
+| Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
+| Docent(en)  | PARN, WERD |
+| Contactpersoon  | PARN |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
@@ -20,25 +20,17 @@ __AANVULLEN__
 
 ### Literatuur en andere bronnen
 
-**Literatuur**  
+**Literatuur**
 - __BOEKEN__
 
 **Web**
 - Blackboard course thema XX
 
 ### Competenties
-1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)
+1(I), 2(I), 3(I), 4(I), 5(I), 6(I), 7(I), 11(I), 13(I)
 
 ### Werkvormen  
-
-__KIES UIT__
-
 - Praktijkopdrachten/Projectonderwijs  
-- Hoorcollege
-- Werkcollege
-- Hoor/werkcolleges
-- Peer review
-- Zelfstudie
 
 #### Ingangseisen 
 \- 
