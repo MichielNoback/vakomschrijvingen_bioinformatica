@@ -6,11 +6,13 @@ Meer informatie? Neem contact op via de Hanzehogeschool.
 
 De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg toe: *AT*pl.hanze.nl:  
 
+- **????** Evelien Borgonjon (????)
 - **BOJP** Jasper Bosman (j.bosman)
 - **FEFE** Fenna Feenstra (f.feenstra)
 - **HEMI** Martijn Herber (m.herber)
 - **LADR** Dave Langers (d.r.m.langers)
 - **KEMC** Marcel Kempenaar (m.kempenaar)
+- **LUMF** Mirjam Lurvink (m.f.lurvink)
 - **NOMI** Michiel Noback (m.a.noback)
 - **PARN** Arne Poortinga (a.m.poortinga)
 - **WATS** Tsjerk Wassenaar (t.a.wassenaar)
