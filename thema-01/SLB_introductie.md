@@ -47,24 +47,24 @@ Studievoortgang is hierbij een belangrijk onderdeel.
 - Individueel
 - Groepsgesprek
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

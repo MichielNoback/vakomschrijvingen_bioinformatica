@@ -38,24 +38,24 @@ In deze module wordt de programmeertaal Python verder verkend en worden specifie
 ### Werkvormen  
 - Hoor/werkcolleges
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

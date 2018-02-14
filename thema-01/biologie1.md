@@ -53,24 +53,24 @@ Biologie 1 geeft een overzicht van de diversiteit van het leven en de student ma
 
 Elke week staat er 1 blok van drie contacturen op het rooster. Eén les is gereserveerd voor Biologie, het andere voor (verplichte) lessen Studievaardigheden, en tijdens Biologie Opdrachten wordt geoefend met de studiestof . Tijdens de lessen Biologie zal twee maal een bonustoets worden afgenomen. Verder wordt 1 les Studievaardigheid gebruikt om een diagnostische toets Engels te maken. De punten die verdiend zijn met de bonusopdrachten tellen samen met het tentamencijfer voor het eindcijfer.
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

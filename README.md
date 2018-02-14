@@ -6,7 +6,7 @@ Meer informatie? Neem contact op via de Hanzehogeschool.
 
 De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg toe: *AT*pl.hanze.nl:  
 
-- **????** Evelien Borgonjon (????)
+- **BEVL** Evelien Borgonjon (e.a.s.h.l.borgonjon)
 - **BOJP** Jasper Bosman (j.bosman)
 - **FEFE** Fenna Feenstra (f.feenstra)
 - **HEMI** Martijn Herber (m.herber)

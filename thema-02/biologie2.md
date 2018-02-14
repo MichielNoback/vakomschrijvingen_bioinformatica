@@ -47,24 +47,24 @@ In Biologie 2 worden de macromoleculen in detail beschreven. Daarnaast wordt er 
 ### Werkvormen  
 - Hoorcollege
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

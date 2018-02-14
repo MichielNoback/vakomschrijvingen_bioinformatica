@@ -27,10 +27,10 @@ Visualisatie van een dataformat uit de bio-informatica met behulp van Python web
 
 ### Literatuur en andere bronnen
 
-**Literatuur**
+**Literatuur**  
 \- 
 
-**Web**
+**Web**  
 - Blackboard course thema 3
 
 ### Competenties
@@ -39,24 +39,24 @@ Visualisatie van een dataformat uit de bio-informatica met behulp van Python web
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

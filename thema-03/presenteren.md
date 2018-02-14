@@ -40,24 +40,24 @@ Het onderdeel Presenteren binnen het thema is een voorbereiding op de eindpresen
 
 De student wordt beoordeeld op de inhoud van de presentatie en presentatievaardigheden en op de reflectie hierop. De beoordeling is voldoende of onvoldoende. Het resultaat wordt individueel ingevoerd in Progress op het moment dat aan alle verplichtingen is voldaan (verslag van leerdoelen en reflectie, 10-minutenpresentatie tijdens werkcollege, voldoende aanwezigheid tijdens de lessen, aanwezigheid tijdens eindpresentatie).
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

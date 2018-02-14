@@ -46,24 +46,24 @@ Onderwijsvorm: Per kwartaal zijn 2 lesblokken van 1.5 uur SLB ingepland. Daarnaa
 - Aanwezig zijn en actief deelnemen aan alle groepsbijeenkomsten en andere geplande bijeenkomsten.
 - Portfolio met alle opdrachten bijhouden en volgens afspraak inleveren.
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

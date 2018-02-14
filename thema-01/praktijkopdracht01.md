@@ -34,7 +34,7 @@ Dit houdt in: Programmeren gebruiken voor het beantwoorden van biologische vrage
 ### Werkvormen
 - Praktijkopdrachten/Projectonderwijs  
 
-### Ingangseisen
+#### Ingangseisen
 \- 
 
 #### Voorkennis
@@ -46,9 +46,9 @@ Dit houdt in: Programmeren gebruiken voor het beantwoorden van biologische vrage
 #### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-#### Aanbevolen materiaal
+##### Aanbevolen materiaal
 \-
 

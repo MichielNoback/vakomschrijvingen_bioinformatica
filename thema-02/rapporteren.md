@@ -44,25 +44,25 @@ Tijdens de werkcolleges wordt aan de hand van opleidinggerelateerde teksten, geo
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  
 
-### Ingangseisen 
+#### Ingangseisen 
 Diagnostische taaltoets startvaardigheden Nederlands
 Bij alle eerstejaars studenten wordt sinds 2014-2015 een taaltoets Nederlands afgenomen. Deze taaltoets vindt plaats aan het einde van kwartaal 1.Studenten die een onvoldoende op de diagnostische taaltoets hebben gehaald, zijn verplicht een deficiëntiecursus te volgen. Deze wordt in kwartaal 3 aangeboden.
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 

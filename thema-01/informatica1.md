@@ -47,21 +47,21 @@ Van Python worden de volgende onderwerpen behandeld:
 ### Werkvormen
 - Hoor/werkcolleges
 
-### Ingangseisen
+#### Ingangseisen
 \- 
 
-#### Voorkennis
+##### Voorkennis
 \-
 
 #### Voorkennis kan worden opgedaan met
 \-
 
-#### Bronnen van zelfstudie
+##### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-#### Aanbevolen materiaal
+##### Aanbevolen materiaal
 \-
 

@@ -23,7 +23,7 @@ Uit de beroepspraktijk van het HBO is gebleken dat de Nederlandse taalvaardighed
 Studenten die slagen voor de toets zijn klaar. Studenten die zakken moeten verplicht een bijspijkercursus Nederlands volgen. Deze cursus wordt besloten met een toets. 
 Met het afronden van deze cursus hebben studenten voldaan aan de instapverplichting Startvaardigheden Nederlands. Studenten die ook op de laatste toets een onvoldoende halen krijgen een volgadvies en, waar nodig, extra begeleiding.
  
-### Literatuur en andere bronnen
+#### Literatuur en andere bronnen
 
 **Literatuur**
 - Syllabus "Regels voor correct taalgebruik"
@@ -37,24 +37,24 @@ Met het afronden van deze cursus hebben studenten voldaan aan de instapverplicht
 ### Werkvormen  
 - Hoorcollege
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 
