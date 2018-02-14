@@ -20,7 +20,7 @@ __AANVULLEN__
 
 ### Literatuur en andere bronnen
 
-**Literatuur**
+**Literatuur**  
 - __BOEKEN__
 
 **Web**
@@ -40,24 +40,24 @@ __KIES UIT__
 - Peer review
 - Zelfstudie
 
-### Ingangseisen 
+#### Ingangseisen 
 \- 
 
-### Ingangseisen toets
+#### Ingangseisen toets
 \- 
 
 #### Voorkennis
 \-
 
-### Voorkennis kan worden opgedaan met
+#### Voorkennis kan worden opgedaan met
 \-
 
-### Bronnen van zelfstudie
+#### Bronnen van zelfstudie
 \-
 
-### Verplicht materiaal
+#### Verplicht materiaal
 \-
 
-### Aanbevolen materiaal
+#### Aanbevolen materiaal
 \-
 
