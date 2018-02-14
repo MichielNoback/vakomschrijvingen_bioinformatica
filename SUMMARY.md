@@ -21,3 +21,10 @@
     * [Rapporteren propedeuse](thema-02/rapporteren.md)
     * [SLB](thema-02/SLB1_2.md)
 
+* [Thema 1.3](thema-03/README.md)
+    * [Praktijkopdracht](thema-03/praktijkopdracht03.md)
+    * [Informatica 3 (Python 3)](thema-03/informatica3.md)
+    * [Biologie 3](thema-03/biologie3.md)
+    * [Bio-informatica 1](thema-03/bioinformatica1.md)
+    * [Presenteren](thema-03/presenteren.md)
+    * [SLB](thema-03/SLB1_3.md)
