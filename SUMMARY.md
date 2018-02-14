@@ -11,9 +11,13 @@
     * [Chemie 1](thema-01/chemie1.md)
     * [Basisvaardigheden Wiskunde](thema-01/basisvaardigheden_wiskunde.md)
     * [Startvaardigheden Nederlands](thema-01/startvaardigheden_nederlands.md)
-    * [Chemie 1](thema-01/SLB_introductie.md)
+    * [SLB/introductie](thema-01/SLB_introductie.md)
     
 * [Thema 1.2](thema-02/README.md)
     * [Praktijkopdracht](thema-02/praktijkopdracht02.md)
     * [Informatica 2 (Python 2)](thema-02/informatica2.md)
     * [Biologie 2](thema-02/biologie2.md)
+    * [Chemie 2](thema-02/chemie2.md)
+    * [Rapporteren propedeuse](thema-02/rapporteren.md)
+    * [SLB](thema-02/SLB1_2.md)
+
