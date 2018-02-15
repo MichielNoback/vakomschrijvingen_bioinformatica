@@ -1,6 +1,6 @@
 # Summary
 
-* [Introductie](README.md)
+* [Inleiding](README.md)
 
 ### Jaar 1
 
@@ -35,3 +35,11 @@
     * [Biologie 4](thema-04/biologie4.md)
     * [Statistiek 1+2](thema-04/statistiek12.md)
     * [SLB4](thema-04/SLB1_4.md)
+
+### Jaar 2
+
+* [Thema 2.1](thema-05/README.md)
+    * [Praktijkopdracht](thema-05/praktijkopdracht05.md)
+    * [Bio-informatica 2](thema-05/bioinformatica2.md)
+    * [Biochemie 1](thema-05/biochemie1.md)
+    * [Databases 1](thema-05/databases1.md)

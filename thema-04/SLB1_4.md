@@ -1,8 +1,8 @@
-# Module: __MODULENAAM__
+# Module: SLB 4
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
+| Osiriscode  | LSVP7STB1D  |
 | ECTS  | 1 |
 | Toetsvorm  | Opdracht/Portfolio |
 | Minimum cijfer  | V |
@@ -41,7 +41,7 @@ Portfolio met alle opdrachten bijhouden en volgens afspraak inleveren.
 - Blackboard course Studieloopbaanbegeleiding ILST.
 
 ### Competenties
-1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)
+\-
 
 ### Werkvormen  
 - Hoorcollege
