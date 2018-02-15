@@ -1,4 +1,4 @@
-# Module: Praktijkopdracht thema 6
+# Module: Praktijkopdracht Thema 6
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |

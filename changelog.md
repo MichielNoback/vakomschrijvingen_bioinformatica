@@ -10,14 +10,10 @@ Houdt deze vorm aan voor het changelog:
 
 ## 2017-2018
 
-- [2018-01-11] *__Biologie 1, thema 01__*   
-    nieuwe leerdoelen geformuleerd. 
+- [2018-02-15] *__Biologie 1, thema 01__*   
+    Geheel herzien. 
     - __In Osiris: Nee__
-- [2018-01-10]  *__Databases 1, thema 06__*   
-    extra docent. 
-    - __In Osiris: Nee__
-- [2017-11-09] *__Biochemie 1, thema 06__*    
-    ander boek: blablabla. 
-    - __In Osiris: Ja__
+
+
 
 
