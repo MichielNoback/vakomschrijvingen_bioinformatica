@@ -1,6 +1,7 @@
 # Summary
 
 * [Inleiding](README.md)
+* [Bekijk wijzigingen](changelog.md)
 
 ### Jaar 1
 
@@ -43,3 +44,10 @@
     * [Bio-informatica 2](thema-05/bioinformatica2.md)
     * [Biochemie 1](thema-05/biochemie1.md)
     * [Databases 1](thema-05/databases1.md)
+
+* [Thema 2.2](thema-06/README.md)
+    * [Praktijkopdracht](thema-06/praktijkopdracht06.md)
+    * [Genetica 1](thema-06/genetica1.md)
+    * [Biochemie 2](thema-06/biochemie2.md)
+    * [Databases 2](thema-06/databases2.md)
+    * [SLB5](thema-06/SLB2_2.md)

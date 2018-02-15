@@ -12,34 +12,35 @@
 
 ## Cursusdoelen (leerdoelen)
 
-Na afloop van deze module kun je:  
+De student kan na afloop van deze module:  
 
-- De 3 domeinen van het leven benoemen en kenmerken van de domeinen weergeven.
-- De verschillende organisatie niveaus benoemen en voorbeelden kunnen geven.
-- Beschrijven hoe een fylogenetische stamboom is opgebouwd en welke middelen nodig zijn om een fylogenetische stamboom te maken.
-- Benoemen welke 4 verschillende weefsels bestaan, welke soorten tot elk weefseltype behoren en beschrijven hoe elke soort herkend kan worden.
-- Het belang van een juist intern evenwicht/fysiologisch milieu in het lichaam en hoe dit in stand wordt gehouden  kunnen uitleggen
-- De opbouw en groei van planten beschrijven en  de morfologie van planten kunnen herkennen.
-- Uitleg geven over diverse kenmerken van prokaryoten en hun rol in de biosfeer beschrijven.
-- De opbouw en leefstijlen van schimmels beschrijven en voorbeelden van voor en nadelen van schimmels kunnen geven.
-- Engelse (biologie) teksten effectief gebruiken
+- de verschillende Thema's in de Biologie noemen en deze toepassen op voorbeelden uit het dagelijks leven. De student kan de evolutie theorie van Darwin gebruiken om de eenheid en diversiteit van het leven te verklaren. 
+- algemene kenmerken van DNA, RNA en eiwitten benoemen en de processen van DNA reproductie, transcriptie en translatie beschrijven. Ook de effecten van verschillende nucleotide mutaties kunnen gegeven en toegelicht worden. 
+- beschrijven hoe een fylogenetische stamboom is opgebouwd en welke middelen nodig zijn om een fylogenetische stamboom te maken. 
+- het ontstaan van het leven op aarde in chronologische volgorde geven en verklaren hoe de verschillende levensvormen geëvolueerd zijn. 
+- verschillende kenmerken van prokaryoten opnoemen en deze kenmerken verklaren. De rol van prokaryoten in de biosfeer kan de student ook beschrijven en nader uitleggen. 
+- de opbouw van schimmels beschrijven en de twee voortplantingscycli benoemen en elke stap hierin toelichten. Daarnaast kan de student de verschillende rollen van schimmels geven en verklaren. 
+- de opbouw van planten beschrijven, de verschillende organen, weefsels en cellen van een plant omschrijven en voorbeelden van aangepaste organen kennen.
+- aangeven hoe orgaansystemen zijn opgebouwd, uitleggen wat het belang is van een juist intern evenwicht/fysiologisch milieu in het lichaam en hoe dit in stand wordt gehouden. 
 
 ## Inhoud
 
-Biologie 1 geeft een overzicht van de diversiteit van het leven en de student maakt kennis met een aantal van de belangrijkste groepen organismen; de dieren, planten en schimmels (inclusief gisten). De nadruk ligt hierbij op de organen, weefsels en cellen waaruit deze verschillende typen organismen bestaan en op hun groei en ontwikkeling.
+Biologie 1 geeft een overzicht van (het ontstaan van) de diversiteit van het leven en de student maakt kennis met het centrale Dogma (DNA - RNA - eiwit). Prokaryote en eukaryote organismen worden behandeld, waarbij de nadruk ligt op hun opbouw, uiterlijke kenmerken en de rollen die deze verschillende typen organismen kunnen spelen op aarde.
 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
 
-- Hoofdstukken uit Campbell Biology 10e editie (ISBN-10 1-292-00865-2)  
-    - H1: Diversiteit van het leven 
-    - H22: Fylogenie 
-    - H25: Macroevolutie 
-    - H27: Prokaryoten en Archaea 
-    - H31: Schimmels 
-    - H35: Planten 
-    - H40: Dierlijke weefsels
+- Hoofdstukken uit Campbell Biology 11e editie (ISBN- 9781784497897)
+    - H1: Biology and its Themes  
+    - H16: Nucleic Acids and Inheritance
+    - H17: Expression of Genes
+    - H22: Phylogenetic Reconstruction
+    - H25: Macroevolution
+    - H27: Prokaryotes 
+    - H31: Introduction to Fungi 
+    - H35: Plant Structure and Growth
+     - H40: The Animal Body
 
 
 **Web**
@@ -51,7 +52,7 @@ Biologie 1 geeft een overzicht van de diversiteit van het leven en de student ma
 ### Werkvormen  
 - Hoorcollege
 
-Elke week staat er 1 blok van drie contacturen op het rooster. Eén les is gereserveerd voor Biologie, het andere voor (verplichte) lessen Studievaardigheden, en tijdens Biologie Opdrachten wordt geoefend met de studiestof . Tijdens de lessen Biologie zal twee maal een bonustoets worden afgenomen. Verder wordt 1 les Studievaardigheid gebruikt om een diagnostische toets Engels te maken. De punten die verdiend zijn met de bonusopdrachten tellen samen met het tentamencijfer voor het eindcijfer.
+Elke week staat er 1 blok van twee contacturen op het rooster. Eén les is gereserveerd voor Biologie, het andere voor (verplichte) lessen Studievaardigheden. Tijdens de lessen worden opdrachten met het boek, de Glossary en Mastering Biology gemaakt. Indien gewenst kunnen extra oefeningen gemaakt worden tijdens een huiswerk les. Neem hiervoor contact op met je docent. 
 
 #### Ingangseisen 
 \- 

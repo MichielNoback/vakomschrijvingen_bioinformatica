@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 | Osiriscode  | BFVH15BCH  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
+| Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | S.M. Nabuurs |
 | Contactpersoon  | S.M. Nabuurs |
