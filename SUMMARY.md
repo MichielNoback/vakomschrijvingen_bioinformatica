@@ -64,3 +64,11 @@
     * [Immunologie 1](thema-08/immunologie1.md)
     * [Moleculaire biologie](thema-08/moleculaire_biologie.md)
     * [SLB6](thema-08/SLB2_4.md)
+
+## Jaar 3
+
+* [Thema 9: Introduction to Machine Learning](thema-09/Readme.md)
+    * [Praktijkopdracht](thema-09/praktijkopdracht09.md)
+    * [Introductie Datamining](thema-09/introductie_datamining.md)
+    * [Introductie Java](thema-09/introductie_java.md)
+    * [Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
