@@ -1,4 +1,4 @@
-# Kwartaal 2.4: Introduction to Machine Learning
+# Kwartaal 3.1: Introduction to Machine Learning
 
 **Thema-coordinator: ?? [????]**
 

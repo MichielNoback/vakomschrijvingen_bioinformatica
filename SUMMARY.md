@@ -72,3 +72,9 @@
     * [Introductie Datamining](thema-09/introductie_datamining.md)
     * [Introductie Java](thema-09/introductie_java.md)
     * [Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
+
+* [Thema 10: Research web applications](thema-10/Readme.md)
+    * [Praktijkopdracht](thema-10/praktijkopdracht10.md)
+    * [Web-based informatiesystemen 1](thema-10/webbased1.md)
+    * [Genetica 2](thema-10/genetica2.md)
+    * [Statistiek 4](thema-10/statistiek4.md)
