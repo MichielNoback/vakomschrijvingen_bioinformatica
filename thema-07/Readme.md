@@ -1,4 +1,4 @@
-# Kwartaal 2.2: Analyse van Genexpressie
+# Kwartaal 2.3: Analyse van Genexpressie
 
 **Thema-coordinator: Marcel Kempenaar [KEMC]**
 

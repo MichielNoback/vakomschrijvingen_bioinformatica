@@ -57,3 +57,10 @@
     * [Statistiek 3](thema-07/statistiek3.md)
     * [Algoritmen en Datastructuren](thema-07/algoritmen_datastructuren.md)
     * [Microbiologie 1](thema-07/microbiologie1.md)
+
+* [Thema 8: Introduction to Systems Biology](thema-08/Readme.md)
+    * [Praktijkopdracht](thema-08/praktijkopdracht08.md)
+    * [Microbiologie 2](thema-08/microbiologie2.md)
+    * [Immunologie 1](thema-08/immunologie1.md)
+    * [Moleculaire biologie](thema-08/moleculaire_biologie.md)
+    * [SLB6](thema-08/SLB2_4.md)
