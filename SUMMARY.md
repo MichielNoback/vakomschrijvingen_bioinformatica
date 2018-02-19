@@ -78,3 +78,43 @@
     * [Web-based informatiesystemen 1](thema-10/webbased1.md)
     * [Genetica 2](thema-10/genetica2.md)
     * [Statistiek 4](thema-10/statistiek4.md)
+    * [SLB7](thema-10/SLB3_1.md)
+
+### Minor Application Design
+
+* [Thema 11: Application Design](thema-11AD/Readme.md)
+    * [Praktijkopdracht](thema-11AD/praktijkopdracht11AD.md)
+    * [Application Design](thema-11AD/appdesign.md)
+    * [Immunologie 2](thema-11AD/immunologie2.md)
+    * [Dataprocessing](thema-11AD/dataprocessing.md)
+
+* [Thema 12: Visualisatie en gebruikersinteractie](thema-12AD/Readme.md)
+    * [Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
+    * [Application Design](thema-12AD/webbased2.md)
+    * [Statistiek 5](thema-12AD/statistiek5.md)
+    * [SLB8](thema-12AD/SLB3_2.md)
+
+### Minor High performance/High throughput Biocomputing
+
+* [Thema 11: Advanced datamining](thema-11DM/Readme.md)
+    * [Praktijkopdracht](thema-11DM/praktijkopdracht11DM.md)
+    * [Advanced datamining](thema-11DM/advanced_datamining.md)
+    * [Immunologie 2](thema-11AD/immunologie2.md)
+    * [Dataprocessing](thema-11AD/dataprocessing.md)
+
+* [Thema 12: Visualisatie en gebruikersinteractie](thema-12DM/Readme.md)
+    * [Praktijkopdracht](thema-12DM/praktijkopdracht12DM.md)
+    * [Big data computing](thema-12DM/bd_computing.md)
+    * [Statistiek 5](thema-12AD/statistiek5.md)
+    * [SLB8](thema-12AD/SLB3_2.md)
+
+## Jaar 4
+
+* [Eerste semester: Stage](thema-13_14/Readme.md)
+    * [Stage](thema-13_14/stage.md)
+    * [Rapporteren stage](thema-13_14/rapp_stage.md)
+    * [Kwaliteitszorg](thema-13_14/kwaliteitszorg.md)
+    * [Arbo](thema-13_14/arbo.md)
+
+* [Tweede semester: Afstuderen](thema-15_16/Readme.md)
+    * [Afstuderen](thema-15_16/afstuderen.md)
