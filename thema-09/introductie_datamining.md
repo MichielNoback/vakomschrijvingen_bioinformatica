@@ -4,38 +4,30 @@
 | ------------- | ------------- |
 | Osiriscode  | __OSIRISCODE__  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
+| Toetsvorm  | Schriftelijk tentamen ??? |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
+| Docent(en)  | ???? |
+| Contactpersoon  | ???? |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
 
-__AANVULLEN__
+- Samenstellen relevante datasets, opschonen en sorteren ervan
+- Kunnen kiezen tussen verschillende veel gebruikte dataminingtechnologieen
+- Opzetten trainings- en testomgevingen
+- Analyse van grote datasets
+- Wetenschappelijke poster maken
+- Zelfstandig uitvoeren onderzoek
 
 ## Inhoud
 
-Naast het hoofdonderwerp Data Mining en -heel belangrijk- research skills zijn dit aspecten van verschillende leerlijnen die hier in een rol moeten krijgen:
-- Verslaglegging - Resultaten en Discussie (en summier geheel verslag)
-- Ondernemerschap -
-    1.	Kwaliteitszorg (statistiek, controles, benchmarks). Minimaal 2 uit de volgende vier aspecten worden door de student uitgevoerd tijdens het practicum (keuze uit 1 of 2 en keuze uit 3 of 4):  
-        1.	De student ontwerpt controles om de betrouwbaarheid van eigen code (of die van projectpartners) te borgen. 
-        2.	De student ontwerpt een of meerdere benchmark experimenten om verschillende analyse tools te vergelijken met als doel de meest geschikte voor een bepaalde analyse/proces te selecteren
-        3.	De student zet statistiek in om eigen resultaten te evalueren
-        4.	De student ontwerpt een experimentele opzet om een bepaalde (deel-)onderzoeksvraag te beantwoorden
-    2.	Bedenk een practicumproject voor een minor. De student moet, op basis van het eigen werk in thema 9, een potentieel interessant project bedenken die in een van de verdiepende minors van de opleiding bio-informatica uitgevoerd kan worden. Hiervoor moet een partner uit het werkveld gezocht worden.
-- Versiebeheer - richting gevorderd git gebruik, vooral lettend op een schone/heldere commit geschiedenis, maar ook inclusief pull requests en bv forks.
-- Competitie - meerdere koppels werken aan hetzelfde probleem 
-
-Alegemene opzet
-Voor de themaopdracht kiezen studenten in groepen van 2 (of 3) studenten een project. Bij voorkeur zal dat een project zijn via Alife/KCBBE/Health hub/UMCG. Indien er geen of onvoldoende projecten zijn, kunnen studenten op een van deze sites zelf gaan zoeken
-
+Tijdens deze module wordt ennis gemaakt met datamining toepassingen en -analyses. Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om in een oogopslag de biologische vraag erachter te kunnen oplossen. Bijvoorbeeld “hoe veel multi-drug transporters vindt ik in dit metagenomics sample uit het ziekenhuis” (belangrijk voor antibiotica-resistentie). Door gebruik te maken van machine learning technieken kan in een grote, complexe dataset gezocht worden naar een grootste gemene deler, een “idee” van een eiwit ipv een specifiek eiwit uit een specifiek organisme (dat zou een klus voor Blast zijn). Tijdens dit practicum wordt een openliggende onderzoeksvraag gesteld en een dataset erbij gezocht (of andersom), uit de onderzoeksportfolio van ALIFE of een ander onderzoeksinstituut. Er wordt onderzocht of, en zo ja welke, machine learning technieken de gestelde vraag kunnen beantwoorden. Deze worden vervolgens geïmplementeerd en geëvalueerd op test datasets en uiteindelijk op de complete dataset indien mogelijk. Dit practicum is deel 1 van een 2 kwartaals-specialisatie; in deel 2 worden de gekozen technieken geparalleliseerd om de hele dataset te kunnen verwerken en de onderszoeksvraag te beantwoorden.
+literatuur
 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Introduction Datamining (4th edition):
+- Witten, Frank, Hall & Pal. Data Mining - Practical Machine Learning Tools and Techniques (4th edition) ISBN 978-0-12-804291-5:
     - Chapter 1: § 1, 2, 4, 5, 6(?)
     - Chapter 2: geheel
     - Chapter 3: § 1 (rest wordt als intro bij andere hoofdstukken behandeld)
@@ -45,23 +37,14 @@ Voor de themaopdracht kiezen studenten in groepen van 2 (of 3) studenten een pro
     - Chapter 7: § 1
     - Chapter 8: § 1, 2 (eerste sectie)
 
-
 **Web**
 - Blackboard course thema 9
 
 ### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
+\-
 
 ### Werkvormen  
-
-__KIES UIT__
-
-- Praktijkopdrachten/Projectonderwijs  
 - Hoorcollege
-- Werkcollege
-- Hoor/werkcolleges
-- Peer review
-- Zelfstudie
 
 #### Ingangseisen 
 \- 

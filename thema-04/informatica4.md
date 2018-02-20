@@ -14,32 +14,37 @@
 
 After taking this course, you should be able to  
 
-- perform basic command line tasks for file-, data- and tool-management
-- use the R IDE RStudio for writing and executing R code
-- use R Markdown at an intermediate level to create reporting documents with embedded R code and output
-- read R documentation and apply these to your work cases
-- know the basic R data types (vectors, lists and data frames), and how to use and manipulate them
-- write R syntax using functions and flow control, and combine these elements into a functional, readable script (or a Markdown file)
+- perform basic Linux command line tasks for file-, data- and tool-management. These include `alias`, `at`, `atq`, `atrm`, `cat`, `cd`, `cp`, `chmod`, `echo`, `egrep`, `export`, `find`, `head`, `htop`, `less`, `ls`, `man`, `mkdir`, `mv`, `nano`, `pwd`, `rm`, `rmdir`, `sed`, `tail`, `top`, and `touch`
+- use the R Integrated Development Environment (IDE) RStudio for writing and executing R code
+- use R Markdown at an intermediate level to create reporting / logfile documents with embedded R code and output
+- read R documentation and apply these to your work
+- know the basic R data types (vectors, factors, lists and data frames), and how to filter and manipulate them
+- write R syntax, also using functions and flow control, and combine these language constructs into a functional, readable script (or a Markdown file)
 - install and use external R libraries
-- import and export data from and to text files 
+- import and export data from and to text files, mainly in csv format
 - perform exploratory data analysis using both textual and graphical output
 - create well-decorated charts and figures and use them appropriately
 
 
 ## Inhoud
 
-The (Linux) Shell offers a wealth of tools that help you perform data processing tasks easy(er). In this course, the basics will be demonstrated.  
-R is a programming language and software environment for data analysis, statistical computing and visualization. In this course you will learn to use R in these three areas, in particular data analysis and visualization.
-
+The (Linux) Shell offers a wealth of tools that help you perform data processing tasks easy(ier). In this course, the basics will be dealt with.  
+R is a programming language and software environment for data analysis, statistical computing and visualization. In this course you will learn to use R in these three areas, in particular data analysis and visualization. The accompanying statistics course [Statistiek1+2](statistiek12.md) of this theme deals with the more statistical aspects.
 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-\-
+- John Verzani. Using R for Introductory Statistics (second edition, 2014). CRC Press ISBN 13-978-1-4665-9073-1  
+    - Chapter 1
+    - Chapter 2.1, 2.2
+    - Chapter 3.2
+    - Chapter 4
+    - Chapter 5.1
+Note this does not restrict the theory; everythong dealt with in the presentations is supposed to be known.
 
 **Web**
 - Blackboard course thema 4
-- [Website NOMI](https://bioinf.nl/~michiel/courses/info4/index.html)
+- [Website NOMI](https://bioinf.nl/~michiel/courses/info4/)
 
 ### Competenties
 \-
@@ -47,13 +52,11 @@ R is a programming language and software environment for data analysis, statisti
 ### Werkvormen  
 - Hoor/werkcolleges
 
-**assessment**
+**Beoordeling**
 This course will be assessed using a 2-hour practical computer test. You are supposed to give all solutions/answers in an R Markdown file and submit both the markdown file and its Knitted PDF. These aspects will be taken into account when grading your work:  
 
-- Correctness and quality (efficiency/effectiveness) of the solutions [60%]
-- Code neatness: code structure, naming, comments [10%]
-- The completeness of figures (axes, legends, titles) [15%]
-- The quality of the solutions document: formatting/layout, description and explanation of results [15%]
+- Correctness and quality (efficiency/effectiveness) of the solutions
+- The completeness of figures (axes, legends, titles)
 
 #### Ingangseisen 
 \- 
@@ -62,7 +65,7 @@ This course will be assessed using a 2-hour practical computer test. You are sup
 \- 
 
 #### Voorkennis
-It is strongly advised to have acquired knowledge of basic descriptive and inferential statistics (mean, median, distributions, t-test, chi-square test, p-values etc.) before taking this course. 
+\-
 
 #### Voorkennis kan worden opgedaan met
 \-
