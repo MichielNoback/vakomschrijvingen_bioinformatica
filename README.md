@@ -18,6 +18,13 @@ De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg to
 - **WATS** Tsjerk Wassenaar (t.a.wassenaar)
 - **WERD** Ronald Wedema (r.wedema)
 
+Docenten uit andere teams:  
+
+- **VRTI** Titia Vrenken (t.e.vrenken)
+- **ZWJI** Jessica Zweers (j.c.zweers)
+
+M.J.J.B. Sibbald, 	J.C. Zweers
+
 De competenties waarnaar via nummering wordt verwezen staan beschreven in de opleidingsbeschrijving.
 Deze zijn:
 
@@ -34,4 +41,5 @@ Deze zijn:
 11: Projectmatig werken (Leidinggeven)  
 12: Samenwerken in onderzoeksteam (Leidinggeven)  
 13: Zelfsturing (Zelfsturing)  
+
 

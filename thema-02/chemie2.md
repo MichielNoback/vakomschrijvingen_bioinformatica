@@ -12,11 +12,13 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- Berekeningen uitvoeren aan hoeveelheden en concentraties in de diverse in het laboratorium gebruikelijke eenheden
+- Berekeningen uitvoeren aan hoeveelheden en concentraties van stoffen
 - Berekeningen uitvoeren aan chemische reacties
 - Beschrijven hoe een chemische reactie verloopt en beschrijven welke factoren de snelheid ervan bepalen
 - De leer van de chemische evenwichten (ligging en verschuivingen) toepassen op oplossingen van zwakke zuren en basen
-- Berekeningen uitvoeren aan meerwaardige zuren/basen en buffersystemen van deze zuren/basen
+- Berekeningen uitvoeren aan oplossingen met zuren, basen en buffersystemen.
+- De werking en kinetiek van enzymen verklaren en toepassen in concrete voorbeelden.
+- De factoren benoemen en herkennen die de activiteit van enzymen beïnvloeden en/of reguleren.
 
 ## Inhoud
 
@@ -27,7 +29,7 @@ literatuur:
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- General, Organic, and Biochemistry, Denniston (hoofdstuk 5, 6, 7 en 8)
+- General, Organic, and Biochemistry, Denniston Hoofdstuk 4 t/m 8 en hoofstuk 19.
 - studiehandleiding (beschikbaar op BlackBoard)
 
 **Web**

@@ -9,6 +9,9 @@ Houdt deze vorm aan voor het changelog:
     - __In Osiris: Ja/Nee__
 
 ## 2017-2018
+- [2018-02-20] *__Module Chemie, thema 2__*   
+    Nieuwe leerdoelen en hoofdstukken boek). [Chemie 2](thema-02/chemie2.md)
+    - __In Osiris: Nee__
 - [2018-02-19] *__Module Application Design (Minor), thema 11__*   
     Herschreven vakomschrijving (ook toetsing). [Application Design](thema-11AD/appdesign.md)
     - __In Osiris: Nee__

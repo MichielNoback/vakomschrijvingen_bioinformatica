@@ -6,8 +6,8 @@
 | ECTS  | 3 |
 | Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | Titia Frenken |
-| Contactpersoon  | Titia Frenken |
+| Docent(en)  | Titia Vrenken |
+| Contactpersoon  | Titia Vrenken |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
