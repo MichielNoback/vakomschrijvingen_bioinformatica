@@ -23,14 +23,14 @@
 
 ## Inhoud
 
-Microbiologie 1 geeft een brede microbiële basis voor bio-informatica en biochemische studenten. In de module wordt uitvoerig ingegaan op de bouw en het functioneren van de bacterie.
+Microbiologie 1 geeft een brede microbiële basis voor bio-informatica studenten. In de module wordt uitvoerig ingegaan op de bouw en het functioneren van de bacterie.
 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
 - Brock Biology of Microorganisms, Madigan et al., 14th ed., Prentice Hall (2015)
     - H1 The Foundation of Microbiology [blz. 25-40]
-    - H2 Microbial Cell Structure and Function [blz. 49-87, tot Eukaryotic Microbial Cells] 
+    - H2 Microbial Cell Structure and Function [blz. 49-87, tot Eukaryotic Microbial Cells]
     - H3 Microbial Metabolism [blz. 103-120, tot Biosynthesis] 
     - H5 Microbial Growth and Control [blz. 182-195]
     - H12 Microbial evolution and systematics [blz. 372-398, tot Classification and Nomenclature]

@@ -15,13 +15,17 @@
 Na afloop van de module kan de student:  
 
 - De opbouw en de vorm van orbitalen in een atoom beschrijven;
-- Een link leggen tussen de electronen-niveaus en het periodiek systeem;
+- Een link leggen tussen de electronenconfiguraties en het periodiek systeem;
 - De octet-regel omschrijven en toepassen;
 - Lewis structuren tekenen voor moleculen en atomen;
 - De VSEPR theorie omschrijven en toepassen;
+- De polariteit voor een binding of molecuul voorspellen;
 - Berekeningen uitvoeren aan hoeveelheden en concentraties in de diverse in het laboratorium gebruikelijke eenheden;
 - Berekeningen uitvoeren aan chemische reacties.
-- Uitleg kunnen geven over reductie en oxidatie reacties.
+- De chemische structuur van een peptide tekenen en het effect van pH verandering op de structuur voorspellen;
+- De betekenis van de aminozuur-samenstelling cq volgorde voor de structuur van een eiwit duiden;
+- De verschillende niveaus van opbouw van een eiwit beschrijven en de bijbehorende bindingen en interacties benoemen.
+
 
 ## Inhoud
 
@@ -31,11 +35,11 @@ polariteit van moleculen.
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- General, organic and biochemistry, 8th ed. (2014), K.J. Denniston, J.J. Topping; R.L. Caret, McGrawHill.  
+- General, organic and biochemistry, 9th ed. (2017), K.J. Denniston, J.J. Topping; R.L. Caret, McGrawHill.  
     - C2: The structure of the atom and the periodic table  
     - C3: Structure and properties of ionic and covalent compounds
     - C4: Calculations and the chemical equation 
-    - C8.5: Oxidation-reduction processes
+    - C18: Protein structure and function
 - Chemie 1 Studiewijzer bij hoofdstuk 4 (Beschikbaar op blackboard.) 
 
 **Web**

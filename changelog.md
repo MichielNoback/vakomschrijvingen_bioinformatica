@@ -9,8 +9,15 @@ Houdt deze vorm aan voor het changelog:
     - __In Osiris: Ja/Nee__
 
 ## 2017-2018
+
+- [2018-02-20] *__Chemie 1, thema 1__*   
+    Leerdoelen aangepast en boek aangepast. [Chemie 1](thema-01/chemie1.md)
+    - __In Osiris: Nee__
+- [2018-02-20] *__Informatica 1, thema 1__*   
+    Item toegevoegd aan Inhoud ("inlezen van tekstfiles"). [Informatica 1](thema-01/informatica1.md)
+    - __In Osiris: Nee__
 - [2018-02-20] *__Web-based information systems 1, thema 10__*   
-    Zo goed als cmopleet herschreven vakomschrijving (ook toetsing). [Web-based informatiesystemen 1](thema-10/webbased1.md)
+    Zo goed als compleet herschreven vakomschrijving (ook toetsing). [Web-based informatiesystemen 1](thema-10/webbased1.md)
     - __In Osiris: Nee__
 - [2018-02-20] *__Introduction to Machine Learning, thema 09__*   
     Nieuwe module. [Introductie Datamining](thema-09/introductie_datamining.md). **LET OP: deze is nog niet compleet**

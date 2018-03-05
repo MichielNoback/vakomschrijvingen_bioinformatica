@@ -11,9 +11,9 @@
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
-Na het volgen van deze cursus kan de deelnemer omgaan met het Linux filesysteem.
-De cursist kan omgaan met code editors.
-Daarnaast kan de student een eenvoudig Python script ontwerpen en schrijven, gebruikmakend van variabelen, lijsten, dictionaries, flow control en functies
+- Na het volgen van deze cursus kan de deelnemer omgaan met het Linux filesysteem.
+- De cursist kan omgaan met code editors.
+- Daarnaast kan de student een eenvoudig Python script ontwerpen en schrijven, gebruikmakend van variabelen, lijsten, dictionaries, flow control en functies
 
 ## Inhoud
 
@@ -31,6 +31,7 @@ Van Python worden de volgende onderwerpen behandeld:
 - structuur van een script leren kennen
 - leren python documentatie opzoeken en gebruiken
 - een probleemstelling vertalen naar een functie of een script
+- inlezen van tekstfiles
 
 ### Literatuur en andere bronnen
 
