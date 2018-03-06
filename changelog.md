@@ -10,6 +10,9 @@ Houdt deze vorm aan voor het changelog:
 
 ## 2017-2018
 
+- [2018-02-20] *__Praktijkopdracht Thema 6, thema 6__*   
+    Vakomchrijving geheel herzien [Thema 6 opdracht](thema-06/praktijkopdracht06.md)
+    - __In Osiris: Nee__
 - [2018-02-20] *__Chemie 1, thema 1__*   
     Leerdoelen aangepast en boek aangepast. [Chemie 1](thema-01/chemie1.md)
     - __In Osiris: Nee__
