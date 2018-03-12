@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Inleiding · GitBook</title>
+        <title>Werkinstructie voor BFV docenten · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -61,8 +61,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="changelog.html" />
+    <link rel="next" href="thema-01/Readme.html" />
     
+    
+    <link rel="prev" href="changelog.html" />
     
 
     </head>
@@ -91,7 +93,7 @@
         
         
     
-        <li class="chapter active" data-level="1.1" data-path="./">
+        <li class="chapter " data-level="1.1" data-path="./">
             
                 <a href="./">
             
@@ -117,7 +119,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="werkinstructie.html">
+        <li class="chapter active" data-level="1.3" data-path="werkinstructie.html">
             
                 <a href="werkinstructie.html">
             
@@ -1442,7 +1444,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Inleiding</a>
+        <a href="." >Werkinstructie voor BFV docenten</a>
     </h1>
 </div>
 
@@ -1457,38 +1459,30 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="inleiding">Inleiding</h1>
-<h2 id="wat-is-dit">Wat is dit?</h2>
-<p>Dit <code>gitbook</code> bevat alle vakomschrijvingen van de opleiding bio-informatica van de Hanzehogeschool Groningen.<br>Het is vooral voor intern gebruik door docenten en studenten.<br>Meer informatie? Neem contact op via de Hanzehogeschool.</p>
-<p><a href="werkinstructie.html">Werkinstrucie voor git gebruikers</a></p>
-<h2 id="docenten">Docenten</h2>
-<p>De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg toe: <em>AT</em>pl.hanze.nl:  </p>
+                                <h1 id="werkinstructie-voor-bio-informatica-docenten">Werkinstructie voor bio-informatica docenten</h1>
+<p>Het volgende beschrijft de manier van werken door BFV docenten om dit gitbook up-to-date te houden, gebruikmakend van git.</p>
+<h3 id="prerequisites">Prerequisites</h3>
 <ul>
-<li><strong>BEVL</strong> Evelien Borgonjon (e.a.s.h.l.borgonjon)</li>
-<li><strong>BOJP</strong> Jasper Bosman (j.bosman)</li>
-<li><strong>FEFE</strong> Fenna Feenstra (f.feenstra)</li>
-<li><strong>HEMI</strong> Martijn Herber (m.herber)</li>
-<li><strong>LADR</strong> Dave Langers (d.r.m.langers)</li>
-<li><strong>KEMC</strong> Marcel Kempenaar (m.kempenaar)</li>
-<li><strong>LUMF</strong> Mirjam Lurvink (m.f.lurvink)</li>
-<li><strong>NOMI</strong> Michiel Noback (m.a.noback)</li>
-<li><strong>PARN</strong> Arne Poortinga (a.m.poortinga)</li>
-<li><strong>WATS</strong> Tsjerk Wassenaar (t.a.wassenaar)</li>
-<li><strong>WERD</strong> Ronald Wedema (r.wedema)</li>
+<li>Een github account</li>
+<li>een lokale <em>git</em> installatie</li>
 </ul>
-<p>Docenten uit andere teams:  </p>
+<h3 id="eerste-keer-gebruik">Eerste keer gebruik</h3>
 <ul>
-<li><strong>DIMH</strong> Marike Dijkstra (m.h.dijkstra)</li>
-<li><strong>KEYJ</strong> Jeanine de Keyzer (j.de.keyzer)</li>
-<li><strong>ROBI</strong> Hanna Robin (i.j.robin)</li>
-<li><strong>SIMA</strong> Mark Sibbald (m.j.j.b.sibbald)</li>
-<li><strong>VRTI</strong> Titia Vrenken (t.e.vrenken)</li>
-<li><strong>ZWJI</strong> Jessica Zweers (j.c.zweers)</li>
+<li>Fork de repository <a href="https://github.com/MichielNoback/vakomschrijvingen_bioinformatica" target="_blank">https://github.com/MichielNoback/vakomschrijvingen_bioinformatica</a></li>
+<li>Clone hem lokaal op je computer <code>git clone https://github.com/&lt;YourUserName&gt;/vakomschrijvingen_bioinformatica</code></li>
+<li>Breng wijzigingen aan in je lokale kopie</li>
+<li>Doe een Add <code>git add ...</code>, een Commit <code>git commit -m &lt;een goede omschrijving van wijzigingen&gt;</code> en een Push <code>git push origin master</code></li>
+<li>Op je github fork (<strong>website!</strong>): Stuur een pull request naar de originele repo. Zie voor hulp: <a href="https://help.github.com/articles/creating-a-pull-request-from-a-fork/" target="_blank">https://help.github.com/articles/creating-a-pull-request-from-a-fork/</a></li>
 </ul>
-<h2 id="competenties">Competenties</h2>
-<p>De competenties waarnaar via nummering wordt verwezen staan beschreven in de opleidingsbeschrijving.
-Deze zijn:</p>
-<p>1: Concretisering Vraagstelling (Onderzoeken)<br>2: De wetenschappelijke methode toepassen/De software  ontwikkelingscyclus doorlopen (Onderzoeken)<br>3: Rapporteren en presenteren van onderzoek (Onderzoeken)<br>4: Experimenten uitvoeren (Experimenteren)<br>5: Programmeren (Experimenteren)<br>6: Data beheren (Beheren)<br>7: Code beheren (Beheren)<br>8: Het eigen systeem beheren (Beheren)<br>9: Adviseren (Adviseren)<br>10: Instrueren (Instrueren)<br>11: Projectmatig werken (Leidinggeven)<br>12: Samenwerken in onderzoeksteam (Leidinggeven)<br>13: Zelfsturing (Zelfsturing)  </p>
+<h3 id="latere-updates">Latere updates</h3>
+<ul>
+<li>Voordat je start: sync met de &quot;Master&quot; repo; <ul>
+<li>Definieer een tweede remote, als je die nog niet hebt; zie <a href="https://help.github.com/articles/configuring-a-remote-for-a-fork/" target="_blank">https://help.github.com/articles/configuring-a-remote-for-a-fork/</a> (origin is dan je eigen repo op github en upstream die van mij)</li>
+<li>Sync die met je eigen locale repo: &#x201C;git pull upstream master&#x201D; of heel netjes volgens <a href="https://help.github.com/articles/syncing-a-fork/" target="_blank">https://help.github.com/articles/syncing-a-fork/</a></li>
+</ul>
+</li>
+<li>Breng je nieuwe wijzigingen aan, add, commit en push gevolgd door een pull request (zie &quot;Eerste keer gebruik&quot;)</li>
+</ul>
 
                                 
                                 </section>
@@ -1516,8 +1510,12 @@ Deze zijn:</p>
 
             
                 
+                <a href="changelog.html" class="navigation navigation-prev " aria-label="Previous page: Overzicht wijzigingen">
+                    <i class="fa fa-angle-left"></i>
+                </a>
                 
-                <a href="changelog.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Overzicht wijzigingen">
+                
+                <a href="thema-01/Readme.html" class="navigation navigation-next " aria-label="Next page: Thema 1: Orde in Chaos">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1528,7 +1526,7 @@ Deze zijn:</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Inleiding","level":"1.1","depth":1,"next":{"title":"Overzicht wijzigingen","level":"1.2","depth":1,"path":"changelog.md","ref":"changelog.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2018-03-12T09:41:47.018Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-12T09:44:21.448Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Werkinstructie voor BFV docenten","level":"1.3","depth":1,"next":{"title":"Thema 1: Orde in Chaos","level":"2.1","depth":1,"path":"thema-01/Readme.md","ref":"thema-01/Readme.md","articles":[{"title":"Praktijkopdracht","level":"2.1.1","depth":2,"path":"thema-01/praktijkopdracht01.md","ref":"thema-01/praktijkopdracht01.md","articles":[]},{"title":"Informatica 1 (Python 1)","level":"2.1.2","depth":2,"path":"thema-01/informatica1.md","ref":"thema-01/informatica1.md","articles":[]},{"title":"Biologie 1","level":"2.1.3","depth":2,"path":"thema-01/biologie1.md","ref":"thema-01/biologie1.md","articles":[]},{"title":"Chemie 1","level":"2.1.4","depth":2,"path":"thema-01/chemie1.md","ref":"thema-01/chemie1.md","articles":[]},{"title":"Basisvaardigheden Wiskunde","level":"2.1.5","depth":2,"path":"thema-01/basisvaardigheden_wiskunde.md","ref":"thema-01/basisvaardigheden_wiskunde.md","articles":[]},{"title":"Startvaardigheden Nederlands","level":"2.1.6","depth":2,"path":"thema-01/startvaardigheden_nederlands.md","ref":"thema-01/startvaardigheden_nederlands.md","articles":[]},{"title":"SLB1/introductie","level":"2.1.7","depth":2,"path":"thema-01/SLB_introductie.md","ref":"thema-01/SLB_introductie.md","articles":[]}]},"previous":{"title":"Overzicht wijzigingen","level":"1.2","depth":1,"path":"changelog.md","ref":"changelog.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"werkinstructie.md","mtime":"2018-03-12T09:40:37.010Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-12T09:44:21.448Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
