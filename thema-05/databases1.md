@@ -27,7 +27,7 @@ In deze module maken de studenten kennis met relationele databases en SQL.
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-\-
+- dictaat
 
 **Web**
 - Blackboard course thema 5
