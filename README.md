@@ -6,6 +6,8 @@ Dit `gitbook` bevat alle vakomschrijvingen van de opleiding bio-informatica van 
 Het is vooral voor intern gebruik door docenten en studenten.  
 Meer informatie? Neem contact op via de Hanzehogeschool.
 
+[Werkinstrucie voor git gebruikers](werkinstructie.md)
+
 ## Docenten
 
 De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg toe: *AT*pl.hanze.nl:  
