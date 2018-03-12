@@ -6,7 +6,7 @@
 | ECTS  | 3 |
 | Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
+| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
 | Contactpersoon  |  |
 | Voertaal  | Nederlands |
 
