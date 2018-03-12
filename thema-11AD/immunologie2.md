@@ -6,7 +6,7 @@
 | ECTS  | 3 |
 | Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | J. Hageman |
+| Docent(en)  | Marike Dijkstra |
 | Contactpersoon  | J. Hageman |
 | Voertaal  | Nederlands |
 
@@ -18,11 +18,12 @@ Na afloop van de onderwijseenheid kan de student:
 - De opbouw van antibody moleculen nauwkeurig beschrijven
 - De werking van immunoglobuline loci nauwkeurig beschrijven
 - De werking van CHIP-Seq analyses beschrijven en de resultaten interpreteren
+- De werking van het HIV virus beschrijven en het effect van het virus op het immuunsysteem uitleggen
 
 ## Inhoud
 
 Immunologie 2 levert de ondersteuning voor begrip van immunologische afweer in geval van infecties met diverse soorten
-pathogenen. Daarbij zal voornamelijk de humorale afweer ter sprake komen. De biochemische basis van antigeniciteit en moleculair biologische achtergrond van antilichaam-diversiteit zullen in dit verband aandacht krijgen. Daarnaast wordt aandacht besteed aan de toepassing van antilichamen voor laboratoriumexperimenten die voor bioinformatici belangrijk zijn zolas CHIP-seq analyse.
+pathogenen. Daarbij zal voornamelijk de humorale afweer ter sprake komen. De biochemische basis van antigeniciteit en moleculair biologische achtergrond van antilichaam-diversiteit zullen in dit verband aandacht krijgen. Daarnaast wordt aandacht besteed aan de toepassing van antilichamen voor laboratoriumexperimenten die voor bioinformatici belangrijk zijn zoals CHIP-seq analyse.
  
 ### Literatuur en andere bronnen
 

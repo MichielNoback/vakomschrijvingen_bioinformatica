@@ -52,8 +52,6 @@ Biologie 1 geeft een overzicht van (het ontstaan van) de diversiteit van het lev
 ### Werkvormen  
 - Hoorcollege
 
-Elke week staat er 1 blok van twee contacturen op het rooster. Eén les is gereserveerd voor Biologie, het andere voor (verplichte) lessen Studievaardigheden. Tijdens de lessen worden opdrachten met het boek, de Glossary en Mastering Biology gemaakt. Indien gewenst kunnen extra oefeningen gemaakt worden tijdens een huiswerk les. Neem hiervoor contact op met je docent. 
-
 #### Ingangseisen 
 \- 
 
