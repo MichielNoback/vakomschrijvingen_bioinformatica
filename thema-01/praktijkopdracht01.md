@@ -11,12 +11,19 @@
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
-**AANVULLEN**
+- Beginselen van de programmeertaal Python aanleren / oefenen. Deze worden gehandeld bij informatica 1. En betreffen o.a.
+    - Bestanden openen en lezen
+    - variabelen, lijsten, dictionaries, flow control en functies
+- Verwerven dan inzicht in de verschillende bestandsformaten
+- studenten leren eenvoudige biologische vragen te beantwoorden aan de hand van digitale informatie
+- De student kan biologische kennis omzetten in programmatische concepten
+
+
 
 ## Inhoud
 
-In de thema opdracht leren studenten verschillende bronnen en formaten van biologische data te lezen en te analyseren.
-Dit houdt in: Programmeren gebruiken voor het beantwoorden van biologische vragen in de praktijk.
+In de thema opdracht leren studenten verschillende bronnen en bestandsformaten van biologische data te lezen en te analyseren.
+Dit houdt in: Programmeren (Python) gebruiken voor het beantwoorden van biologische vragen in de praktijk.
 
 ### Literatuur en andere bronnen
 
@@ -24,9 +31,7 @@ Dit houdt in: Programmeren gebruiken voor het beantwoorden van biologische vrage
 - Campbell & Reece, Biology 9th ed, Pearson Education 
 
 **Web**
-- [http://www.w3schools.com](W3schools)
-- [http://w3c.org](W3C)
-- Blackboard course thema 1
+https://docs.python.org/3/
 
 ### Competenties
 1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)
