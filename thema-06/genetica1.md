@@ -29,8 +29,9 @@ Aan het einde van deze Genetica 1 cursus is de student instaat om:
 
 ## Inhoud
 
-Om inzicht te krijgen in de verschillende genregulatie systemen, wordt er eerst snel teruggeblikt naar de precieze structuur van DNA en DNA-replicatie. Vervolgens wordt de chromosomale structuur bestudeer en de invloed hiervan de transcriptie. Waarna erin gezoomd wordt op de genetische code en hoe zicht dit vertaald tot de vorming van specifieke eiwitten en de relatie tussen genetische code en uiteindelijke eiwit functie/ activiteit van deze. De afsluiting van het centrale dogma; DNA, mRNA, eiwit, is de translatie. In deze stap wordt het uiteindelijke functionele eiwit gevormd en rond het gehele proces van DNA naar eiwit af.
-Nu we weten hoe de boven genoemde processen precies werken, wordt er gekeken naar de specifieke verschillen tussen eukaryoten- en prokaryoten met betrekking tot cis-acterende elementen, maar ook trans-acterende elementen in de vorm van katabolieten. Soms gaan er dingen mis de genregulatie of de celcyclus door bijvoorbeeld mutaties. Deze mutaties of disregulatie kan leidingen tot ongecontroleerde celdeling wat uit eindelijk resulteert in de ontwikkeling van kanker. Als afsluiting van dit schoolkwartaal wordt het ontstaan van kanker bestudeerd en specifiek naar de cellulaire systemen die dit tegengaan.  
+Deze module start met het behandelen van het centrale dogma: DNA í RNA í eiwit, om uiteindelijk inzicht te krijgen in verschillende genregulatie systemen in prokaryoten en eukaryoten. Hiervoor wordt er eerst kort teruggeblikt naar de structuur van DNA en DNA-replicatie. Vervolgens wordt de chromosomale structuur bestudeerd en de invloed hiervan op de transcriptie. Hierna wordt ingezoomd op de genetische code en hoe zich dit vertaalt naar specifieke eiwitten via transcriptie en translatie. 
+Nu we weten hoe de bovengenoemde processen precies werken, wordt er gekeken naar specifieke voorbeelden van genregulatie in prokaryoten en eukaryoten en worden de verschillen tussen eukaryote en prokaryote genregulatie zichtbaar gemaakt. Op basis hiervan kunnen ook modellen van niet-behandelde genregulatie systemen worden begrepen. Soms gaan er dingen mis in de genregulatie of de celcyclus door bijvoorbeeld mutaties. Deze mutaties of disregulatie kan leidingen tot ongecontroleerde celdeling wat uiteindelijk kan resulteren in de ontwikkeling van kankercellen. Als afsluiting van deze module wordt het ontstaan van kanker bestudeerd en er wordt gekeken naar algemene en specifieke mogelijkheden voor het behandelen van kankercellen. 
+ 
 
 ### Literatuur en andere bronnen
 
@@ -38,7 +39,7 @@ Nu we weten hoe de boven genoemde processen precies werken, wordt er gekeken naa
 - Concepts of Genetics (global edition) 11th edition. William S. Klug, Michael R Cummings, Charlotte A. Spencer, Michael A. Palladino. Pearson
 
 **Web**
-- Blackboard course thema XX
+- Blackboard course thema 6
 
 ### Competenties
 \-

@@ -91,7 +91,7 @@
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12AD/Readme.md)
     * [Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
-    * [Application Design](thema-12AD/webbased2.md)
+    * [Webbased Information Systems 2](thema-12AD/webbased2.md)
     * [Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 
