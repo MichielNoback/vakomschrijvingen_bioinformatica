@@ -1,8 +1,14 @@
 # Inleiding
 
+## Wat is dit?
+
 Dit `gitbook` bevat alle vakomschrijvingen van de opleiding bio-informatica van de Hanzehogeschool Groningen.  
 Het is vooral voor intern gebruik door docenten en studenten.  
 Meer informatie? Neem contact op via de Hanzehogeschool.
+
+[Werkinstrucie voor git gebruikers](werkinstructie.md)
+
+## Docenten
 
 De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg toe: *AT*pl.hanze.nl:  
 
@@ -20,10 +26,14 @@ De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg to
 
 Docenten uit andere teams:  
 
+- **DIMH** Marike Dijkstra (m.h.dijkstra)
+- **KEYJ** Jeanine de Keyzer (j.de.keyzer)
+- **ROBI** Hanna Robin (i.j.robin)
+- **SIMA** Mark Sibbald (m.j.j.b.sibbald)
 - **VRTI** Titia Vrenken (t.e.vrenken)
 - **ZWJI** Jessica Zweers (j.c.zweers)
 
-M.J.J.B. Sibbald, 	J.C. Zweers
+## Competenties
 
 De competenties waarnaar via nummering wordt verwezen staan beschreven in de opleidingsbeschrijving.
 Deze zijn:

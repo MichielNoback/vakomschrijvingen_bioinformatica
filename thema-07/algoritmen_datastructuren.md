@@ -31,6 +31,7 @@ In deze module maken de studenten kennis met verschillende datastructuren en hun
 
 **Web**
 - Blackboard course thema 7
+- www.visualgo.net
 
 ### Competenties
 \-

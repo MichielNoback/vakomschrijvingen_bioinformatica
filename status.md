@@ -1,16 +1,15 @@
-# Summary
-
-* [Inleiding](README.md)
-* [Overzicht wijzigingen](changelog.md)
-* [Werkinstructie voor BFV docenten](werkinstructie.md)
+# Status Herzieningen
 
 ## Jaar 1
 
+Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (voorgesteld) voor de module.
+
+
 * [Thema 1: Orde in Chaos](thema-01/Readme.md)
     * [Praktijkopdracht](thema-01/praktijkopdracht01.md)
-    * [Informatica 1 (Python 1)](thema-01/informatica1.md)
-    * [Biologie 1](thema-01/biologie1.md)
-    * [Chemie 1](thema-01/chemie1.md)
+    * [**(! HJUR)** Informatica 1 (Python 1)](thema-01/informatica1.md)
+    * [**(! VRTI)** Biologie 1](thema-01/biologie1.md)
+    * [**(! ROBI)** Chemie 1](thema-01/chemie1.md)
     * [Basisvaardigheden Wiskunde](thema-01/basisvaardigheden_wiskunde.md)
     * [Startvaardigheden Nederlands](thema-01/startvaardigheden_nederlands.md)
     * [SLB1/introductie](thema-01/SLB_introductie.md)
@@ -19,7 +18,7 @@
     * [Praktijkopdracht](thema-02/praktijkopdracht02.md)
     * [Informatica 2 (Python 2)](thema-02/informatica2.md)
     * [Biologie 2](thema-02/biologie2.md)
-    * [Chemie 2](thema-02/chemie2.md)
+    * [**(! ZWJE)** Chemie 2](thema-02/chemie2.md)
     * [Rapporteren propedeuse](thema-02/rapporteren.md)
     * [SLB2](thema-02/SLB1_2.md)
 
@@ -44,10 +43,10 @@
     * [Praktijkopdracht](thema-05/praktijkopdracht05.md)
     * [Bio-informatica 2](thema-05/bioinformatica2.md)
     * [Biochemie 1](thema-05/biochemie1.md)
-    * [Databases 1](thema-05/databases1.md)
+    * [**(! PARN)** Databases 1](thema-05/databases1.md)
 
 * [Thema 6: BLAST basics](thema-06/Readme.md)
-    * [Praktijkopdracht](thema-06/praktijkopdracht06.md)
+    * [**(! BOJP)** Praktijkopdracht](thema-06/praktijkopdracht06.md)
     * [Genetica 1](thema-06/genetica1.md)
     * [Biochemie 2](thema-06/biochemie2.md)
     * [Databases 2](thema-06/databases2.md)
@@ -56,8 +55,8 @@
 * [Thema 7: Analyse van Genexpressie](thema-07/Readme.md)
     * [Praktijkopdracht](thema-07/praktijkopdracht07.md)
     * [Statistiek 3](thema-07/statistiek3.md)
-    * [Algoritmen en Datastructuren](thema-07/algoritmen_datastructuren.md)
-    * [Microbiologie 1](thema-07/microbiologie1.md)
+    * [**(! PARN)** Algoritmen en Datastructuren](thema-07/algoritmen_datastructuren.md)
+    * [**(! KEYJ)** Microbiologie 1](thema-07/microbiologie1.md)
 
 * [Thema 8: Introduction to Systems Biology](thema-08/Readme.md)
     * [Praktijkopdracht](thema-08/praktijkopdracht08.md)
@@ -91,7 +90,7 @@
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12AD/Readme.md)
     * [Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
-    * [Application Design](thema-12AD/webbased2.md)
+    * [Webbased Information Systems 2](thema-12AD/webbased2.md)
     * [Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 
@@ -100,7 +99,7 @@
 * [Thema 11: Advanced datamining](thema-11DM/Readme.md)
     * [Praktijkopdracht](thema-11DM/praktijkopdracht11DM.md)
     * [Advanced datamining](thema-11DM/advanced_datamining.md)
-    * [Immunologie 2](thema-11AD/immunologie2.md)
+    * [**(! DIMH)** Immunologie 2](thema-11AD/immunologie2.md)
     * [Dataprocessing](thema-11AD/dataprocessing.md)
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12DM/Readme.md)
