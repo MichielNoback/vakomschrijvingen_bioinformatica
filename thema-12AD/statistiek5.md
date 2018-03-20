@@ -26,7 +26,8 @@ Non-lineaire regressie en Genome-Wide Association Studies (GWAS)
 **Literatuur**  
 - An introduction to R, 2nd ed. (2009), W.N. Venables D.M. Smith and the R Developement Core Team
 Network Theory Ltd. ISBN: 0-9546120-8-6
-- Several suitable tutorials from the web Collegeslides
+- GenABEL GWAS tutorial
+- RMarkdown documents provided by teacher
 
 
 **Web**

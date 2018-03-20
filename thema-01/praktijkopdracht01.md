@@ -11,11 +11,11 @@
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
-- Beginselen van de programmeertaal Python aanleren / oefenen. Deze worden gehandeld bij informatica 1. En betreffen o.a.
+- Beginselen van de programmeertaal Python aanleren / oefenen. Deze worden behandeld bij informatica 1. En betreffen o.a.
     - Bestanden openen en lezen
-    - variabelen, lijsten, dictionaries, flow control en functies
-- Verwerven dan inzicht in de verschillende bestandsformaten
-- studenten leren eenvoudige biologische vragen te beantwoorden aan de hand van digitale informatie
+    - Variabelen, lijsten, dictionaries, flow control en functies
+- Verwerven van inzicht in verschillende bestandsformaten
+- Studenten leren eenvoudige biologische vragen te beantwoorden aan de hand van digitale informatie
 - De student kan biologische kennis omzetten in programmatische concepten
 
 
