@@ -6,7 +6,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 
 
 * [Thema 1: Orde in Chaos](thema-01/Readme.md)
-    * [Praktijkopdracht](thema-01/praktijkopdracht01.md)
+    * [**(! BOJP)** Praktijkopdracht](thema-01/praktijkopdracht01.md)
     * [**(! HJUR)** Informatica 1 (Python 1)](thema-01/informatica1.md)
     * [**(! VRTI)** Biologie 1](thema-01/biologie1.md)
     * [**(! ROBI)** Chemie 1](thema-01/chemie1.md)
@@ -31,10 +31,10 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [SLB3](thema-03/SLB1_3.md)
 
 * [Thema 4: Genen en Overerving](thema-04/Readme.md)
-    * [Praktijkopdracht](thema-04/praktijkopdracht04.md)
-    * [Informatica 4 (Introductie R + Linux)](thema-04/informatica4.md)
+    * [**(! WATS)** Praktijkopdracht](thema-04/praktijkopdracht04.md)
+    * [**(! NOMI)** Informatica 4 (Introductie R + Linux)](thema-04/informatica4.md)
     * [Biologie 4](thema-04/biologie4.md)
-    * [Statistiek 1+2](thema-04/statistiek12.md)
+    * [**(! BOJP)** Statistiek 1+2](thema-04/statistiek12.md)
     * [SLB4](thema-04/SLB1_4.md)
 
 ## Jaar 2
@@ -47,7 +47,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 
 * [Thema 6: BLAST basics](thema-06/Readme.md)
     * [**(! BOJP)** Praktijkopdracht](thema-06/praktijkopdracht06.md)
-    * [Genetica 1](thema-06/genetica1.md)
+    * [**(! POWE)** Genetica 1](thema-06/genetica1.md)
     * [Biochemie 2](thema-06/biochemie2.md)
     * [Databases 2](thema-06/databases2.md)
     * [SLB5](thema-06/SLB2_2.md)
@@ -68,30 +68,30 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 ## Jaar 3
 
 * [Thema 9: Introduction to Machine Learning](thema-09/Readme.md)
-    * [Praktijkopdracht](thema-09/praktijkopdracht09.md)
-    * [Introductie Datamining](thema-09/introductie_datamining.md)
-    * [Introductie Java](thema-09/introductie_java.md)
+    * [**(! NOMI)** Praktijkopdracht](thema-09/praktijkopdracht09.md)
+    * [**(! NOMI)** Introductie Datamining](thema-09/introductie_datamining.md)
+    * [**(! NOMI)** Introductie Java](thema-09/introductie_java.md)
     * [Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
 
 * [Thema 10: Research web applications](thema-10/Readme.md)
     * [Praktijkopdracht](thema-10/praktijkopdracht10.md)
-    * [Web-based informatiesystemen 1](thema-10/webbased1.md)
-    * [Genetica 2](thema-10/genetica2.md)
-    * [Statistiek 4](thema-10/statistiek4.md)
+    * [**(! NOMI)** Web-based informatiesystemen 1](thema-10/webbased1.md)
+    * [**(! BOJP)** Genetica 2](thema-10/genetica2.md)
+    * [**(! WATS)** Statistiek 4](thema-10/statistiek4.md)
     * [SLB7](thema-10/SLB3_1.md)
 
 ### Minor Application Design
 
 * [Thema 11: Application Design](thema-11AD/Readme.md)
-    * [Praktijkopdracht](thema-11AD/praktijkopdracht11AD.md)
-    * [Application Design](thema-11AD/appdesign.md)
+    * [**(! NOMI)** Praktijkopdracht](thema-11AD/praktijkopdracht11AD.md)
+    * [**(! NOMI)** Application Design](thema-11AD/appdesign.md)
     * [Immunologie 2](thema-11AD/immunologie2.md)
     * [Dataprocessing](thema-11AD/dataprocessing.md)
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12AD/Readme.md)
-    * [Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
+    * [**(! NOMI)** Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
     * [Webbased Information Systems 2](thema-12AD/webbased2.md)
-    * [Statistiek 5](thema-12AD/statistiek5.md)
+    * [**(! WATS)** Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 
 ### Minor High performance/High throughput Biocomputing
@@ -105,7 +105,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12DM/Readme.md)
     * [Praktijkopdracht](thema-12DM/praktijkopdracht12DM.md)
     * [Big data computing](thema-12DM/bd_computing.md)
-    * [Statistiek 5](thema-12AD/statistiek5.md)
+    * [**(! WATS)** Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 
 ## Jaar 4
