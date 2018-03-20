@@ -20,13 +20,14 @@
 
 Statistiek 4 geeft een introductie in het analyseren van onderlinge relaties en structuren in data
 De student begrijpt de begrippen covariantie en correlatie en kan lineaire regressie uitvoeren en samenvatten.
-De student kan clusteranalyse uitvoeren in R met verschillende methoden en verschillende afstandsmaten. De student kan principale componenten analyse uitvoeren in R.
+De student kan clusteranalyse uitvoeren in R met verschillende methoden en verschillende afstandsmaten. 
+De student kan principale componenten analyse uitvoeren in R.
  
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- An introduction to R, 2nd ed. (2009), W.N. Venables, D.M. Smith and the R Developement Core Team Network Theory Ltd. ISBN: 0-9546120-8-6 Tutorial R for Beginners
-    - C 1-11 Introduction...Statistical Models in R
+- Using R for introductory statistics. J. Verzani, 2nd edition.
+- RMarkdown tutorials provided by teacher
 
 **Web**
 - Blackboard course thema 10
