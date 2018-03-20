@@ -27,7 +27,7 @@ You will learn about the following concepts and techniques, and how to apply the
 This course deals with some more advanced Java (OO) design aspects. 
 
 **Assessment**
-This course is assessed through a practical assessment scheduled in the examination weeks. It includes three programming assignments covering these aspects:
+This course is assessed through a practical assessment scheduled in the examination weeks. It includes several programming assignments covering these aspects:
 - JUnit testing
 - Refactoring to OO design principles
 - Implementing a design pattern

@@ -36,8 +36,20 @@ Nu we weten hoe de bovengenoemde processen precies werken, wordt er gekeken naar
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Concepts of Genetics (global edition) 11th edition. William S. Klug, Michael R Cummings, Charlotte A. Spencer, Michael A. Palladino. Pearson
+- Concepts of Genetics (global edition) 11th edition. William S. Klug, Michael R Cummings, Charlotte A. Spencer, Michael A. Palladino. Pearson:  
 
+| Hoofdstuk                                       | Paragrafen                          | 
+|-------------------------------------------------|-------------------------------------| 
+| 10 DNA structure and analysis                   | 1, 5, 6, 7, 9,   10                 | 
+| 11 DNA replication and recombination            | 1 (alleen blz   296), 2, 3, 4, 6, 7 | 
+| 12 DNA organization in chromosomes              | Alle                                | 
+| 13 The genetic code and transcription           | Alle                                | 
+| 14 Translation and proteins                     | 1, 2, 4, 9, 10,   11, 12            | 
+| 15 Gene mutation, DNA repair and transposition  | Alle                                | 
+| 16 Regulation of gene expression in prokaryotes | Alle                                | 
+| 17 Regulation of gene expression in eukaryotes  | Alle                                | 
+| 19 Cancer and regulation of the cell cycle      | Alle                                |
+ 
 **Web**
 - Blackboard course thema 6
 
