@@ -32,7 +32,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 
 * [Thema 4: Genen en Overerving](thema-04/Readme.md)
     * [**(! WATS)** Praktijkopdracht](thema-04/praktijkopdracht04.md)
-    * [Informatica 4 (Introductie R + Linux)](thema-04/informatica4.md)
+    * [**(! NOMI)** Informatica 4 (Introductie R + Linux)](thema-04/informatica4.md)
     * [Biologie 4](thema-04/biologie4.md)
     * [**(! BOJP)** Statistiek 1+2](thema-04/statistiek12.md)
     * [SLB4](thema-04/SLB1_4.md)
@@ -77,7 +77,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [Praktijkopdracht](thema-10/praktijkopdracht10.md)
     * [**(! NOMI)** Web-based informatiesystemen 1](thema-10/webbased1.md)
     * [**(! BOJP)** Genetica 2](thema-10/genetica2.md)
-    * [Statistiek 4](thema-10/statistiek4.md)
+    * [**(! WATS)** Statistiek 4](thema-10/statistiek4.md)
     * [SLB7](thema-10/SLB3_1.md)
 
 ### Minor Application Design
@@ -91,7 +91,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12AD/Readme.md)
     * [**(! NOMI)** Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
     * [Webbased Information Systems 2](thema-12AD/webbased2.md)
-    * [Statistiek 5](thema-12AD/statistiek5.md)
+    * [**(! WATS)** Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 
 ### Minor High performance/High throughput Biocomputing
@@ -105,7 +105,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12DM/Readme.md)
     * [Praktijkopdracht](thema-12DM/praktijkopdracht12DM.md)
     * [Big data computing](thema-12DM/bd_computing.md)
-    * [Statistiek 5](thema-12AD/statistiek5.md)
+    * [**(! WATS)** Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 
 ## Jaar 4

@@ -11,6 +11,12 @@ Houdt deze vorm aan voor het changelog:
 ## 2017-2018
 
 
+- [2018-02-20] *__Statistiek 5, thema 12__*   
+    Aanpassingen aan literatuur[Statistiek 5](thema-12/statistiek5.md)
+    - __In Osiris: Nee__
+- [2018-02-20] *__Statistiek 4, thema 10__*   
+    Aanpassingen aan literatuur [Statistiek 4](thema-10/statistiek4.md)
+    - __In Osiris: Nee__
 - [2018-02-20] *__Genetica 2, thema 10__*   
     Geheel herzien [Genetica 2](thema-10/genetica2.md)
     - __In Osiris: Nee__
