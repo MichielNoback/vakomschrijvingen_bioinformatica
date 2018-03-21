@@ -23,8 +23,8 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [SLB2](thema-02/SLB1_2.md)
 
 * [Thema 3: DNA, harde schijf v.d. cel](thema-03/Readme.md)
-    * [Praktijkopdracht](thema-03/praktijkopdracht03.md)
-    * [Informatica 3 (Python 3)](thema-03/informatica3.md)
+    * [**(! WERD)** Praktijkopdracht](thema-03/praktijkopdracht03.md)
+    * [**(! BOJP)** Informatica 3 (Python 3)](thema-03/informatica3.md)
     * [Biologie 3](thema-03/biologie3.md)
     * [Bio-informatica 1](thema-03/bioinformatica1.md)
     * [Presenteren](thema-03/presenteren.md)
@@ -49,7 +49,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! BOJP)** Praktijkopdracht](thema-06/praktijkopdracht06.md)
     * [**(! POWE)** Genetica 1](thema-06/genetica1.md)
     * [Biochemie 2](thema-06/biochemie2.md)
-    * [Databases 2](thema-06/databases2.md)
+    * [**(! WERD)** Databases 2](thema-06/databases2.md)
     * [SLB5](thema-06/SLB2_2.md)
 
 * [Thema 7: Analyse van Genexpressie](thema-07/Readme.md)

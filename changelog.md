@@ -10,11 +10,22 @@ Houdt deze vorm aan voor het changelog:
 
 ## 2017-2018
 
-
-- [2018-02-20] *__Statistiek 5, thema 12__*   
+- [2018-03-21] *__Themaopdracht, thema 10__*  
+    Geheel herzien [Themaopdracht 10](thema-10/praktijkopdracht10.md)
+    - __In Osiris: Nee__
+- [2018-03-21] *__Themaopdracht, thema 07__*  
+    Geheel herzien [Themaopdracht 07](thema-02/praktijkopdracht07.md)
+    - __In Osiris: Nee__
+- [2018-03-21] *__Themaopdracht, thema 05__*   
+    Geheel herzien [Themaopdracht 05](thema-05/praktijkopdracht05.md)
+    - __In Osiris: Nee__
+- [2018-03-21] *__Themaopdracht, thema 02__*   
+    Geheel herzien [Themaopdracht 02](thema-02/praktijkopdracht02.md)
+    - __In Osiris: Nee__
+- [2018-03-19] *__Statistiek 5, thema 12__*   
     Aanpassingen aan literatuur[Statistiek 5](thema-12/statistiek5.md)
     - __In Osiris: Nee__
-- [2018-02-20] *__Statistiek 4, thema 10__*   
+- [2018-03-19] *__Statistiek 4, thema 10__*   
     Aanpassingen aan literatuur [Statistiek 4](thema-10/statistiek4.md)
     - __In Osiris: Nee__
 - [2018-02-20] *__Genetica 2, thema 10__*   
