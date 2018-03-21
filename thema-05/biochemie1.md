@@ -16,6 +16,7 @@
 - Herkent de structuur-elementen in eiwitten
 - Kan met PyMol eiwitstructuren bekijken en manipuleren
 - Weet hoe de validatie van eiwitstructuren gedaan wordt
+- Begrijpt de thermodynamica van chemische reacties en de invloed van enzymen op deze reacties in het bijzonder
 - Voorspelt het ladingsgedrag van eiwitten
 - Karakteriseert het katalytisch gedrag van eiwitten cq enzymen
 - Verklaart de werking van bepaalde stoffen op de kinetiek van een enzym
@@ -26,12 +27,14 @@
 
 In Biochemie 1 staat het eiwitmolecuul centraal. Structuur, dynamica en functie.
 Structuur en dynamica van eiwitten kun je visualiseren met onder andere PyMol, een
-Python based programma. Enzymen zijn eiwitten met een speciale functie: het uitvoeren van chemische reacties. De reactiemechanismen en de kinetiek van enzymen kunnen goed gemodelleerd worden. In Biochemie 1 voor BIN gaan we dan ook in op de bioinformatica van eiwitten om zo de stof eigen te maken.
+Python based programma. Enzymen zijn eiwitten met een speciale functie: het uitvoeren van chemische reacties.
+ De reactiemechanismen en de kinetiek van enzymen kunnen goed gemodelleerd worden. In Biochemie 1 voor BIN 
+ gaan we dan ook in op de bioinformatica van eiwitten om zo de stof eigen te maken.
 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Biochemistry: A Short Course 3rd edition. Tymoczko/Berg/Stryer.  
+- Biochemistry: A Short Course, 4rd Edition. J.L. Tymoczko, J.M. Berg, L. Stryer. ISBN: 9781319153878. 
   Behandelde Hoofdstukken: 1 t/m 4, 6 t/m 9, 11 en 12
 
 **Web**
@@ -41,7 +44,7 @@ Python based programma. Enzymen zijn eiwitten met een speciale functie: het uitv
 \-
 
 ### Werkvormen  
-- Hoorcollege
+- Hoor/werkcollege
 
 #### Ingangseisen 
 \- 

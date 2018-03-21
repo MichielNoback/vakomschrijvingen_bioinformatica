@@ -10,7 +10,7 @@ Meer informatie? Neem contact op via de Hanzehogeschool.
 
 ## Docenten
 
-De kerndocenten van de opleiding (voor mail adres, neem  tussen haakjes, voeg toe: *AT*pl.hanze.nl:  
+De kerndocenten van de opleiding (voor mail adres: neem  tussen haakjes en voeg toe: *AT*pl.hanze.nl:  
 
 - **BEVL** Evelien Borgonjon (e.a.s.h.l.borgonjon)
 - **BOJP** Jasper Bosman (j.bosman)
@@ -28,6 +28,7 @@ Docenten uit andere teams:
 
 - **DIMH** Marike Dijkstra (m.h.dijkstra)
 - **KEYJ** Jeanine de Keyzer (j.de.keyzer)
+- **NASA** Sanne Nabuurs (s.m.nabuurs)
 - **ROBI** Hanna Robin (i.j.robin)
 - **SIMA** Mark Sibbald (m.j.j.b.sibbald)
 - **VRTI** Titia Vrenken (t.e.vrenken)

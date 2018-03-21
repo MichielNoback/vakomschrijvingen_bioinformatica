@@ -14,7 +14,8 @@
 
 - De structuren van verschillende belangrijke koolhydraten onderscheiden.
 - Energie-veranderingen in verband brengen met elektronenoverdracht via redoxreacties.
-- De reacties uit de glycolyse en citroenzuurcyclus herkennen en de bijbehorende enzymen voorspellen.
+- Gebruik kunnen maken van databases met metabole routes
+- De reacties uit de glycolyse, gluconeogenese en citroenzuurcyclus herkennen met de bijbehorende enzymen, en de regulatiepunten in deze processen benoemen.
 - De gevolgen voorspellen van een verandering in concentratie van regulerende factoren op het metabolisme van koolhydraten.
 - Het mechanisme van elektronen-transport en oxidatieve fosforylering uitleggen.
 - De opbrengst aan energierijke verbindingen, zoals ATP, berekenen na omzetting van bepaalde koolhydraten.
@@ -31,8 +32,8 @@ voor koolhydraten.
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Biochemistry: A Short Course, 3rd Edition. J.L. Tymoczko, J.M. Berg, L. Stryer. ISBN:
-9781464126130. Behandelde Hoofdstukken: 10, 14t/m21, 24t/m26
+- Biochemistry: A Short Course, 4rd Edition. J.L. Tymoczko, J.M. Berg, L. Stryer. ISBN: 9781319153878. 
+    - Hoofdstukken: 10, 14t/m21, 24t/m26
 
 **Web**
 - Blackboard course thema 6
@@ -41,7 +42,7 @@ voor koolhydraten.
 \-
 
 ### Werkvormen  
-- Hoorcollege
+- Hoor/werkcollege
 
 #### Ingangseisen 
 \- 

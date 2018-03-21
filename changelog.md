@@ -10,6 +10,12 @@ Houdt deze vorm aan voor het changelog:
 
 ## 2017-2018
 
+- [2018-03-21] *__Biochemie 2, thema 06__*  
+    Leerdoelen toegevoegd en literatuur en werkvorm aangepast [Biochemie 2](thema-06/biochemie2.md)
+    - __In Osiris: Nee__
+- [2018-03-21] *__Biochemie 1, thema 05__*  
+    Leerdoel toegevoegd en literatuur en werkvorm aangepast [Biochemie 1](thema-05/biochemie1.md)
+    - __In Osiris: Nee__
 - [2018-03-21] *__Themaopdracht, thema 10__*  
     Geheel herzien [Themaopdracht 10](thema-10/praktijkopdracht10.md)
     - __In Osiris: Nee__
