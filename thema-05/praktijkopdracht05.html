@@ -1500,38 +1500,72 @@
 </table>
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
 <ul>
-<li>Kunnen werken met een workflow manager voor genoom-analyze (Galaxy) om genen te kunnen identificeren in onbekend DNA</li>
-<li>Datastromen kunnen doorzoeken en aan elkaar kunnen koppelen via scripting (Python)</li>
-<li>Eenvoudige databases kunnen ontwerpen en implementeren</li>
-<li>Basale command-line blast searches kunnen uitvoeren</li>
-<li>Een wetenschappelijk verslag schrijven</li>
+<li>De student is zelfstandig in staat om kwaliteitscontrole uit te voeren op ruwe Next-Generation sequencing data </li>
+<li>De student is zelfstandig in staat om te werken met een workflow manager voor genoom-analyze (Galaxy) met als doel het kunnen identificeren van genoom variaties en deze te vergelijken met bekende mutaties (annotatie).</li>
+<li>De student is zelfstandig in staat om datastromen te kunnen doorzoeken en aan elkaar te koppelen via scripting (Python)</li>
+<li>De student kan op basis van informatiebehoeften zelfstandig eenvoudige, relationele, databases te ontwerpen en implementeren</li>
+<li>Een (deel van een) wetenschappelijk verslag schrijven</li>
 </ul>
 <h2 id="inhoud">Inhoud</h2>
-<p>Diagnostisch project met als doel het identificeren van de genetische oorzaak van een hartziekte middels analyse van genetische varianten. </p>
+<p>Dit betreft een diagnostisch project met als doel het identificeren van de genetische oorzaak van een hartziekte middels analyse van genetische varianten. Hiervoor wordt een combinatie gemaakt tussen bio-informatica tools beschikbaar in de workflow-manager Galaxy en zelfgeschreven Python programma&#x2019;s. Middels een zelf ontworpen relationele database wordt de link gelegd tussen betrokken varianten, genen en de aandoening. Alle analyze stappen worden nauwkeurig bijgehouden en beschreven in een gedeeld online digitaal logboek.</p>
+<p><strong>beoordeling</strong></p>
+<p>Gedurende het gehele project wordt er gewerkt aan deelopdrachten die resulteren in Python programma&apos;s voor bepaalde analyze doeleinden. Deze deelopdrachten worden apart beoordeeld naast het digitale logboek (beschikbaar gemaakt in een gedeelde Microsoft OneNote Classroom notebook) en het hoofdstuk Inleiding.</p>
+<p><strong>beoordelingscriteria</strong></p>
+<ol>
+<li>Deelopdrachten: <strong>40%</strong><ul>
+<li>a. <em>deliverable</em> 1-7; Pileup analyze (20% van deelopdrachten)</li>
+<li>b. <em>deliverable</em> 8; VCF-bestand filter (15% van deelopdrachten)</li>
+<li>c. <em>deliverable</em> 11; database ontwerp (schema + SQL) (15% van deelopdrachten)</li>
+<li>d. <em>deliverable</em> 9, 10, 12; Verwerking geannoteerde varianten (Python + database) (50% van deelopdrachten)</li>
+</ul>
+</li>
+<li>Digitaal logboek: <strong>50%%</strong></li>
+<li>Hoofdstuk Inleiding en Referenties: <strong>10%</strong></li>
+</ol>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
 <p><strong>Literatuur</strong>  </p>
 <ul>
-<li>Bioinformatics and Functional Genomics 3rd ed (2015). Jonathan Pevsner.</li>
+<li>Bioinformatics and Functional Genomics 3rd ed (2015). Jonathan Pevsner.<ul>
+<li>Chapter 9; Analysis of Next-Generation Sequencing Data</li>
+</ul>
+</li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
-<li>Blackboard course thema 5</li>
+<li>Blackboard course Thema 5<ul>
+<li>Course Syllabus</li>
+<li>Inlevermap digitale deelopdrachten</li>
+</ul>
+</li>
+<li>Microsoft OneNote Classroom Notebook<ul>
+<li>Gedeeld digitaal logboek</li>
+</ul>
+</li>
+<li>Bitbucket repository: <a href="https://bitbucket.org/mkempenaar/diagnosticgenomeanalysis" target="_blank">https://bitbucket.org/mkempenaar/diagnosticgenomeanalysis</a><ul>
+<li>Projectbeschrijving en planning</li>
+<li>Deelopdrachten</li>
+<li>Code templates</li>
+</ul>
+</li>
 </ul>
 <h3 id="competenties">Competenties</h3>
-<p>1(I), 2(I), 3(II), 4(I), 5(I), 6(I), 7(II), 11(I), 13(I)</p>
+<p>1(I), 2(I), 3(II), 4(I), 5(I), 6(I), 7(I), 11(I), 13(I)</p>
 <h3 id="werkvormen">Werkvormen</h3>
 <ul>
-<li>Praktijkopdrachten/Projectonderwijs  </li>
+<li>Praktijkopdrachten/ Projectonderwijs</li>
 </ul>
-<p>Dit project wordt door middel van wekelijkse opdrachten, een theoretische eindtoets (op Blackboard) en een eindverslag beoordeeld. Aanwezigheid verplicht.</p>
+<p>Dit project wordt door middel van een digitaal logboek, een drietal programmeeropdrachten en twee onderdelen van een eindverslag (de hoofdstukken Inleiding en Referenties) beoordeeld. Aanwezigheid is verplicht.</p>
 <h4 id="ingangseisen">Ingangseisen</h4>
 <p>- </p>
 <h4 id="ingangseisen-toets">Ingangseisen toets</h4>
 <p>- </p>
 <h4 id="voorkennis">Voorkennis</h4>
-<p>-</p>
+<p>Naast voldoende ervaring met (Object Oriented) Python programmeren is ook kennis van het ontwerpen, implementeren en bevragen van een (MySQL) relationele database nodig.</p>
 <h4 id="voorkennis-kan-worden-opgedaan-met">Voorkennis kan worden opgedaan met</h4>
-<p>-</p>
+<ul>
+<li>Informatica I t/m III (propedeuse)</li>
+<li>Databases I</li>
+</ul>
 <h4 id="bronnen-van-zelfstudie">Bronnen van zelfstudie</h4>
 <p>-</p>
 <h4 id="verplicht-materiaal">Verplicht materiaal</h4>
@@ -1581,7 +1615,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Praktijkopdracht","level":"3.1.1","depth":2,"next":{"title":"Bio-informatica 2","level":"3.1.2","depth":2,"path":"thema-05/bioinformatica2.md","ref":"thema-05/bioinformatica2.md","articles":[]},"previous":{"title":"Thema 5: Genomica praktijk","level":"3.1","depth":1,"path":"thema-05/Readme.md","ref":"thema-05/Readme.md","articles":[{"title":"Praktijkopdracht","level":"3.1.1","depth":2,"path":"thema-05/praktijkopdracht05.md","ref":"thema-05/praktijkopdracht05.md","articles":[]},{"title":"Bio-informatica 2","level":"3.1.2","depth":2,"path":"thema-05/bioinformatica2.md","ref":"thema-05/bioinformatica2.md","articles":[]},{"title":"Biochemie 1","level":"3.1.3","depth":2,"path":"thema-05/biochemie1.md","ref":"thema-05/biochemie1.md","articles":[]},{"title":"Databases 1","level":"3.1.4","depth":2,"path":"thema-05/databases1.md","ref":"thema-05/databases1.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-05/praktijkopdracht05.md","mtime":"2018-02-15T12:20:01.486Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-20T10:01:48.809Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Praktijkopdracht","level":"3.1.1","depth":2,"next":{"title":"Bio-informatica 2","level":"3.1.2","depth":2,"path":"thema-05/bioinformatica2.md","ref":"thema-05/bioinformatica2.md","articles":[]},"previous":{"title":"Thema 5: Genomica praktijk","level":"3.1","depth":1,"path":"thema-05/Readme.md","ref":"thema-05/Readme.md","articles":[{"title":"Praktijkopdracht","level":"3.1.1","depth":2,"path":"thema-05/praktijkopdracht05.md","ref":"thema-05/praktijkopdracht05.md","articles":[]},{"title":"Bio-informatica 2","level":"3.1.2","depth":2,"path":"thema-05/bioinformatica2.md","ref":"thema-05/bioinformatica2.md","articles":[]},{"title":"Biochemie 1","level":"3.1.3","depth":2,"path":"thema-05/biochemie1.md","ref":"thema-05/biochemie1.md","articles":[]},{"title":"Databases 1","level":"3.1.4","depth":2,"path":"thema-05/databases1.md","ref":"thema-05/databases1.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-05/praktijkopdracht05.md","mtime":"2018-03-21T08:28:01.527Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-21T08:33:45.110Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

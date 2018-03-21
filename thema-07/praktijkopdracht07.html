@@ -1499,42 +1499,69 @@
 </tbody>
 </table>
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
+<p>Na het volgen van de cursus is de student in staat om zelfstandig:</p>
 <ul>
-<li>Weten wat microarrays zijn en welke formats er bestaan.</li>
-<li>Begrijpen hoe microarrays gebruikt kunnen worden om medische en biologische vragen te beantwoorden</li>
-<li>Microarray data kunnen pre-processen, analyseren en visualiseren met behulp van R, onder meer door normalisatie, filtering, t-tests</li>
-<li>Microarray analyse resultaten kunnen interpreteren, discussi&#xEB;ren en verklaren</li>
-<li>Suggesties doen voor vervolgonderzoek</li>
-<li>Resultaten van onderzoek kunnen presenteren met behulp van een poster</li>
+<li>Het verkennen van online data-bronnen (o.a. de NCBI Gene Expression Omnibus) voor gen expressie data sets, gegeven een set van project eisen.</li>
+<li>Het uitvoeren van <em>pre-processing</em> en normalizatie stappen op ruwe RNA-Seq data komende uit &#xE9;&#xE9;n of meerdere bestanden.</li>
+<li>Het uitvoeren van beschrijvende statistiek (<em>scatter-</em>, <em>density-</em> en <em>QQ-plots</em>) voor kwaliteitscontrole van genormaliseerde data.</li>
+<li>Het visualizeren van complexe gen-expressie data middels boxplots, histogrammen, heatmaps en volcano-plots.</li>
+<li>Het identificeren van <em>Differentially Expressed Genes</em> (DEGs) middels handmatig uitvoeren van statistische toetsen (t-toets en/ of ANOVA) en gebruik makend van R <em>Bioconductor</em> pakket (keuze uit DESeq2, edgeR en limma).</li>
+<li>Het combineren van gevonden DEGs met (KEGG-)pathways gebruik makend van R pakketten en/ of online bronnen (o.a. de <em>Database for Annotation, Visualization and Integrated Discovery</em> (DAVID))</li>
+<li>Het beheren en het zelf installeren van R pakketten benodigd tijdens de cursus.</li>
 </ul>
 <h2 id="inhoud">Inhoud</h2>
-<p>Tijdens deze themaopdracht wordt een eerste verkenning van microarrays ondernomen. Aan bod komen de aspecten: wat zijn microarrays, welke soorten bestaan er, wat kun je er mee? Het belangrijkste aspect is echter de analyse van microarray data. Dit wordt doorlopen met behulp van de statistische programmeertaal R.</p>
+<p>Dit thema draait om het onderzoeken van genexpressie op een genomische schaal. RNA-seq (RNA sequencing) is een high-throughput sequencing technologie die het mogelijk maakt om de expressie van alle genen in een genoom tegelijk te onderzoeken. Dit maakt het bijvoorbeeld mogelijk te analyseren welke genen betrokken zijn bij een bepaalde ziekte of ontwikkelingsproces. De analyse wordt uitgevoerd op een zelf gekozen, gepubliceerd, onderzoek uit een online databank.</p>
+<p><strong>beoordeling</strong>
+Het project en functioneren van de student wordt op meerdere manieren getoetst. Na project keuze en een eerste inventarisatie wordt er een plan-van-aanpak gepresenteerd. Het volledige onderzoek, van het inlezen van de data tot het visualiseren van de eindresultaten, wordt vastgelegd in een <em>RMarkdown</em> document; een combinatie van code, visualisaties en beschrijvende tekst. Uit dit document worden de belangrijkste conclusies en figuren gebruikt voor het maken van een kort, wetenschappelijk, verslag en een poster welke wordt gepresenteerd.</p>
+<p><strong>beoordelingscriteria</strong></p>
+<ul>
+<li>Project voorstel + plan-van-aanpak: <strong>15%</strong></li>
+<li>Digitale logboek (RMarkdown) van het project: <strong>50%</strong></li>
+<li>Kort wetenschappelijk verslag + poster: <strong>25%</strong></li>
+<li>Functioneren tijdens de verplichte lesmomenten: <strong>10%</strong></li>
+</ul>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
 <p><strong>Literatuur</strong>  </p>
 <ul>
 <li>Bioinformatics and Functional Genomics 3rd ed (2015). Jonathan Pevsner. <ul>
-<li>Ch 11 </li>
+<li>Hoofdstuk 10: Bioinformatic Approaches to Ribonucleic Acid (RNA)</li>
+<li>Hoofdstuk 11: Gene Expression: Microarray and RNA-seq Data Analysis</li>
 </ul>
 </li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
-<li>Blackboard course thema 07</li>
+<li>Blackboard course thema 07<ul>
+<li>Prensentaties/ lesmateriaal</li>
+<li>Course Syllabus</li>
+<li>Code uitwerkingen n.a.v. opdrachten</li>
+</ul>
+</li>
+<li>Github repository: <a href="https://mkempenaar.github.io/gene_expression_analysis/" target="_blank">https://mkempenaar.github.io/gene_expression_analysis/</a><ul>
+<li>Cursusmateriaal</li>
+<li>Code voorbeelden</li>
+<li>Planning</li>
+</ul>
+</li>
 </ul>
 <h3 id="competenties">Competenties</h3>
-<p><strong>INVULLEN</strong> 1(I), 2(I), 3(I), 5(I), 6(I), 10(I), 11(I), 12(I), 13(I)</p>
+<p>1(II), 2(II), 3(I), 4(II), 5(II), 11(I), 13(I)</p>
 <h3 id="werkvormen">Werkvormen</h3>
 <ul>
-<li>Praktijkopdrachten/Projectonderwijs  </li>
+<li>Praktijkopdrachten/ Projectonderwijs op individuele basis</li>
 </ul>
 <h4 id="ingangseisen">Ingangseisen</h4>
 <p>- </p>
 <h4 id="ingangseisen-toets">Ingangseisen toets</h4>
 <p>- </p>
 <h4 id="voorkennis">Voorkennis</h4>
-<p>-</p>
+<p>Kennis van de statistische programmeertaal R in combinatie met (R)markdown en het RStudio programma. Basiskennis van statistiek tot op het niveau van de verschillende (parametrische) toetsen (t-toets, F-toets, (one way) ANOVA). </p>
 <h4 id="voorkennis-kan-worden-opgedaan-met">Voorkennis kan worden opgedaan met</h4>
-<p>-</p>
+<ul>
+<li>Informatica IV (propedeuse)</li>
+<li>Statistiek I + II (propedeuse)</li>
+<li>Statistiek III</li>
+</ul>
 <h4 id="bronnen-van-zelfstudie">Bronnen van zelfstudie</h4>
 <p>-</p>
 <h4 id="verplicht-materiaal">Verplicht materiaal</h4>
@@ -1584,7 +1611,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Praktijkopdracht","level":"3.3.1","depth":2,"next":{"title":"Statistiek 3","level":"3.3.2","depth":2,"path":"thema-07/statistiek3.md","ref":"thema-07/statistiek3.md","articles":[]},"previous":{"title":"Thema 7: Analyse van Genexpressie","level":"3.3","depth":1,"path":"thema-07/Readme.md","ref":"thema-07/Readme.md","articles":[{"title":"Praktijkopdracht","level":"3.3.1","depth":2,"path":"thema-07/praktijkopdracht07.md","ref":"thema-07/praktijkopdracht07.md","articles":[]},{"title":"Statistiek 3","level":"3.3.2","depth":2,"path":"thema-07/statistiek3.md","ref":"thema-07/statistiek3.md","articles":[]},{"title":"Algoritmen en Datastructuren","level":"3.3.3","depth":2,"path":"thema-07/algoritmen_datastructuren.md","ref":"thema-07/algoritmen_datastructuren.md","articles":[]},{"title":"Microbiologie 1","level":"3.3.4","depth":2,"path":"thema-07/microbiologie1.md","ref":"thema-07/microbiologie1.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-07/praktijkopdracht07.md","mtime":"2018-02-15T12:36:26.435Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-20T10:01:48.809Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Praktijkopdracht","level":"3.3.1","depth":2,"next":{"title":"Statistiek 3","level":"3.3.2","depth":2,"path":"thema-07/statistiek3.md","ref":"thema-07/statistiek3.md","articles":[]},"previous":{"title":"Thema 7: Analyse van Genexpressie","level":"3.3","depth":1,"path":"thema-07/Readme.md","ref":"thema-07/Readme.md","articles":[{"title":"Praktijkopdracht","level":"3.3.1","depth":2,"path":"thema-07/praktijkopdracht07.md","ref":"thema-07/praktijkopdracht07.md","articles":[]},{"title":"Statistiek 3","level":"3.3.2","depth":2,"path":"thema-07/statistiek3.md","ref":"thema-07/statistiek3.md","articles":[]},{"title":"Algoritmen en Datastructuren","level":"3.3.3","depth":2,"path":"thema-07/algoritmen_datastructuren.md","ref":"thema-07/algoritmen_datastructuren.md","articles":[]},{"title":"Microbiologie 1","level":"3.3.4","depth":2,"path":"thema-07/microbiologie1.md","ref":"thema-07/microbiologie1.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-07/praktijkopdracht07.md","mtime":"2018-03-21T08:28:01.528Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-21T08:33:45.110Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
