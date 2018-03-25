@@ -35,7 +35,7 @@ Informatica 2 is de tweede van drie cursussen over de programmeertaal Python. Di
 - [Python home](https://www.python.org/)
 
 ### Competenties
-\-
+- 5. Programmeren(I), 8. Eigen systeem beheren(I)
 
 ### Werkvormen  
 - Hoorcollege
@@ -48,17 +48,18 @@ Informatica 2 is de tweede van drie cursussen over de programmeertaal Python. Di
 \- 
 
 #### Voorkennis
-\-
+- Voorkennis van informatica1 is nodig om informatica2 goed uit te kunnen volgen
 
 #### Voorkennis kan worden opgedaan met
-\-
+- Informatica1, praktijkopdracht1, en raadplegen van de literatuur
 
 #### Bronnen van zelfstudie
-\-
+- http://www.greenteapress.com/thinkpython/thinkpython.html
+- https://learnpythonthehardway.org/python3/
 
 #### Verplicht materiaal
 \-
 
 #### Aanbevolen materiaal
-\-
+- Oefenmateriaal is te vinden in de tutorials op https://bioinf.nl/~fennaf/informatica2/
 
