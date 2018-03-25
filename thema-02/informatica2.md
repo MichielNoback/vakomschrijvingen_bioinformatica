@@ -56,6 +56,7 @@ Informatica 2 is de tweede van drie cursussen over de programmeertaal Python. Di
 #### Bronnen van zelfstudie
 - http://www.greenteapress.com/thinkpython/thinkpython.html
 - https://learnpythonthehardway.org/python3/
+- https://bioinf.nl/~fennaf/informatica2/
 
 #### Verplicht materiaal
 \-
