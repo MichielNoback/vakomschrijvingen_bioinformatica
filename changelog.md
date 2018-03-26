@@ -10,6 +10,21 @@ Houdt deze vorm aan voor het changelog:
 
 ## 2017-2018
 
+- [2018-02-20] *__Informatica 2, thema 2__*   
+    Het en der herzieningen en aanvullingen. [Informatica 2](thema-02/informatica2.md)
+    - __In Osiris: Nee__
+- [2018-03-26] *__Praktijkopdracht, thema 08__*  
+    Geheel herzien [Praktijkopdracht 08](thema-08/praktijkopdracht08.md)
+    - __In Osiris: Nee__
+- [2018-03-26] *__Dataprocessing, thema 11__*  
+    Geheel herzien [Dataprocessing](thema-11/dataprocessing.md)
+    - __In Osiris: Nee__
+- [2018-03-26] *__Basisvaardigheden Wiskunde, thema 01__*  
+    Geheel herzien [Basisvaardigheden Wiskunde](thema-01/basisvaardigheden_wiskunde.md)
+    - __In Osiris: Nee__
+- [2018-03-23] *__Statistiek 3, thema 07__*  
+    Literatuur en cursusdoelen aangepast [Statistiek 3](thema-07/statistiek3.md)
+    - __In Osiris: Nee__
 - [2018-03-21] *__Biochemie 2, thema 06__*  
     Leerdoelen toegevoegd en literatuur en werkvorm aangepast [Biochemie 2](thema-06/biochemie2.md)
     - __In Osiris: Nee__
@@ -20,7 +35,7 @@ Houdt deze vorm aan voor het changelog:
     Geheel herzien [Themaopdracht 10](thema-10/praktijkopdracht10.md)
     - __In Osiris: Nee__
 - [2018-03-21] *__Themaopdracht, thema 07__*  
-    Geheel herzien [Themaopdracht 07](thema-02/praktijkopdracht07.md)
+    Geheel herzien [Themaopdracht 07](thema-07/praktijkopdracht07.md)
     - __In Osiris: Nee__
 - [2018-03-21] *__Themaopdracht, thema 05__*   
     Geheel herzien [Themaopdracht 05](thema-05/praktijkopdracht05.md)
@@ -65,7 +80,7 @@ Houdt deze vorm aan voor het changelog:
     Leerdoelen aangepast en boek aangepast. [Chemie 1](thema-01/chemie1.md)
     - __In Osiris: Nee__
 - [2018-02-20] *__Informatica 1, thema 1__*   
-    Item toegevoegd aan Inhoud ("inlezen van tekstfiles"). [Informatica 1](thema-01/informatica1.md)
+    Item toegevoegd aan Inhoud ("inlezen van tekstfiles") en secties ingevuld. [Informatica 1](thema-01/informatica1.md)
     - __In Osiris: Nee__
 - [2018-02-20] *__Web-based information systems 1, thema 10__*   
     Zo goed als compleet herschreven vakomschrijving (ook toetsing). [Web-based informatiesystemen 1](thema-10/webbased1.md)

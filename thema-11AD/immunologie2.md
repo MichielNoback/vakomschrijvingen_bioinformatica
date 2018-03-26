@@ -7,7 +7,7 @@
 | Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | Marike Dijkstra |
-| Contactpersoon  | J. Hageman |
+| Contactpersoon  | Marike Dijkstra |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

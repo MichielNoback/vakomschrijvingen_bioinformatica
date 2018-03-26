@@ -35,7 +35,7 @@ Informatica 2 is de tweede van drie cursussen over de programmeertaal Python. Di
 - [Python home](https://www.python.org/)
 
 ### Competenties
-- 5. Programmeren(I), 8. Eigen systeem beheren(I)
+\- 
 
 ### Werkvormen  
 - Hoorcollege

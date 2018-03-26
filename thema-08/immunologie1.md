@@ -6,8 +6,8 @@
 | ECTS  | 3 |
 | Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | J.H. Robben |
-| Contactpersoon  | J.H. Robben |
+| Docent(en)  | Marike Dijkstra |
+| Contactpersoon  | Marike Dijkstra |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

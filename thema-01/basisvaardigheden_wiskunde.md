@@ -39,7 +39,7 @@ Deel 1. ThiemeMeulenhof, 2010. ISBN 9789006952278. H1.
 - Blackboard course thema 1
 
 ### Competenties
-- 4(I)
+\-
 
 ### Werkvormen  
 - Het vak Basisvaardigheden Wiskunde bestaat uit 8 lessen van 90 minuten, waarin theorie en opdrachten worden afgewisseld (Hoor/werkcolleges)
