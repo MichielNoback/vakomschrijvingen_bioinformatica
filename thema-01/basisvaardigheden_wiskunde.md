@@ -13,6 +13,7 @@
 ## Cursusdoelen (leerdoelen)
 
 De student heeft kennis van en inzicht in:
+Na het volgen van deze cursus heeft de student kennis van en inzicht in:
 - gebruik van rekenregels
 - rekenen met haakjes en breuken
 - rekenen met machten, wortels, machtsfuncties en logaritmen
@@ -21,11 +22,7 @@ De student heeft kennis van en inzicht in:
 - oplossen van tweedegraads vergelijkingen (product van factoren en abc-formule)
 - oplossen van stelsels (lineaire) vergelijkingen
 - oplossen van vergelijkingen met wortels, machtsfuncties en logaritmen
-- Basislogica; werken met waarheidstabellen
-- de notatie van logische formules (propositielogica)
-- herschrijfregels van logische formules
-- verzamelingenleer (set theorie) en zijn rekenregels
-- grafen en bomen (netwerktheorie)
+- omschrijven van formules
 
 
 ## Inhoud
@@ -42,10 +39,10 @@ Deel 1. ThiemeMeulenhof, 2010. ISBN 9789006952278. H1.
 - Blackboard course thema 1
 
 ### Competenties
-\-
+- 4(I)
 
 ### Werkvormen  
-- Hoor/werkcolleges
+- Het vak Basisvaardigheden Wiskunde bestaat uit 8 lessen van 90 minuten, waarin theorie en opdrachten worden afgewisseld (Hoor/werkcolleges)
 
 #### Ingangseisen 
 \- 
@@ -60,11 +57,11 @@ Deel 1. ThiemeMeulenhof, 2010. ISBN 9789006952278. H1.
 \-
 
 #### Bronnen van zelfstudie
-\-
+- De DWO (Digitale Wiskunde Omgeving) is een gratis digitale omgeving waarin je gemakkelijk de wiskunde kunt oefenen die in Basisvaardigheden Wiskunde aan bod komt.
 
 #### Verplicht materiaal
 \-
 
 #### Aanbevolen materiaal
-\-
+- Het dictaat "Basisvaardigheden Wiskunde" bevat uitleg, stappenplannen en oefeningen. De antwoorden van deze oefenopgaven staan achterin, zodat je jezelf kunt controleren. Het dictaat is te vinden op blackboard. 
 
