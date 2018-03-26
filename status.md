@@ -62,7 +62,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! FEFE)** Praktijkopdracht](thema-08/praktijkopdracht08.md)
     * [**(! KEYJ)** Microbiologie 2](thema-08/microbiologie2.md)
     * [**(! DIMH)** Immunologie 1](thema-08/immunologie1.md)
-    * [Moleculaire biologie](thema-08/moleculaire_biologie.md)
+    * [Wiskunde](thema-08/wiskunde.md)
     * [SLB6](thema-08/SLB2_4.md)
 
 ## Jaar 3

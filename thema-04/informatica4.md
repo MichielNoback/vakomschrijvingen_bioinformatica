@@ -40,6 +40,7 @@ R is a programming language and software environment for data analysis, statisti
     - Chapter 3.2
     - Chapter 4
     - Chapter 5.1
+    - Appendix A.1 (Programming)
 Note this does not restrict the theory; everythong dealt with in the presentations is supposed to be known.
 
 **Web**
