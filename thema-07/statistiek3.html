@@ -1501,18 +1501,29 @@
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
 <ul>
 <li>Preprocessing van microarray data (background correctie, normalisatie, log-transformatie);</li>
-<li>Analyseren van microarray data met parametrische toetsen (1-sample, 2-sample, gepaarde t-toetsen, 1-way ANOVA);</li>
-<li>Analyseren van microarray data met niet-parametrische toetsen (Wilcoxon, Mann-Whitney, Kruskal-Wallis);</li>
+<li>Analyseren van (continue) microarray data met parametrische toetsen (1-sample, 2-sample en gepaarde t-toetsen, 1-way ANOVA en 2-way ANOVA met blocking);</li>
+<li>Berekenen en interpreteren van effectsterktes voor deze parametrische toetsen;</li>
 <li>Toepassing van multiple-toetsing correcties (Bonferroni, Holm, Benjamini-Hochberg);</li>
 <li>Clustering van genen en/of samples via hi&#xEB;rarchische en k-means clustering methoden, en maken van dendrogrammen en heatmaps;</li>
+<li>Analyseren van (discrete) data met parametrische toetsen (1-sample en 2-sample z-toetsen, 1-way en 2-way chi-kwadraat toetsen);<ul>
+<li>Berekenen en interpreteren van effectsterktes voor deze parametrische toetsen;</li>
+</ul>
+</li>
 <li>Gebruik van R, RStudio en enkele extra libraries.</li>
 </ul>
 <h2 id="inhoud">Inhoud</h2>
-<p>Statistiek 3 geeft een introductie in het analyseren van micro-array gegevens, en het gebruik van R.</p>
+<p>Statistiek 3 geeft een introductie in hypothese-toetsen, het analyseren van micro-array gegevens, en het gebruik van R.</p>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
 <p><strong>Literatuur</strong>  </p>
 <ul>
-<li><strong>BOEKEN</strong></li>
+<li>Verzani, J. (2014): Using R for Introductory Statistics. 2e druk, Taylor &amp; Francis  <ul>
+<li>Hoofdstuk 8.3, 8.4, 8.5</li>
+<li>Hoofdstuk 9.1</li>
+<li>Hoofdstuk 10</li>
+<li>Hoofdstuk 11.1 (11.2)</li>
+<li>Hoofdstuk 12.1, 12,2</li>
+</ul>
+</li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
@@ -1581,7 +1592,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Statistiek 3","level":"3.3.2","depth":2,"next":{"title":"Algoritmen en Datastructuren","level":"3.3.3","depth":2,"path":"thema-07/algoritmen_datastructuren.md","ref":"thema-07/algoritmen_datastructuren.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"3.3.1","depth":2,"path":"thema-07/praktijkopdracht07.md","ref":"thema-07/praktijkopdracht07.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-07/statistiek3.md","mtime":"2018-02-15T12:42:49.829Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-21T15:24:12.926Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Statistiek 3","level":"3.3.2","depth":2,"next":{"title":"Algoritmen en Datastructuren","level":"3.3.3","depth":2,"path":"thema-07/algoritmen_datastructuren.md","ref":"thema-07/algoritmen_datastructuren.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"3.3.1","depth":2,"path":"thema-07/praktijkopdracht07.md","ref":"thema-07/praktijkopdracht07.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-07/statistiek3.md","mtime":"2018-03-22T15:12:25.831Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-26T07:35:15.717Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

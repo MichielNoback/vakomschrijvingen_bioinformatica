@@ -10,13 +10,13 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! HJUR)** Informatica 1 (Python 1)](thema-01/informatica1.md)
     * [**(! VRTI)** Biologie 1](thema-01/biologie1.md)
     * [**(! ROBI)** Chemie 1](thema-01/chemie1.md)
-    * [Basisvaardigheden Wiskunde](thema-01/basisvaardigheden_wiskunde.md)
+    * [**(! FEFE)** Basisvaardigheden Wiskunde](thema-01/basisvaardigheden_wiskunde.md)
     * [Startvaardigheden Nederlands](thema-01/startvaardigheden_nederlands.md)
     * [SLB1/introductie](thema-01/SLB_introductie.md)
     
 * [Thema 2: Energiehuishouding v.d. cel](thema-02/Readme.md)
     * [**(! KEMC)** Praktijkopdracht](thema-02/praktijkopdracht02.md)
-    * [Informatica 2 (Python 2)](thema-02/informatica2.md)
+    * [**(! FEFE)** Informatica 2 (Python 2)](thema-02/informatica2.md)
     * [Biologie 2](thema-02/biologie2.md)
     * [**(! ZWJE)** Chemie 2](thema-02/chemie2.md)
     * [Rapporteren propedeuse](thema-02/rapporteren.md)
@@ -54,14 +54,14 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 
 * [Thema 7: Analyse van Genexpressie](thema-07/Readme.md)
     * [**(! KEMC)** Praktijkopdracht](thema-07/praktijkopdracht07.md)
-    * [Statistiek 3](thema-07/statistiek3.md)
+    * [**(! APMA)** Statistiek 3](thema-07/statistiek3.md)
     * [**(! PARN)** Algoritmen en Datastructuren](thema-07/algoritmen_datastructuren.md)
     * [**(! KEYJ)** Microbiologie 1](thema-07/microbiologie1.md)
 
 * [Thema 8: Introduction to Systems Biology](thema-08/Readme.md)
-    * [Praktijkopdracht](thema-08/praktijkopdracht08.md)
+    * [**(! FEFE)** Praktijkopdracht](thema-08/praktijkopdracht08.md)
     * [**(! KEYJ)** Microbiologie 2](thema-08/microbiologie2.md)
-    * [Immunologie 1](thema-08/immunologie1.md)
+    * [**(! DIMH)** Immunologie 1](thema-08/immunologie1.md)
     * [Moleculaire biologie](thema-08/moleculaire_biologie.md)
     * [SLB6](thema-08/SLB2_4.md)
 
@@ -85,8 +85,8 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 * [Thema 11: Application Design](thema-11AD/Readme.md)
     * [**(! NOMI)** Praktijkopdracht](thema-11AD/praktijkopdracht11AD.md)
     * [**(! NOMI)** Application Design](thema-11AD/appdesign.md)
-    * [Immunologie 2](thema-11AD/immunologie2.md)
-    * [Dataprocessing](thema-11AD/dataprocessing.md)
+    * [**(! DIMH)** Immunologie 2](thema-11AD/immunologie2.md)
+    * [**(! FEFE)** Dataprocessing](thema-11AD/dataprocessing.md)
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12AD/Readme.md)
     * [**(! NOMI)** Praktijkopdracht](thema-12AD/praktijkopdracht12AD.md)
@@ -100,7 +100,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [Praktijkopdracht](thema-11DM/praktijkopdracht11DM.md)
     * [Advanced datamining](thema-11DM/advanced_datamining.md)
     * [**(! DIMH)** Immunologie 2](thema-11AD/immunologie2.md)
-    * [Dataprocessing](thema-11AD/dataprocessing.md)
+    * [**(! FEFE)** Dataprocessing](thema-11AD/dataprocessing.md)
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12DM/Readme.md)
     * [Praktijkopdracht](thema-12DM/praktijkopdracht12DM.md)
