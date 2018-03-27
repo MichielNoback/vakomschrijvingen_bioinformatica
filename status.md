@@ -1,9 +1,8 @@
 # Status Herzieningen
 
-## Jaar 1
-
 Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (voorgesteld) voor de module, of heeft aangegeven dat de informatie correct en actueel is.
 
+## Jaar 1
 
 * [Thema 1: Orde in Chaos](thema-01/Readme.md)
     * [**(! BOJP)** Praktijkopdracht](thema-01/praktijkopdracht01.md)
@@ -62,7 +61,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! FEFE)** Praktijkopdracht](thema-08/praktijkopdracht08.md)
     * [**(! KEYJ)** Microbiologie 2](thema-08/microbiologie2.md)
     * [**(! DIMH)** Immunologie 1](thema-08/immunologie1.md)
-    * [Wiskunde](thema-08/wiskunde.md)
+    * [**(! WATS)** Wiskunde](thema-08/wiskunde.md)
     * [SLB6](thema-08/SLB2_4.md)
 
 ## Jaar 3

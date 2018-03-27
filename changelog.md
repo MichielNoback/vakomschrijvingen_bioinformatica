@@ -13,6 +13,10 @@ Houdt deze vorm aan voor het changelog:
 - [2018-02-20] *__Informatica 2, thema 2__*   
     Het en der herzieningen en aanvullingen. [Informatica 2](thema-02/informatica2.md)
     - __In Osiris: Nee__
+    
+- [2018-03-26] *__Wiskunde, thema 08__*  
+    Nieuw vak vervangt MolBio [Wiskunde](thema-08/wiskunde.md)
+    - __In Osiris: Nee__
 - [2018-03-26] *__Praktijkopdracht, thema 08__*  
     Geheel herzien [Praktijkopdracht 08](thema-08/praktijkopdracht08.md)
     - __In Osiris: Nee__
