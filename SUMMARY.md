@@ -63,8 +63,9 @@
     * [Praktijkopdracht](thema-08/praktijkopdracht08.md)
     * [Microbiologie 2](thema-08/microbiologie2.md)
     * [Immunologie 1](thema-08/immunologie1.md)
-    * [Moleculaire biologie](thema-08/moleculaire_biologie.md)
+    * [Wiskunde](thema-08/wiskunde.md)
     * [SLB6](thema-08/SLB2_4.md)
+    * [Moleculaire biologie (Laatste keer in 2017-2018)](thema-08/moleculaire_biologie.md)
 
 ## Jaar 3
 
