@@ -1478,7 +1478,7 @@
 </tr>
 <tr>
 <td>Toetsvorm</td>
-<td>Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml</td>
+<td>Opdracht</td>
 </tr>
 <tr>
 <td>Minimum cijfer</td>
@@ -1486,11 +1486,11 @@
 </tr>
 <tr>
 <td>Docent(en)</td>
-<td>BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD</td>
+<td>HEMI</td>
 </tr>
 <tr>
 <td>Contactpersoon</td>
-<td></td>
+<td>HEMI</td>
 </tr>
 <tr>
 <td>Voertaal</td>
@@ -1501,50 +1501,68 @@
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
 <ul>
 <li>Kennis opdoen van bestaande grid-computing systemen.</li>
-<li>Leren programmeren met de Hadoop API (Java/Python).</li>
-<li>Leren hoe bestaande programma&#x2019;s en algoritmen aan te passen voor gebruik met Hadoop.</li>
+<li>Leren programmeren met de Spark API (Java/Python).</li>
+<li>Leren hoe bestaande programma&#x2019;s en algoritmen aan te passen voor gebruik met Spark.</li>
+<li>Leren beredeneren welke parallelisatiestrategie het beste voor een bepaalde dataset of algoritme werkt</li>
+<li>Begrijpen hoe grafische of andere customhardware Deep Learning versnelt</li>
+<li>De TensorFlow toolkit voor deep learning kennen en kunnen toepassen op een biologisch relevant deep learning probleem</li>
 </ul>
 <h2 id="inhoud">Inhoud</h2>
 <p>Bioinformatici moeten bijzonder grote hoeveelheden data kunnen verwerken; gigabytes zo niet terabytes. Individuele computers zijn hier vaak niet krachtig genoeg voor.</p>
 <p>Een oplossing is dan om meerdere computers aan het rekenen te zetten.
-Hoe dit te organiseren is een zich continu ontwikkelend veld. In dit vak komt de theorie van een aantal verschillende systemen aan bod (OpenMPI, Condor, SLURM, Hadoop, Spark), en wordt de focus gelegd op het Hadoop systeem.
-Dit Grid-computing systeem is erg populair in de &quot;Big Data&quot; wereld maar vergt wel aanpassing van bestaande programma&apos;s naar een bepaald format: het Map/Reduce patroon. Aan de hand van de Weka toolkit uit de module Advanced Datamining worden een aantal algoritmen uit Thema 11 aangepast voor Hadoop.
-De geleerde technieken zullen verder toegepast worden in het project van Thema 12 &quot;Big Data &amp; Machine Learning&quot;. Online documentatie op <a href="http://hadoop.apache.org/" target="_blank">http://hadoop.apache.org/</a> en andere webstes. Optioneel boek &quot;Hadoop: the Definitive Guide&quot; van Tom White (O&apos;Reilly, 3rd Edition of later).</p>
+Hoe dit te organiseren is een zich continu ontwikkelend veld. In dit vak komt de theorie van een aantal verschillende systemen aan bod (OpenMPI, Condor, SLURM, Hadoop, Spark), en wordt de focus gelegd op het Spark systeem. Daarnaast vragen veel van deze systemen, en Spark in het bijzonder, een bepaalde organisatie van de data die verwerkt moet worden: een gedistribueerde database zoals HDFS, Cassandra of Spark DataFrames.
+Dit Grid-computing systeem is erg populair in de &quot;Big Data&quot; wereld maar vergt wel aanpassing van bestaande programma&apos;s naar een bepaald format: het Map/Reduce patroon. Aan de hand van de Weka toolkit uit de module Advanced Datamining worden een aantal algoritmen uit Thema 11 aangepast voor Spark.
+De geleerde technieken zullen verder toegepast worden in het project van Thema 12 &quot;Big Data &amp; Machine Learning&quot;. Online documentatie op <a href="http://hadoop.apache.org/" target="_blank">http://hadoop.apache.org/</a> en andere webstes van de gebruikte software: URLs hiervoor zijn te vinden op BlackBoard en in het dictaat voor dit vak.</p>
+<p>Een andere manier om grote hoeveelheden data te verwerken, en dan in het bijzonder om machine learning met &quot;Deep Learning&quot; algoritmen erop toe te passen is om deze berekeningen op grafische hardware of andere in Lineaire Algebra gespecialiseerde hardware te draaien. Om dit concept toe te lichten wordt Google&apos;s TensorFlow deep learning toolkit geintroduceerd.</p>
+<p>Dit vak bestaat uit korte introductie hoorcolleges, waarna praktisch gewerkt wordt aan opdrachten die de verschillende technieken en softwarepakketten gebruiken. Deze opdrachten worden op correctheid en snelheid getoetst en vormen samen de beoordeling van het vak. Een opdracht missen is een onvoldoende halen!</p>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
 <p><strong>Literatuur</strong>  </p>
 <ul>
-<li><strong>BOEKEN</strong></li>
+<li>Cursus collegesheets en dictaat
+Eventueel:</li>
+<li>Learning Tensorflow, Tom Hope, Yehezkel Resheff &amp; Itay Lieder, ISBN  978-1491978511</li>
+<li>Spark: The Definitive Guide: Big Data Processing Made Simple, Matei Zaharia &amp; Bill Chambers, ISBN 978-1491912218</li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
-<li>Blackboard course thema XX</li>
+<li>Blackboard course thema 12 (Datamining)</li>
 </ul>
 <h3 id="competenties">Competenties</h3>
-<p>-</p>
-<h3 id="werkvormen">Werkvormen</h3>
-<p><strong>KIES UIT</strong></p>
 <ul>
-<li>Praktijkopdrachten/Projectonderwijs  </li>
-<li>Hoorcollege</li>
-<li>Werkcollege</li>
-<li>Hoor/werkcolleges</li>
-<li>Peer review</li>
-<li>Zelfstudie</li>
+<li>Experimenteren (3)</li>
+<li>Programmeren (3)</li>
+<li>Data beheren (3)</li>
+<li>Code beheren (2)</li>
+<li><p>Onderzoeken: De Wetenschappelijke Methode toepassen</p>
+<h3 id="werkvormen">Werkvormen</h3>
+</li>
+<li><p>Hoor/werkcolleges</p>
+</li>
 </ul>
 <h4 id="ingangseisen">Ingangseisen</h4>
 <p>- </p>
 <h4 id="ingangseisen-toets">Ingangseisen toets</h4>
 <p>- </p>
 <h4 id="voorkennis">Voorkennis</h4>
-<p>-</p>
+<ul>
+<li>Goede kennis van programmeren, in Java en/of Python, wordt verondersteld</li>
+<li>Kennis van basale algoritmiek zoals in Algoritmen en Datastructuren wordt verondersteld</li>
+<li>Kennis van Linux/command line gebruik wordt verondersteld</li>
+</ul>
 <h4 id="voorkennis-kan-worden-opgedaan-met">Voorkennis kan worden opgedaan met</h4>
-<p>-</p>
+<ul>
+<li>Informatica 1-3, Intro Java, Algoritmen en Datastructuren, Linuxcursus Thema 4</li>
+</ul>
 <h4 id="bronnen-van-zelfstudie">Bronnen van zelfstudie</h4>
 <p>-</p>
 <h4 id="verplicht-materiaal">Verplicht materiaal</h4>
-<p>-</p>
+<ul>
+<li>geen</li>
+</ul>
 <h4 id="aanbevolen-materiaal">Aanbevolen materiaal</h4>
-<p>-</p>
+<ul>
+<li>collegesheets, dictaat, achtergrond websites/documentatie van de gebuikte software</li>
+</ul>
 
                                 
                                 </section>
@@ -1588,7 +1606,7 @@ De geleerde technieken zullen verder toegepast worden in het project van Thema 1
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Big data computing","level":"6.2.2","depth":2,"next":{"title":"Statistiek 5","level":"6.2.3","depth":2,"path":"thema-12AD/statistiek5.md","ref":"thema-12AD/statistiek5.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"6.2.1","depth":2,"path":"thema-12DM/praktijkopdracht12DM.md","ref":"thema-12DM/praktijkopdracht12DM.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-12DM/bd_computing.md","mtime":"2018-02-19T11:02:08.187Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-26T07:35:15.717Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Big data computing","level":"6.2.2","depth":2,"next":{"title":"Statistiek 5","level":"6.2.3","depth":2,"path":"thema-12AD/statistiek5.md","ref":"thema-12AD/statistiek5.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"6.2.1","depth":2,"path":"thema-12DM/praktijkopdracht12DM.md","ref":"thema-12DM/praktijkopdracht12DM.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-12DM/bd_computing.md","mtime":"2018-03-26T12:07:19.369Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-26T07:35:15.717Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
