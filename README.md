@@ -26,6 +26,7 @@ De kerndocenten van de opleiding (voor mail adres: neem  tussen haakjes en voeg 
 
 Docenten uit andere teams:  
 - **APMA** Emile Apol (m.e.f.apol)
+- **BORA** Ronald Boonstra (r.boonstra)
 - **DIMH** Marike Dijkstra (m.h.dijkstra)
 - **KEYJ** Jeanine de Keyzer (j.de.keyzer)
 - **KJON** Marjon Kuiper (j.m.kuiper)

@@ -35,13 +35,13 @@ Onderwerp van deze eerste module is de basis van alle bio-informatica-analyses: 
 - Blackboard course thema 3
 
 ### Competenties
-NVT
+\-
 
 ### Werkvormen  
 - Hoorcollege
 
 #### Ingangseisen 
-Geen
+- Geen
 
 #### Ingangseisen toets
 \- 

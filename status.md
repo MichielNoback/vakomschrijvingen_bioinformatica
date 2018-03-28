@@ -25,7 +25,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! WERD)** Praktijkopdracht](thema-03/praktijkopdracht03.md)
     * [**(! BOJP)** Informatica 3 (Python 3)](thema-03/informatica3.md)
     * [Biologie 3](thema-03/biologie3.md)
-    * [Bio-informatica 1](thema-03/bioinformatica1.md)
+    * [**(! HEMI)** Bio-informatica 1](thema-03/bioinformatica1.md)
     * [Presenteren](thema-03/presenteren.md)
     * [SLB3](thema-03/SLB1_3.md)
 
@@ -40,7 +40,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 
 * [Thema 5: Genomica praktijk](thema-05/Readme.md)
     * [**(! KEMC)** Praktijkopdracht](thema-05/praktijkopdracht05.md)
-    * [Bio-informatica 2](thema-05/bioinformatica2.md)
+    * [**(! HEMI)** Bio-informatica 2](thema-05/bioinformatica2.md)
     * [**(! NASA)** Biochemie 1](thema-05/biochemie1.md)
     * [**(! PARN)** Databases 1](thema-05/databases1.md)
 
