@@ -70,7 +70,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! NOMI)** Praktijkopdracht](thema-09/praktijkopdracht09.md)
     * [**(! NOMI)** Introductie Datamining](thema-09/introductie_datamining.md)
     * [**(! NOMI)** Introductie Java](thema-09/introductie_java.md)
-    * [Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
+    * [**(! HEMI)** Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
 
 * [Thema 10: Research web applications](thema-10/Readme.md)
     * [**(! KEMC)** Praktijkopdracht](thema-10/praktijkopdracht10.md)

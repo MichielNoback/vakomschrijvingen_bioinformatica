@@ -73,7 +73,8 @@
     * [Praktijkopdracht](thema-09/praktijkopdracht09.md)
     * [Introductie Datamining](thema-09/introductie_datamining.md)
     * [Introductie Java](thema-09/introductie_java.md)
-    * [Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
+    * [Theorie van bio-informatica 2 (tot jaar 2018-2019)](thema-05/bioinformatica2.md)
+    * [Bio-informatica 3 (vanaf 2019-2020)](thema-09/bioinformatica3.md)
 
 * [Thema 10: Research web applications](thema-10/Readme.md)
     * [Praktijkopdracht](thema-10/praktijkopdracht10.md)

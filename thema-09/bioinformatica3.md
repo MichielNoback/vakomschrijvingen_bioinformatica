@@ -1,4 +1,5 @@
 # Module: Theorie Bioinformatica 3
+**Deze module draait vanaf schooljaar 2019-2020**  
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |

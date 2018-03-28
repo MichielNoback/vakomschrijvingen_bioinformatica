@@ -1,5 +1,7 @@
 # Module: Bio-informatica 2
 
+**In schooljaar 2018-2019 is dit voor Thema 9 (jaar 3) de module Theorie van Bio-informatica 2!**
+
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
 | Osiriscode  | __OSIRISCODE__  |
