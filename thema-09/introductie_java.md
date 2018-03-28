@@ -18,7 +18,6 @@ After attending this course, students will have knowledge of, and can apply the 
 - Create and implement a basic Object-Oriented design. 
 - Using the IntelliJ Idea IDE for programming, refactoring and version control.
 - Basic usage of Gradle project management (in concordance with IntelliJ)
-- Using git (on Bitbucket) as version control tool
 - Running JUnit test cases using IntelliJ
 
 ## Inhoud
@@ -26,7 +25,7 @@ After attending this course, students will have knowledge of, and can apply the 
 During this introductory course you will learn to program in Java, create an Object-Oriented design, work with the IntelliJ Idea IDE and use git as a version control system.
 
 **Beoordeling**
-De cursus wordt afgesloten met een comuptertentamen, waarin zowel tekstuele vragen worden gesteld als programmeeropdrachten worden geboden.
+There will be a 2-hour computer assessment to test your skills and knowledge of the different aspects.
 
 ### Literatuur en andere bronnen
 
@@ -36,6 +35,7 @@ De cursus wordt afgesloten met een comuptertentamen, waarin zowel tekstuele vrag
 **Web**
 - Blackboard course thema 9
 - https://bioinf.nl/~michiel/courses/Java
+- Some practice assignments can be found at https://bitbucket.org/minoba/javaintroprogrammingassignments. Instructions on setting up can be found there. These ungraded introductory assignments (week 1- 4) have corresponding Unit tests to verify your solution. 
 
 ### Competenties
 \-

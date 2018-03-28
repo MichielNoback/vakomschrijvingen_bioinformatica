@@ -12,17 +12,21 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- Samenstellen relevante datasets, opschonen en sorteren ervan
-- Kunnen kiezen tussen verschillende veel gebruikte dataminingtechnologieen
+- Selecteren en samenstellen van datasets geschikt voor datamining
+- Opschonen en transformeren van datamining datasets
+- Beargumenteerd kunnen kiezen tussen verschillende standaard datamining technologieen
+- Datamining experimenten kunnen opzetten en evalueren
 - Opzetten trainings- en testomgevingen
 - Analyse van grote datasets
-- Wetenschappelijke poster maken
 - Zelfstandig uitvoeren onderzoek
 
 ## Inhoud
 
-Tijdens deze module wordt kennis gemaakt met datamining toepassingen en -analyses. Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om in een oogopslag de biologische vraag erachter te kunnen oplossen. Bijvoorbeeld “hoe veel multi-drug transporters vindt ik in dit metagenomics sample uit het ziekenhuis” (belangrijk voor antibiotica-resistentie). Door gebruik te maken van machine learning technieken kan in een grote, complexe dataset gezocht worden naar een grootste gemene deler, een “idee” van een eiwit ipv een specifiek eiwit uit een specifiek organisme (dat zou een klus voor Blast zijn). Tijdens dit practicum wordt een openliggende onderzoeksvraag gesteld en een dataset erbij gezocht (of andersom), uit de onderzoeksportfolio van ALIFE of een ander onderzoeksinstituut. Er wordt onderzocht of, en zo ja welke, machine learning technieken de gestelde vraag kunnen beantwoorden. Deze worden vervolgens geïmplementeerd en geëvalueerd op test datasets en uiteindelijk op de complete dataset indien mogelijk. Dit practicum is deel 1 van een 2 kwartaals-specialisatie; in deel 2 worden de gekozen technieken geparalleliseerd om de hele dataset te kunnen verwerken en de onderszoeksvraag te beantwoorden.
-literatuur
+Tijdens deze module wordt kennis gemaakt met datamining toepassingen en -analyses. 
+Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om 
+in een oogopslag de biologische vraag erachter te kunnen oplossen. 
+Door gebruik te maken van machine learning technieken kan in een grote, 
+complexe dataset gezocht worden naar patronen. 
 
 ### Literatuur en andere bronnen
 

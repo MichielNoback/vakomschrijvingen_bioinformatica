@@ -6,14 +6,14 @@
 | ECTS  | 6 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | ???? |
-| Contactpersoon  | ???? |
+| Docent(en)  | NOMI |
+| Contactpersoon  | NOMI |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
 
 De student kan na het volgen van deze module  
-- een verkennende data-analyse uitvoeren op een dataset die als input dient voor een datamining project; 
+- een verkennende data-analyse uitvoeren op een dataset die als input dient voor een datamining project;  
     - outliers herkennen en correct behandelen
     - benodigde data-transformaties uitvoeren
     - visualisaties maken
