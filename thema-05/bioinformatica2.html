@@ -917,12 +917,25 @@
             
         </li>
     
-        <li class="chapter " data-level="4.1.4" data-path="../thema-09/theorie_bioinf2.html">
+        <li class="chapter active" data-level="4.1.4" data-path="bioinformatica2.html">
             
-                <a href="../thema-09/theorie_bioinf2.html">
+                <a href="bioinformatica2.html">
             
                     
-                    Theorie van bio-informatica 2
+                    Theorie van bio-informatica 2 (tot jaar 2018-2019)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.5" data-path="../thema-09/bioinformatica3.html">
+            
+                <a href="../thema-09/bioinformatica3.html">
+            
+                    
+                    Bio-informatica 3 (vanaf 2019-2020)
             
                 </a>
             
@@ -1473,6 +1486,7 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="module-bio-informatica-2">Module: Bio-informatica 2</h1>
+<p><strong>In schooljaar 2018-2019 is dit voor Thema 9 (jaar 3) de module Theorie van Bio-informatica 2!</strong></p>
 <table>
 <thead>
 <tr>
@@ -1491,7 +1505,7 @@
 </tr>
 <tr>
 <td>Toetsvorm</td>
-<td>Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml</td>
+<td>Schriftelijk tentamen</td>
 </tr>
 <tr>
 <td>Minimum cijfer</td>
@@ -1512,13 +1526,20 @@
 </tbody>
 </table>
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
-<p><strong>AANVULLEN</strong></p>
+<ul>
+<li>De gebruikte software voor NGS expressieanalyse kennen, en weten hoe deze in pipelines te plaatsen om statistisch verantwoord expressiestudies te doen</li>
+<li>Het algoritme van mapping software (Burroughs-Wheeler Transform) kennen en begrijpen wat de afwegingen zijn die het zo snel maken maar ook False Negatives veroorzaken</li>
+<li>Begrijpen hoe een expressie (RNAseq) experiment opgezet moet worden om statistisch valide biologische conclusies te trekken</li>
+<li>Weten hoe het Assemblyproces werkt om &quot;nieuwe&quot; genomen uit NGS DNAseq data te maken en wat de belangrijkste typen software en hun settings zijn, en hoe deze het resultaat beinvloeden.</li>
+<li>Het process van Variant Calling (SNP&apos;s, indels) gebaseerd op een mappingpipeline begrijpen</li>
+</ul>
 <h2 id="inhoud">Inhoud</h2>
-<p><strong>AANVULLEN</strong></p>
+<p>Dit vak gaat over twee belangrijke NGS technieken: RNAseq (expressiestudies) en DNAseq t.b.v. genoomassembly</p>
+<p>Dit vak behandelt de geavanceerde algoritmen die nodig zijn om de grote hoeveelheden data die Next Generation Sequencing produceert te kunnen verwerken. Eerst wordt er gekeken naar de overtreffende trap van alignment algoritmen: mapping software zoals BWA, Bowtie2 en STAR. Er wordt ingegaan op het algoritme van Bowtie2 als voorbeeld van de keuzes die afgewogen worden om mapping software snel genoeg te maken om honderden miljoenen NGS reads snel genoeg te verwerken. Ook wordt er ingegaan op de &quot;pipelines&quot; die meestal gebruikt worden om expressiedata te verwerken. Preprocessing Quality Control (PHRED scores en trimming) worden uitgelegd, daarna de mapping en variant-call stappen en hoofdtypen van de gebruikte bestanden (fastq, SAM, BAM, vcf) . Er wordt ingegaan op de statistiek van expressie-experimenten en van variant calling. Tenslotte wordt ook assembleren besproken; het proces waarmee nieuw-gesequenced organismen hun genoom wordt bepaald. Het algoritme wordt vluchtig besproken, de nadruk ligt op praktische aspecten zoals het optimaliseren van de genoomgrootte, en de experimentele (lab) opzet die gebruikt kan worden om de assembly te verbeteren. De nadruk ligt weer op het ontwikkelen van praktisch toepasbare kennis, pipelines die gebruikt kunnen worden en de voor- en nadelen van verschillende software pakketten zoals Velvet, BamBus, Arachne, SPADEs.</p>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
 <p><strong>Literatuur</strong>  </p>
 <ul>
-<li>Bioinformatics and Functional Genomics 3rd ed (2015). Jonathan Pevsner.</li>
+<li>Bioinformatics and Functional Genomics 3rd ed (2015). Jonathan Pevsner. ISBN 978-1-118-58178-0</li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
@@ -1541,9 +1562,13 @@
 <h4 id="bronnen-van-zelfstudie">Bronnen van zelfstudie</h4>
 <p>-</p>
 <h4 id="verplicht-materiaal">Verplicht materiaal</h4>
-<p>-</p>
+<ul>
+<li>Boek, collegesheets</li>
+</ul>
 <h4 id="aanbevolen-materiaal">Aanbevolen materiaal</h4>
-<p>-</p>
+<ul>
+<li>Achtergrondartikelen Blackboard</li>
+</ul>
 
                                 
                                 </section>
@@ -1587,7 +1612,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Bio-informatica 2","level":"3.1.2","depth":2,"next":{"title":"Biochemie 1","level":"3.1.3","depth":2,"path":"thema-05/biochemie1.md","ref":"thema-05/biochemie1.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"3.1.1","depth":2,"path":"thema-05/praktijkopdracht05.md","ref":"thema-05/praktijkopdracht05.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-05/bioinformatica2.md","mtime":"2018-02-15T08:09:10.513Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-26T07:35:15.717Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Bio-informatica 2","level":"3.1.2","depth":2,"next":{"title":"Biochemie 1","level":"3.1.3","depth":2,"path":"thema-05/biochemie1.md","ref":"thema-05/biochemie1.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"3.1.1","depth":2,"path":"thema-05/praktijkopdracht05.md","ref":"thema-05/praktijkopdracht05.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-05/bioinformatica2.md","mtime":"2018-03-28T08:15:42.220Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-28T08:12:32.584Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
