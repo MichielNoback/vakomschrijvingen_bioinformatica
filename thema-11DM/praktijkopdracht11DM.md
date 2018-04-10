@@ -34,7 +34,7 @@ oplossen. Bijvoorbeeld "hoe veel multi-drug transporters vindt ik in dit metagen
 - Blackboard course thema 11
 
 ### Competenties
-1(III), 2(III), 3(III), 4(III), 5(III), 7(II), 9(I), 11(II), 12(II), 13(I)
+1(III), 2(III), 3(III), 4(III), 5(III), 7(II), 9(I), 11(I), 12(I), 13(I)
 
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  

@@ -35,7 +35,7 @@ Visualisatie van een dataformat uit de bio-informatica met behulp van Python web
 - https://www.w3schools.com/html/default.asp
 
 ### Competenties
-1(I), 2(I), 3(I), 4(I), 5(I), 7(I), 11(I), 13(I)
+1(I), 2(I), 3(I), 4(I), 5(I), 7(I), 8(I), 11(I), 13(I)
 
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  
