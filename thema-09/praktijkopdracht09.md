@@ -39,50 +39,25 @@ Although the central theme is Machine Learning, several other topics and/or comp
 **Assessment criteria**  
 
 1. Day-to-day professional functioning (25%)
-    - (participating in) work discussions
-    - Attendance
-    - Critical attitude towards own work
-    - Independence
+    - Critical attitude towards own work and that of others
     - Peer review (giving and receiving!)
 2. Research log (Markdown) containing description of daily work - primarily dealing with the research phase (25%)
     - Reproducibility
     - Readability
-    - Reliability
 3. Wrapper application of final algorithm (25%)
-    - User-friendliness
+    - Functionality
     - Code quality
     - Documentation + Readme.md
-    - Git repo
+    - Git usage
 4.	Report, focusing on the sections Results and Discussion and also assessing reporting technique (25%)
 The report should discuss  
     - data exploration, data cleaning and transformations 
     - Strategy and methodology of ML algorithm benchmarking and selection
     - Strategy and methodology of ML algorithm performance testing and optimization focusing on aspects of speed, memory usage, performance (accuracy, sensitivity etc)
-    - Evaluation of final ML algorithm and suggestions for future work
+    - Evaluation of final ML algorithm 
+    - Suggestions for future work
 
-
-1. Day-to-day professional functioning (25%)  
-    1. (participating in) work discussions  
-    2. Attendance  
-    3. Critical attitude towards own work  
-    4. Independence  
-    5. Peer review (giving and receiving!)
-2. Research log (Markdown) containing description of daily work - primarily dealing with the research phase (25%)  
-    1.	Reproducibility  
-    2.	Readability  
-    3.	Reliability  
-3.	Wrapper application of final algorithm (25%)  
-    1.	User-friendliness  
-    2.	Code quality  
-    3.	Documentation + Readme.md  
-    4.	Git repo  
-4.	Report, focusing on the sections Results and Discussion and also assessing reporting technique (25%)
-The report should discuss  
-    1. data exploration, data cleaning and  
-    2. ransformations   
-    3. Strategy and methodology of ML algorithm benchmarking and selection  
-    4. Strategy and methodology of ML algorithm   performance testing and optimization focusing on aspects of speed, memory usage, performance (accuracy, sensitivity etc)
-    5. Evaluation of final ML algorithm and suggestions for future work
+This [Excel sheet](https://michielnoback.github.io/vakomschrijvingen_bioinformatica/files/AssessmentFormThema9_template.xlsx) shows you exactly how you will be graded. It has the form of a Rubrics grading system.
 
 ### Literatuur en andere bronnen
 
