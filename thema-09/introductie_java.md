@@ -34,7 +34,7 @@ There will be a 2-hour computer assessment to test your skills and knowledge of 
 
 **Web**
 - Blackboard course thema 9
-- https://bioinf.nl/~michiel/courses/Java
+- https://bincourses.bitbucket.io/java_intro.html
 - Some practice assignments can be found at https://bitbucket.org/minoba/javaintroprogrammingassignments. Instructions on setting up can be found there. These ungraded introductory assignments (week 1- 4) have corresponding Unit tests to verify your solution. 
 
 ### Competenties

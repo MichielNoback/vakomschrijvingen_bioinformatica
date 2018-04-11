@@ -40,7 +40,7 @@ This course is assessed through a practical assessment scheduled in the examinat
 
 **Web**
 - Blackboard course thema 11
-- http://www.bioinf.nl/~michiel/courses/AppDesign/ 
+- https://bincourses.bitbucket.io/appdesign.html
 
 ### Competenties
 \-

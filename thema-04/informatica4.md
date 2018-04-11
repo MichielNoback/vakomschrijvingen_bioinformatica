@@ -45,7 +45,7 @@ Note this does not restrict the theory; everythong dealt with in the presentatio
 
 **Web**
 - Blackboard course thema 4
-- [Website NOMI](https://bioinf.nl/~michiel/courses/info4/)
+- cursuswebsite: [https://bincourses.bitbucket.io/informatica4.html](https://bincourses.bitbucket.io/informatica4.html)
 
 ### Competenties
 \-

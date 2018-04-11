@@ -44,7 +44,7 @@ There will be a 2-hour computer assessment to test your skills and knowledge of 
 
 **Web**
 - Blackboard course thema 10
-- http://www.bioinf.nl/~michiel/courses/WebBased
+- https://bincourses.bitbucket.io/webbased1.html
 
 
 ### Competenties
