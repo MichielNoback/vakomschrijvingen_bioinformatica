@@ -13,18 +13,19 @@
 ## Cursusdoelen (leerdoelen)
 
 After successfully completing the course, students will be able to 
-- Perform an exploratory data analysis on a dataset that serves as input data for machine learning;
+- Perform an exploratory data analysis (EDA) on a dataset that serves as input data for machine learning;
     - Identify outliers and treat these correctly
     - Identify correlated attributes
     - Apply appropriate data transformations
     - Create visualizations that help understand the data and assess its quality
-- Perform attribute selection;
-- Intelligently select, apply, optimize and evaluate ML algorithms;
-- Carry out a quality control on the aspects of code and algorithm performance using appropriate measures of quality;
-- Design and perform benchmarks to compare ML applications;
-- Make a ML algorithm available to the scientific community by wrapping it into a Command-line Java application and publishing it on a well-documented git repository;
+- Carry out Machine Learning research:  
+    - Intelligently select, apply, optimize and evaluate ML algorithms;
+    - Carry out a quality control on the aspects of code and algorithm performance using appropriate measures of quality;  
+    - Design and perform benchmarks to compare ML applications;
+- Publishing a ML algorithm to the scientific community by wrapping it into a Command-line Java application and publishing it on a well-documented git repository;
 - Communicate research results by means of work discussions, presentations, and a scientific report – focusing primarily on the sections Results and Discussion;
 - Translate the end result of her own project into a proposal for a subsequent research project, i.e. in one of the bioinformatics minors;
+- Display a well-founded critical attitude towards own and others' results as well as own professional functioning 
 
 
 ## Inhoud

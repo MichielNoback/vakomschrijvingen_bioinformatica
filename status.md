@@ -10,7 +10,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! VRTI)** Biologie 1](thema-01/biologie1.md)
     * [**(! ROBI)** Chemie 1](thema-01/chemie1.md)
     * [**(! FEFE)** Basisvaardigheden Wiskunde](thema-01/basisvaardigheden_wiskunde.md)
-    * [Startvaardigheden Nederlands](thema-01/startvaardigheden_nederlands.md)
+    * [**(! LUMF)** Startvaardigheden Nederlands](thema-01/startvaardigheden_nederlands.md)
     * [SLB1/introductie](thema-01/SLB_introductie.md)
     
 * [Thema 2: Energiehuishouding v.d. cel](thema-02/Readme.md)
@@ -18,7 +18,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! FEFE)** Informatica 2 (Python 2)](thema-02/informatica2.md)
     * [Biologie 2](thema-02/biologie2.md)
     * [**(! ZWJE)** Chemie 2](thema-02/chemie2.md)
-    * [Rapporteren propedeuse](thema-02/rapporteren.md)
+    * [**(! LUMF)** Rapporteren propedeuse](thema-02/rapporteren.md)
     * [SLB2](thema-02/SLB1_2.md)
 
 * [Thema 3: DNA, harde schijf v.d. cel](thema-03/Readme.md)
@@ -26,7 +26,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
     * [**(! BOJP)** Informatica 3 (Python 3)](thema-03/informatica3.md)
     * [Biologie 3](thema-03/biologie3.md)
     * [**(! HEMI)** Bio-informatica 1](thema-03/bioinformatica1.md)
-    * [Presenteren](thema-03/presenteren.md)
+    * [**(! LUMF)** Presenteren](thema-03/presenteren.md)
     * [SLB3](thema-03/SLB1_3.md)
 
 * [Thema 4: Genen en Overerving](thema-04/Readme.md)
