@@ -121,3 +121,17 @@
 
 * [Tweede semester: Afstuderen](thema-15_16/Readme.md)
     * [Afstuderen](thema-15_16/afstuderen.md)
+
+## Minor Bioinformatics for Life Science Students
+
+* [Kwartaal 1: Diagnostic Genome Analysis](minor_bioinformatics-01/Readme.md)
+    * [Project](minor_bioinformatics-01/praktijkopdracht1.md)
+    * [Python](minor_bioinformatics-01/introduction_python.md)
+    * [Linux](minor_bioinformatics-01/linux.md)
+    * [Theory of Bioinformatics 1](minor_bioinformatics-01/theory_bioinformatics1.md)
+    * [SLB / Introduction or Acedemic Counselling](minor_bioinformatics-01/SLB_minor.md)
+
+* [Kw: Visualisatie en gebruikersinteractie](minor_bioinformatics-02/Readme.md)
+    * [Praktijkopdracht](minor_bioinformatics-02/praktijkopdracht2.md)
+    * [Data Analysis and Visualization using R](minor_bioinformatics-02/davur.md)
+    * [Theory of Bioinformatics 2](minor_bioinformatics-02/theory_bioinformatics2.md)

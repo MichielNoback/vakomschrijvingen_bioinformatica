@@ -32,7 +32,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 * [Thema 4: Genen en Overerving](thema-04/Readme.md)
     * [**(! WATS)** Praktijkopdracht](thema-04/praktijkopdracht04.md)
     * [**(! NOMI)** Informatica 4 (Introductie R + Linux)](thema-04/informatica4.md)
-    * [Biologie 4](thema-04/biologie4.md)
+    * [**(! BOJP)** Biologie 4](thema-04/biologie4.md)
     * [**(! BOJP)** Statistiek 1+2](thema-04/statistiek12.md)
     * [SLB4](thema-04/SLB1_4.md)
 
