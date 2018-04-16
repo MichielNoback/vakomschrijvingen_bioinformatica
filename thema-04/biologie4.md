@@ -33,18 +33,18 @@ De student kan:
 
 ## Inhoud
 
-In dit thema staat ook  gezondheid en erfelijkheid centraal.  Middels lessen, opdrachten en gastcolleges worden de onderwerpen besproken. 
+In dit thema staat ook  gezondheid en erfelijkheid centraal.  Middels lessen en opdrachten worden de onderwerpen besproken. 
 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Campbell Biology 10e editie  (ISBN-10 1-292-00865-2)  
+- Campbell Biology 11e (global) editie  (ISBN-10 1-292-17043-3)  
     - Hoofd 12. De celcyclus, mitose, voorbeeld kankercellen. 
     - Hoofd. 13. Meiose, geslachtelijke levenscyclus, genetisch variatie.  
     - Hoofd. 14. Mendel en erfelijkheid patronen, Genetische testen om  erfelijke ziektes vast te stellen. 
     - Hoofd. 15. Chromosomen en erfelijkheid 
     - Hoofd. 23. Microevolutie 
-    - Hoofd. 47.  Immuunsysteem
+    - Hoofd. 47. Immuunsysteem
 
 
 **Web**
@@ -57,19 +57,19 @@ In dit thema staat ook  gezondheid en erfelijkheid centraal.  Middels lessen, op
 - Hoorcollege
 
 #### Ingangseisen 
-\- 
+- In principe geen ingangseisen, maar het help als Biologie 1 t/m 3 genoten is
 
 #### Ingangseisen toets
 \- 
 
 #### Voorkennis
-\-
+- Biologie 1 t/m 3
 
 #### Voorkennis kan worden opgedaan met
-\-
+- zelfstudie uit boven genoemde boek
 
 #### Bronnen van zelfstudie
-\-
+- boven genoemde boek
 
 #### Verplicht materiaal
 \-
