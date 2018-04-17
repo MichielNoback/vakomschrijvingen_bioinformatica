@@ -43,11 +43,8 @@ Eventueel:
 - Blackboard course thema 12 (Datamining)
 
 ### Competenties
-- Experimenteren (3)
-- Programmeren (3)
-- Data beheren (3)
-- Code beheren (2)
-- Onderzoeken: De Wetenschappelijke Methode toepassen
+\-
+
 ### Werkvormen  
 
 - Hoor/werkcolleges
