@@ -2,9 +2,9 @@
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | BFVH15THM11AD  |
+| Osiriscode  | BFVH4THM11  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
+| Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | LADR |
 | Contactpersoon  | LADR |
@@ -21,20 +21,21 @@
 
 ## Inhoud
 
-Tijdens dit thema wordt voor het eerst kennis gemaakt met dataminingtoepassingen en -analyses. Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om in een oogopslag de biologische vraag erachter te kunnen
-oplossen. Bijvoorbeeld "hoe veel multi-drug transporters vindt ik in dit metagenomics sample uit het ziekenhuis" (belangrijk voor antibiotica-resistentie). Door gebruik te maken van machine learning technieken kan in een grote, complexe dataset gezocht worden naar een grootste gemene deler, een "idee" van een eiwit ipv een specifiek eiwit uit een specifiek organisme (dat zou een klus voor Blast zijn). Tijdens dit practicum wordt een openliggende onderzoeksvraag gesteld en een dataset erbij gezocht (of andersom), uit de onderzoeksportfolio van ALIFE of een ander onderzoeksinstituut. Er wordt onderzocht of, en zo ja welke, machine learning technieken de gestelde vraag kunnen beantwoorden. Deze worden vervolgens geïmplementeerd en geëvalueerd op test datasets en uiteindelijk op de complete dataset indien mogelijk. Dit practicum is deel 1 van een 2 kwartaals-specialisatie; in deel 2 worden de gekozen technieken geparalleliseerd om de hele dataset te kunnen verwerken en de onderszoeksvraag te beantwoorden.
-
+Tijdens dit thema wordt voor het eerst kennisgemaakt met dataminingtoepassingen en -analyses. Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om in een oogopslag de biologische vraag erachter te kunnen
+oplossen. Door gebruik te maken van machine learning technieken kan in een grote, complexe dataset gezocht worden naar onderliggende oorzakelijke verbanden. Tijdens dit practicum wordt een openliggende onderzoeksvraag gesteld en een dataset erbij gezocht (of andersom) uit het onderzoeksportfolio van ALIFE, KC-BBE, of een ander onderzoeksinstituut, of van commerci??le of publieke partners (UMCG, bedrijven). Er wordt onderzocht of, en zo ja welke, machine learning technieken de gestelde vraag kunnen beantwoorden. Deze worden vervolgens ge??mplementeerd en ge??valueerd op test datasets en uiteindelijk opgeschaald en geparalleliseerd om de hele dataset te kunnen verwerken en de onderszoeksvraag te beantwoorden. Hiernaast zal aandacht worden besteed aan het inventariseren van de vraag van een cli??nt, data-preprocessing, het werken volgens de SCRUM-methodiek, en rapportage en verslaglegging. Dit practicum is deel 1 van een 2 kwartaals-specialisatie; 
 
 ### Literatuur en andere bronnen
 
-**Literatuur**  
+**Literatuur**
+
 - Data Mining, Practical Machine Learning Tools and Techniques with Java Implementations, IAN H. Witten & Eibe Frank, ISBN: 1558605525
 
 **Web**
+
 - Blackboard course thema 11
 
 ### Competenties
-1(III), 2(III), 3(III), 4(III), 5(III), 7(II), 9(I), 11(I), 12(I), 13(I)
+1(III), 2(III), 3(III), 4(III), 5(III), 7(II), 9(I), 11(II), 12(II), 13(I)
 
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  
