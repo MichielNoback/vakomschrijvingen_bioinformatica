@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Module: Introductie Datamining
 
 | Gegevensveld  | Waarde |
@@ -20,13 +15,15 @@ output:
 - Onderscheid kunnen maken tussen typen (supervised/unsupervised) machine learning problemen
 - Samenstellen, opschonen en transformeren van (trainings- en test-) datasets geschikt voor datamining
 - Interactief classificatie, regressie en clustering analyses kunnen uitvoeren en evalueren m.b.v. Weka
-- Begrijpen van de werking en kenmerken van diverse classificatie algoritmen
-    - Rule-based (ZeroR, OneR, Ripper)
+- Begrijpen van de globale werking en kenmerken van diverse "klassieke" machine learning algoritmen
+    - Rule-based (ZeroR, OneR)
     - Trees (Id3, J48)
+    - Ruleset-based (Prism, JRip, PART)
     - Naive Bayes
-    - Regressie (lineair, logistisch)
     - (k)-Nearest Neighbor
+    - Regressie (lineair, logistisch)
     - Ensemble learning (bagging, randomisation, boosting, voting/stacking)
+- Interactief diverse classificatie, regressie en clustering analyses kunnen uitvoeren en evalueren m.b.v. Weka
 - Kunnen evalueren en vergelijken van de prestatie van verschillende algoritmen
 - Instellingen en hyperparameters van analysemethoden kunnen optimaliseren
 - Relevante attributen in datasets kunnen identificeren en selecteren
@@ -34,10 +31,7 @@ output:
 
 ## Inhoud
 
-Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biologische vraag erachter te kunnen oplossen. 
-Door gebruik te maken van geautomatiseerde machine learning technieken kan in een grote, complexe dataset gezocht worden naar  relevante patronen. Tijdens deze module wordt kennis gemaakt met datamining toepassingen, algoritmen en analyses. In het  bijzonder wordt de werking van een aantal "klassieke" classificatie-algoritmen behandeld. Geleerd wordt hoe de prestaties 
-van deze algoritmen kunnen worden geevalueerd, geoptimaliseerd en vergeleken om zo te komen tot een optimale analyse voor 
-een gegeven dataset. Diverse voorbeelden van datasets worden bekeken en voorbereid t.b.v. nadere analyse.
+Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biologische vraag erachter te kunnen oplossen. Door gebruik te maken van geautomatiseerde machine learning technieken kan in een grote, complexe dataset gezocht worden naar  relevante patronen. Tijdens deze module wordt kennis gemaakt met datamining toepassingen, algoritmen en analyses. In het  bijzonder wordt de werking van een aantal "klassieke" classificatie-algoritmen behandeld. Geleerd wordt hoe de prestaties van deze algoritmen kunnen worden geevalueerd, geoptimaliseerd en vergeleken om zo te komen tot een optimale analyse voor een gegeven dataset. Diverse voorbeelden van datasets worden bekeken en voorbereid t.b.v. nadere analyse.
 
 ### Literatuur en andere bronnen
 
@@ -51,7 +45,7 @@ een gegeven dataset. Diverse voorbeelden van datasets worden bekeken en voorbere
     - Chapter 5: &sect; 1-9
     - Chapter 6: &sect; 1-2
     - Chapter 7: &sect; 1
-    - Chapter 8: &sect; 1
+    - Chapter 8: &sect; 1-2
     - Chapter 12: &sect; 1-4, 7
 
 **Web**
