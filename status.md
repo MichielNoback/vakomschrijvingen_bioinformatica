@@ -24,7 +24,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 * [Thema 3: DNA, harde schijf v.d. cel](thema-03/Readme.md)
     * [**(! WERD)** Praktijkopdracht](thema-03/praktijkopdracht03.md)
     * [**(! BOJP)** Informatica 3 (Python 3)](thema-03/informatica3.md)
-    * [Biologie 3](thema-03/biologie3.md)
+    * [**(! KJAN)** Biologie 3](thema-03/biologie3.md)
     * [**(! HEMI)** Bio-informatica 1](thema-03/bioinformatica1.md)
     * [**(! LUMF)** Presenteren](thema-03/presenteren.md)
     * [SLB3](thema-03/SLB1_3.md)
@@ -68,7 +68,7 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 
 * [Thema 9: Introduction to Machine Learning](thema-09/Readme.md)
     * [**(! NOMI)** Praktijkopdracht](thema-09/praktijkopdracht09.md)
-    * [**(! NOMI)** Introductie Datamining](thema-09/introductie_datamining.md)
+    * [**(! NOMI, LADR)** Introductie Datamining](thema-09/introductie_datamining.md)
     * [**(! NOMI)** Introductie Java](thema-09/introductie_java.md)
     * [**(! HEMI)** Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
 
@@ -96,14 +96,14 @@ Dit **(! ABCD)** betekent dat betreffende docent wijzigingen heeft aangebracht (
 ### Minor High performance/High throughput Biocomputing
 
 * [Thema 11: Advanced datamining](thema-11DM/Readme.md)
-    * [Praktijkopdracht](thema-11DM/praktijkopdracht11DM.md)
-    * [Advanced datamining](thema-11DM/advanced_datamining.md)
+    * [**(! LADR)** Praktijkopdracht](thema-11DM/praktijkopdracht11DM.md)
+    * [**(! LADR)** Advanced datamining](thema-11DM/advanced_datamining.md)
     * [**(! DIMH)** Immunologie 2](thema-11AD/immunologie2.md)
     * [**(! FEFE)** Dataprocessing](thema-11AD/dataprocessing.md)
 
 * [Thema 12: Visualisatie en gebruikersinteractie](thema-12DM/Readme.md)
-    * [Praktijkopdracht](thema-12DM/praktijkopdracht12DM.md)
-    * [Big data computing](thema-12DM/bd_computing.md)
+    * [**(! LADR)** Praktijkopdracht](thema-12DM/praktijkopdracht12DM.md)
+    * [**(! HEMI)** Big data computing](thema-12DM/bd_computing.md)
     * [**(! WATS)** Statistiek 5](thema-12AD/statistiek5.md)
     * [SLB8](thema-12AD/SLB3_2.md)
 

@@ -1653,7 +1653,7 @@
 </tr>
 <tr>
 <td>Toetsvorm</td>
-<td>Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml</td>
+<td>Opdracht + Schriftelijk tentamen</td>
 </tr>
 <tr>
 <td>Minimum cijfer</td>
@@ -1661,11 +1661,11 @@
 </tr>
 <tr>
 <td>Docent(en)</td>
-<td>BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD</td>
+<td>LADR</td>
 </tr>
 <tr>
 <td>Contactpersoon</td>
-<td></td>
+<td>LADR</td>
 </tr>
 <tr>
 <td>Voertaal</td>
@@ -1675,19 +1675,34 @@
 </table>
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
 <ul>
-<li>Samenstellen relevante datasets, opschonen en sorteren ervan</li>
-<li>Kunnen kiezen tussen verschillende veel gebruikte dataminingtechnologieen</li>
-<li>Opzetten trainings- en testomgevingen</li>
-<li>Analyse van grote datasets</li>
-<li>Wetenschappelijke poster maken</li>
-<li>Zelfstandig uitvoeren onderzoek</li>
+<li>Samenstellen, gebruiken en augmenteren van grote (trainings- en test-) datasets</li>
+<li>Begrijpen van de globale werking en kenmerken van diverse &quot;moderne&quot; machine learning algoritmen<ul>
+<li>Neurale Netwerken (feedforward, recurrent, auto-encoders, convolutioneel)</li>
+<li>Support Vector Machines</li>
+<li>Model trees</li>
+<li>Bayesiaanse netwerken, (hidden) Markov models</li>
+<li>Mixture-model clustering</li>
+</ul>
+</li>
+<li>Interactief diverse classificatie, regressie en clustering analyses kunnen uitvoeren en evalueren m.b.v. Weka</li>
+<li>Leercurven kunnen interpreteren en kunnen gebruiken om algoritmen te optimaliseren</li>
+<li>Kernel-methoden kunnen toepassen om niet-lineaire classificatie-boundaries te verkrijgen</li>
+<li>Regularisatie-methoden kunnen toepassen om overfitting te beperken</li>
+<li>Het kunnen implementeren van een Machine Learning algoritme volgens specificaties en theorie</li>
 </ul>
 <h2 id="inhoud">Inhoud</h2>
-<p>Tijdens dit thema wordt voor het eerst kennis gemaakt met dataminingtoepassingen en  -analyses. Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om in een oogopslag de biologische vraag erachter te kunnen oplossen. Bijvoorbeeld &#x201C;hoe veel multi-drug transporters vindt ik in dit metagenomics sample uit het ziekenhuis&#x201D; (belangrijk voor antibiotica-resistentie. Door gebruik te maken van machine learning technieken kan in een grote, complexe dataset gezocht worden naar een grootste gemene deler, een &#x201C;idee&#x201D; van een eiwit ipv een specifiek eiwit uit een specifiek organisme (dat zou een klus voor Blast zijn). Tijdens dit practicum wordt een openliggende onderzoeksvraag gesteld en een dataset erbij gezocht (of andersom), uit de onderzoeksportfolio van ALIFE of een ander onderzoeksinstituut. Er wordt onderzocht of, en zo ja welke, machine learning technieken de gestelde vraag kunnen beantwoorden. Deze worden vervolgens ge&#xEF;mplementeerd en ge&#xEB;valueerd op test datasets en uiteindelijk op de complete dataset indien mogelijk. Dit practicum is deel 1 van een 2 kwartaals-specialisatie; in deel 2 worden de gekozen technieken geparalleliseerd om de hele dataset te kunnen verwerken en de onderszoeksvraag te beantwoorden.</p>
+<p>Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biologische vraag erachter te kunnen oplossen. Door gebruik te maken van geautomatiseerde machine learning technieken kan in een grote, complexe dataset gezocht worden naar relevante patronen. Tijdens deze module wordt voortgebouwd op de inhoud van de module &quot;Introductie datamining&quot; en wordt dieper ingegaan op geavanceerdere datamining toepassingen, algoritmen en analyses. In het bijzonder wordt ingegaan op de werking van (Deep) Neural Networks. In de loop van deze module zal een neuraal netwerk vanaf de grond opgebouwd worden in Python, door stapsgewijs een Perceptron uit te breiden met aanvullende features (activatiefuncties, cost-functies, gradient-descent, input-/hidden/output-layers, back-propagation, initialisatie, L1/L2-regularisatie, drop-out, data-augmentatie, batch/online-trainingsstrategie??n). Parallel hieraan zal in de les aandacht worden besteed aan Support Vector Machines, model trees, discriminant analyse, Bayesiaanse netwerken, mixture-model clustering, (hidden) Markov models, auto-encoders, recurrente en convolutionele neurale netwerken.</p>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
-<p><strong>Literatuur</strong>  </p>
+<p><strong>Literatuur</strong></p>
 <ul>
-<li>Data Mining, Practical Machine Learning Tools and Techniques with Java Implementations,  IAN H. Witten &amp; Eibe Frank, ISBN: 1558605525</li>
+<li>Witten, Frank, Hall &amp; Pal. Data Mining - Practical Machine Learning Tools and Techniques (4th edition) ISBN 978-0-12-804291-5:<ul>
+<li>Chapter 7: &#xA7; 2-3</li>
+<li>Chapter 8: &#xA7; 3-6</li>
+<li>Chapter 9: &#xA7; 2-3,8</li>
+<li>Chapter 10: &#xA7; 1-4,6</li>
+<li>Chapter 11: geheel</li>
+</ul>
+</li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
@@ -1697,6 +1712,7 @@
 <p>-</p>
 <h3 id="werkvormen">Werkvormen</h3>
 <ul>
+<li>Werkcollege</li>
 <li>Hoorcollege</li>
 </ul>
 <h4 id="ingangseisen">Ingangseisen</h4>
@@ -1708,7 +1724,9 @@
 <h4 id="voorkennis-kan-worden-opgedaan-met">Voorkennis kan worden opgedaan met</h4>
 <p>-</p>
 <h4 id="bronnen-van-zelfstudie">Bronnen van zelfstudie</h4>
-<p>-</p>
+<ul>
+<li><a href="http://neuralnetworksanddeeplearning.com/" target="_blank">Neural Networks and Deep Learning</a></li>
+</ul>
 <h4 id="verplicht-materiaal">Verplicht materiaal</h4>
 <p>-</p>
 <h4 id="aanbevolen-materiaal">Aanbevolen materiaal</h4>
@@ -1756,7 +1774,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Advanced datamining","level":"6.1.2","depth":2,"next":{"title":"Immunologie 2","level":"6.1.3","depth":2,"path":"thema-11AD/immunologie2.md","ref":"thema-11AD/immunologie2.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"6.1.1","depth":2,"path":"thema-11DM/praktijkopdracht11DM.md","ref":"thema-11DM/praktijkopdracht11DM.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-11DM/advanced_datamining.md","mtime":"2018-02-19T10:18:21.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-04-16T09:30:00.350Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Advanced datamining","level":"6.1.2","depth":2,"next":{"title":"Immunologie 2","level":"6.1.3","depth":2,"path":"thema-11AD/immunologie2.md","ref":"thema-11AD/immunologie2.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"6.1.1","depth":2,"path":"thema-11DM/praktijkopdracht11DM.md","ref":"thema-11DM/praktijkopdracht11DM.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-11DM/advanced_datamining.md","mtime":"2018-04-24T14:12:58.115Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-04-24T14:16:28.500Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
