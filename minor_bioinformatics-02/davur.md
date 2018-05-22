@@ -2,7 +2,7 @@
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | BFVH15DA&VUR  |
+| Osiriscode  | BFVH17DAVUR2  |
 | ECTS  | 4 |
 | Toetsvorm  | Computertentamen |
 | Minimum cijfer  | 5,5 |

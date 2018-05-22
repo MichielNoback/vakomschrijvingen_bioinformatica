@@ -38,7 +38,7 @@ In dit thema staat ook  gezondheid en erfelijkheid centraal.  Middels lessen en 
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Campbell Biology 11e (global) editie  (ISBN-10 1-292-17043-3)  
+Campbell Biology, 11th ed., ISBN 10: 1-292-17043-3, ISBN 13: 978-1-292-17043-5, Pearson Education
     - Hoofd 12. De celcyclus, mitose, voorbeeld kankercellen. 
     - Hoofd. 13. Meiose, geslachtelijke levenscyclus, genetisch variatie.  
     - Hoofd. 14. Mendel en erfelijkheid patronen, Genetische testen om  erfelijke ziektes vast te stellen. 

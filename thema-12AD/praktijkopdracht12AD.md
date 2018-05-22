@@ -33,6 +33,27 @@ This course will be assessed based on several aspects: day-to-day performance, y
 - End presentation
 - End report
 
+***In detail***
+Deliverables van Thema 12 :
+1. Code/product, als (Bitbucket) git repo (50%). Ik let hier op  
+    a. gebruik git  
+    b. Readme.md  
+    c. Code kwaliteit: ontwerp en efficiëntie - Remember Unkle Bob!  
+    d. Code comments (waaronder Javadoc)  
+    e. JUnit tests  
+    f. Functionaliteit en   gebruikersvriendelijkheid
+2. Project uitvoering (30%)
+    a. Dagelijks functioneren: houding, probleemoplossend vermogen etc.  
+    b. Scrum deelname (daily scrums, end-of-sprints)   
+3. Verslag (20%) met daarin de onderdelen:  
+    a. Abstract: max 150 woorden  
+    b. Inleiding - aanleiding & achtergrond van project (~ 1 p.)  
+    c. Materiaal en Methoden: compleet en goed beschreven. Denk aan  reproduceerbaarheid wanneer je dit schrijft!  
+    d. Resultaten & Discussie. Geef de status van de tool en wat er werkt en niet zo goed werkt. Geef enkele screenshots.  
+    e. Algemene conclusie (koppel terug naar je oorspronkelijke ideeën in je ontwerpdocument) en plannen voor de toekomst  
+    f. Link naar je Trello Board  
+    g. Link naar je Bitbucket repo   
+
 ### Literatuur en andere bronnen
 
 **Literatuur**  
