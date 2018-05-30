@@ -23,7 +23,7 @@ Het volgende beschrijft de manier van werken door BFV docenten om dit gitbook up
 - Breng je nieuwe wijzigingen aan, add, commit en push gevolgd door een pull request (zie "Eerste keer gebruik")
 
 ### Publiceren als Gitbook op Github Pages (door ADMIN)  
-Dit maakt gebruik van node/npm en node plugins.  
+Dit maakt gebruik van node/npm en node plugins gulp en yarn.  
 
 Zie deze link [https://gldraphael.com/blog/publishing-gitbook-to-github-pages/](https://gldraphael.com/blog/publishing-gitbook-to-github-pages/)
 voor een uitgebreide instructie.
@@ -31,5 +31,10 @@ voor een uitgebreide instructie.
 Dus, na elke bewerking dienen de volgende stappen/commando's te worden uitgevoerd:
 
 - git add + git commit + git push ("gewone" repo)
-- gitbook serve OF gitbook build ("build" boek)
+- gitbook build OF gitbook serve ("build" boek)
 - gulp publish (commit html en resources naar branch hg-pages)
+
+**NB**: update to node 10 caused errors that were solved using these actions:  
+
+- Solution is delete node_modules dir and package-lock.json.
+- Then run sudo npm install --unsafe-perm=true

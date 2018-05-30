@@ -94,11 +94,3 @@ This [Excel sheet](https://michielnoback.github.io/vakomschrijvingen_bioinformat
 
 #### Aanbevolen materiaal
 \-
-
-INFORMATIE VOOR DOCENTEN - DO NOT MAKE AVAILABLE! INFORMATIE VOOR DOCENTEN - DO NOT MAKE AVAILABLE! item options
-Availability:Item is not available.
-Vanaf studiejaar 2017-2018 zal een praktische toets worden afgenomen in tentamenmodus.
-
-Deze toetsen zijn te vinden in Bitbucket project ApplicationDesignAssessment: https://bitbucket.org/account/user/minoba/projects/ADA
-Zowel Michiel Noback als Marcel Kempenaar hebben toegang tot dit project. 
-Ander cursusmateriaal: Presentaties, oefentoets en Vakomschrijving via: https://bincourses.bitbucket.io/ (repo: https://bitbucket.org/bincourses/bincourses.bitbucket.io/ met toegang voor Marcel Kempenaar)
