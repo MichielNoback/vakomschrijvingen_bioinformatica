@@ -12,14 +12,14 @@
 
 ## Cursusdoelen (leerdoelen)
 
-After successfully attending this course, students will  
-- be familiar with the different aspects of web application development; both server- and client-side and the connection between them (http)
-- be able to design a web application for a given a problem, and specify the responsibilities and interactions between the different components
-- be able to work with Java web technology at a basic level: Servlets, JSP en Tomcat
-- be able to design a web application using web-forms, servlet request handling and JSP response presentation
-- be able to use a MySQL database as a data layer of a web application 
-- be able to use Javascript for enhancing client side dynamic behavior and functionality
-- be able to use the IntelliJ Idea IDE to perform all of the programming tasks associated with web application development
+After successfully attending this course, students will be   
+- familiar with the different aspects of web application development; both server- and client-side and the connection between them (http)
+- able to design a web application for a given a problem, and specify the responsibilities and interactions between the different components
+- able to work with Java web technology at a basic level: Servlets, JSP en Tomcat
+- able to design a web application using web-forms, servlet request handling and JSP response presentation
+- able to use a MySQL database as a data layer of a web application 
+- able to use Javascript for enhancing client side dynamic behavior and functionality
+- able to use the IntelliJ Idea IDE to perform all of the programming tasks associated with web application development
 
 ## Inhoud
 
@@ -64,8 +64,8 @@ There will be a 2-hour computer assessment to test your skills and knowledge of 
 - We also assume you know some basics about HTML(5) and CSS.   
 
 #### Voorkennis kan worden opgedaan met
-- Introductie Java
-- Thema 3 praktijkopdracht
+- [Introductie Java](/thema-09/introductie_java.md)
+- [Thema 3 praktijkopdracht](/thema-03/praktijkopdracht03.md)
 
 #### Bronnen van zelfstudie
 \-
