@@ -51,7 +51,7 @@ om het metaboloom van het onbekende DNA monster te annoteren en zo de mogelijk f
 
 
 ### Competenties
-1(I), 2(I), 3(I), 4(I), 5(II), 6(I), 7(II), 11(I), 12(I), 13(I)
+1(I), 2(I), 3(I), 4(I), 5(II), 6(II), 7(II), 11(I), 12(I), 13(I)
 
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  

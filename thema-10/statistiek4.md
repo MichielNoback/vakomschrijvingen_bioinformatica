@@ -26,8 +26,10 @@ De student kan principale componenten analyse uitvoeren in R.
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Using R for introductory statistics. J. Verzani, 2nd edition.
-- RMarkdown tutorials provided by teacher
+- Using R for introductory statistics. J. Verzani, 2nd edition.  
+    - H. 11, paragraaf 3
+    - H. 12, paragraaf 3 en 4
+- Tutorials provided by teacher
 
 **Web**
 - Blackboard course thema 10

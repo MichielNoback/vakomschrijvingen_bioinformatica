@@ -52,7 +52,7 @@ Het project en functioneren van de student wordt op meerdere manieren getoetst. 
     * Planning
 
 ### Competenties
-1(II), 2(II), 3(I), 4(II), 5(II), 11(I), 13(I)
+1(II), 2(II), 3(I), 4(II), 5(II), 8(I), 11(I), 13(I)
 
 ### Werkvormen  
 - Praktijkopdrachten/ Projectonderwijs op individuele basis

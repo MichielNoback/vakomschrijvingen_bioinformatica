@@ -1,4 +1,4 @@
-# Module: Theorie Bioinformatica 2
+# Module: __MODULENAAM__
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
@@ -6,7 +6,7 @@
 | ECTS  | 3 |
 | Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
+| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
 | Contactpersoon  |  |
 | Voertaal  | Nederlands |
 
@@ -24,10 +24,10 @@ __AANVULLEN__
 - __BOEKEN__
 
 **Web**
-- Blackboard course thema 9
+- Blackboard course thema XX
 
 ### Competenties
-\-
+1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
 
 ### Werkvormen  
 

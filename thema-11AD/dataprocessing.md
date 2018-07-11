@@ -30,7 +30,7 @@ In this module you will work with Snakemake to answer a real case research quest
 - Blackboard course thema 11 and http://bioinf.nl/~fennaf/snakemake
 
 ### Competenties
-\- 2. De software cyclus doorlopen(II), 5. programmeren(III), 7. Code beheren(II), 8. Eigen systeem beheren(II), 11. Projectmatig werken(I), 13. Zelfsturing(I)
+\- 
 
 ### Werkvormen  
 During the first 3-4 lectures working with Snakemake will be introduced and students will practice with small study cases. After the introduction lectures students, will work on the final assignment. The scheduled lectures 5-8 will be used for feedback sessions to discuss design choices and code. 

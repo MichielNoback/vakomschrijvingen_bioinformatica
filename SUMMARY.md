@@ -63,8 +63,9 @@
     * [Praktijkopdracht](thema-08/praktijkopdracht08.md)
     * [Microbiologie 2](thema-08/microbiologie2.md)
     * [Immunologie 1](thema-08/immunologie1.md)
-    * [Moleculaire biologie](thema-08/moleculaire_biologie.md)
+    * [Wiskunde](thema-08/wiskunde.md)
     * [SLB6](thema-08/SLB2_4.md)
+    * [Moleculaire biologie (Laatste keer in 2017-2018)](thema-08/moleculaire_biologie.md)
 
 ## Jaar 3
 
@@ -72,7 +73,8 @@
     * [Praktijkopdracht](thema-09/praktijkopdracht09.md)
     * [Introductie Datamining](thema-09/introductie_datamining.md)
     * [Introductie Java](thema-09/introductie_java.md)
-    * [Theorie van bio-informatica 2](thema-09/theorie_bioinf2.md)
+    * [Theorie van bio-informatica 2 (tot jaar 2018-2019)](thema-05/bioinformatica2.md)
+    * [Bio-informatica 3 (vanaf 2019-2020)](thema-09/bioinformatica3.md)
 
 * [Thema 10: Research web applications](thema-10/Readme.md)
     * [Praktijkopdracht](thema-10/praktijkopdracht10.md)
@@ -119,3 +121,17 @@
 
 * [Tweede semester: Afstuderen](thema-15_16/Readme.md)
     * [Afstuderen](thema-15_16/afstuderen.md)
+
+## Minor Bioinformatics for Life Science Students
+
+* [Quarter 1: Diagnostic Genome Analysis](minor_bioinformatics-01/Readme.md)
+    * [Project](minor_bioinformatics-01/praktijkopdracht1.md)
+    * [Python](minor_bioinformatics-01/introduction_python.md)
+    * [Linux](minor_bioinformatics-01/linux.md)
+    * [Theory of Bioinformatics 1](minor_bioinformatics-01/theory_bioinformatics1.md)
+    * [SLB / Introduction or Acedemic Counselling](minor_bioinformatics-01/SLB_minor.md)
+
+* [Quarter 2: Analysis of Gene Expression](minor_bioinformatics-02/Readme.md)
+    * [Praktijkopdracht](minor_bioinformatics-02/praktijkopdracht2.md)
+    * [Data Analysis and Visualization using R](minor_bioinformatics-02/davur.md)
+    * [Theory of Bioinformatics 2](minor_bioinformatics-02/theory_bioinformatics2.md)

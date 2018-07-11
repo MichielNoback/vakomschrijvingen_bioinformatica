@@ -47,7 +47,7 @@ Grading is based on the end product made available through a (Bitbucket) online 
 - Blackboard course thema 10
 
 ### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(I), 7(II), 9(I), 11(I), 12(I), 13(I)
+1(II), 2(III), 3(II), 5(III), 6(I), 7(II), 9(I), 11(I), 12(I), 13(II)
 
 ### Werkvormen  
 - Praktijkopdrachten/ Projectonderwijs

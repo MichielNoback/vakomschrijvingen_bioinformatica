@@ -25,9 +25,11 @@ De kerndocenten van de opleiding (voor mail adres: neem  tussen haakjes en voeg 
 - **WERD** Ronald Wedema (r.wedema)
 
 Docenten uit andere teams:  
-
+- **APMA** Emile Apol (m.e.f.apol)
+- **BORA** Ronald Boonstra (r.boonstra)
 - **DIMH** Marike Dijkstra (m.h.dijkstra)
 - **KEYJ** Jeanine de Keyzer (j.de.keyzer)
+- **KJON** Marjon Kuiper (j.m.kuiper)
 - **NASA** Sanne Nabuurs (s.m.nabuurs)
 - **ROBI** Hanna Robin (i.j.robin)
 - **SIMA** Mark Sibbald (m.j.j.b.sibbald)

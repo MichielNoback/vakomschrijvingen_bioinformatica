@@ -8,7 +8,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4",
-    "gulp-load-plugins": "^1.5.0"
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-shell": "^0.6.5"
   },
   "dependencies": {
     "canvas": "^1.6.9"

@@ -6,7 +6,7 @@
 | ECTS  | 3 |
 | Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | I.J. Robin |
+| Docent(en)  | I.J. Robin (ROBI) en Marjon Kuiper (KJON) |
 | Contactpersoon  | WATS |
 | Voertaal  | Nederlands |
 
@@ -49,7 +49,6 @@ polariteit van moleculen.
 \-
 
 ### Werkvormen  
-- Hoorcollege
 - Hoor/werkcolleges
 
 #### Ingangseisen 

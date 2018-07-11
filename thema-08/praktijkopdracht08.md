@@ -38,7 +38,7 @@ Literature will comprise of review articles on methods within the context of ODE
 Blackboard course thema 8 and  http://www.bioinf.nl/~fennaf/thema08/
 
 ### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
+1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(I), 9(II), 10(II), 11(II), 12(II), 13(II)
 
 ### Werkvormen  
 - The course is a practical course with week assignments introduced by background tutorials. Week 1 till 4 are preparatory assignments to learn to work with the material. The final assignment starting in week 5 consists of reproducing and testing (part of) the systems biology modeling from the paper selected.

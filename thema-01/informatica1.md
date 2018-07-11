@@ -43,7 +43,7 @@ Van Python worden de volgende onderwerpen behandeld:
 - [Python home](https://www.python.org/)
 
 ### Competenties
-- 5. Programmeren(I), 8. Eigen systeem beheren(I)
+\- 
 
 ### Werkvormen
 - Hoor/werkcolleges

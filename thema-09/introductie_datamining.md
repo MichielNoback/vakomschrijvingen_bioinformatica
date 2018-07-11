@@ -4,40 +4,52 @@
 | ------------- | ------------- |
 | Osiriscode  | __OSIRISCODE__  |
 | ECTS  | 3 |
-| Toetsvorm  | Schriftelijk tentamen ??? |
+| Toetsvorm  | Schriftelijk tentamen + Bonusopgaven |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | ???? |
-| Contactpersoon  | ???? |
+| Docent(en)  | LADR |
+| Contactpersoon  | LADR |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
 
-- Samenstellen relevante datasets, opschonen en sorteren ervan
-- Kunnen kiezen tussen verschillende veel gebruikte dataminingtechnologieen
-- Opzetten trainings- en testomgevingen
-- Analyse van grote datasets
-- Wetenschappelijke poster maken
-- Zelfstandig uitvoeren onderzoek
+- Onderscheid kunnen maken tussen typen (supervised/unsupervised) machine learning problemen
+- Samenstellen, opschonen en transformeren van (trainings- en test-) datasets geschikt voor datamining
+- Interactief classificatie, regressie en clustering analyses kunnen uitvoeren en evalueren m.b.v. Weka
+- Begrijpen van de globale werking en kenmerken van diverse "klassieke" machine learning algoritmen
+    - Rule-based (ZeroR, OneR)
+    - Trees (Id3, J48)
+    - Ruleset-based (Prism, JRip, PART)
+    - Naive Bayes
+    - (k)-Nearest Neighbor
+    - Regressie (lineair, logistisch)
+    - Ensemble learning (bagging, randomisation, boosting, voting/stacking)
+- Interactief diverse classificatie, regressie en clustering analyses kunnen uitvoeren en evalueren m.b.v. Weka
+- Kunnen evalueren en vergelijken van de prestatie van verschillende algoritmen
+- Instellingen en hyperparameters van analysemethoden kunnen optimaliseren
+- Relevante attributen in datasets kunnen identificeren en selecteren
+- Eenvoudige berekeningen kunnen uitvoeren aangaande informatie-inhoud, formule v. Bayes, prestatiematen
 
 ## Inhoud
 
-Tijdens deze module wordt kennis gemaakt met datamining toepassingen en -analyses. Veel biologische datasets zijn of te groot, of bevatten te veel ruis (of beide), om in een oogopslag de biologische vraag erachter te kunnen oplossen. Bijvoorbeeld “hoe veel multi-drug transporters vindt ik in dit metagenomics sample uit het ziekenhuis” (belangrijk voor antibiotica-resistentie). Door gebruik te maken van machine learning technieken kan in een grote, complexe dataset gezocht worden naar een grootste gemene deler, een “idee” van een eiwit ipv een specifiek eiwit uit een specifiek organisme (dat zou een klus voor Blast zijn). Tijdens dit practicum wordt een openliggende onderzoeksvraag gesteld en een dataset erbij gezocht (of andersom), uit de onderzoeksportfolio van ALIFE of een ander onderzoeksinstituut. Er wordt onderzocht of, en zo ja welke, machine learning technieken de gestelde vraag kunnen beantwoorden. Deze worden vervolgens geïmplementeerd en geëvalueerd op test datasets en uiteindelijk op de complete dataset indien mogelijk. Dit practicum is deel 1 van een 2 kwartaals-specialisatie; in deel 2 worden de gekozen technieken geparalleliseerd om de hele dataset te kunnen verwerken en de onderszoeksvraag te beantwoorden.
-literatuur
+Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biologische vraag erachter te kunnen oplossen. Door gebruik te maken van geautomatiseerde machine learning technieken kan in een grote, complexe dataset gezocht worden naar  relevante patronen. Tijdens deze module wordt kennis gemaakt met datamining toepassingen, algoritmen en analyses. In het  bijzonder wordt de werking van een aantal "klassieke" classificatie-algoritmen behandeld. Geleerd wordt hoe de prestaties van deze algoritmen kunnen worden geevalueerd, geoptimaliseerd en vergeleken om zo te komen tot een optimale analyse voor een gegeven dataset. Diverse voorbeelden van datasets worden bekeken en voorbereid t.b.v. nadere analyse.
 
 ### Literatuur en andere bronnen
 
-**Literatuur**  
+**Literatuur**
+
 - Witten, Frank, Hall & Pal. Data Mining - Practical Machine Learning Tools and Techniques (4th edition) ISBN 978-0-12-804291-5:
-    - Chapter 1: § 1, 2, 4, 5, 6(?)
+    - Chapter 1: &sect; 1
     - Chapter 2: geheel
-    - Chapter 3: § 1 (rest wordt als intro bij andere hoofdstukken behandeld)
-    - Chapter 4: alle behalve §4.8
-    - Chapter 5: § 1, 2, 3, 6, 8 (vooral ROC curves), 10
-    - Chapter 6: alles behalve § 3
-    - Chapter 7: § 1
-    - Chapter 8: § 1, 2 (eerste sectie)
+    - Chapter 3: geheel
+    - Chapter 4: geheel
+    - Chapter 5: &sect; 1-9
+    - Chapter 6: &sect; 1-2
+    - Chapter 7: &sect; 1
+    - Chapter 8: &sect; 1-2
+    - Chapter 12: &sect; 1-4, 7
 
 **Web**
+
 - Blackboard course thema 9
 
 ### Competenties
@@ -45,6 +57,7 @@ literatuur
 
 ### Werkvormen  
 - Hoorcollege
+- Werkcollege
 
 #### Ingangseisen 
 \- 
@@ -59,7 +72,8 @@ literatuur
 \-
 
 #### Bronnen van zelfstudie
-\-
+- MOOC-videoserie "Data Mining with Weka"
+- MOOC-videoserie "More Data Mining with Weka"
 
 #### Verplicht materiaal
 \-
