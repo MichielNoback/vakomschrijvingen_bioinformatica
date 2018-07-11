@@ -12,8 +12,16 @@
 
 ## Cursusdoelen (leerdoelen)
 
-De student heeft kennis van en inzicht in:
-Na het volgen van deze cursus heeft de student kennis van en inzicht in:
+- het herkennen en benoemen van de verschillende onderdelen in een formule 
+- de relatie tussen de elementen kunnen begrijpen op basis van een formule
+- het beheersen van basisrekenvaardigheden op zodanig niveau dat de uitkomst beredeneerd geschat kan worden
+- het uit kunnen rekenen van lineaire, niet lineaire en tweedegraads verbanden tussen variabelen door middel van het oplossen van vergelijkingen
+- het kunnen rekenen met de wetenschappelijke notatie met machten van 10.
+
+
+## Inhoud
+
+Basisvaardigheden wiskunde besteed aandacht aan het volgende
 - gebruik van rekenregels
 - rekenen met haakjes en breuken
 - rekenen met machten, wortels, machtsfuncties en logaritmen
@@ -24,25 +32,21 @@ Na het volgen van deze cursus heeft de student kennis van en inzicht in:
 - oplossen van vergelijkingen met wortels, machtsfuncties en logaritmen
 - omschrijven van formules
 
-
-## Inhoud
-
-Wiskunde & Logica biedt de student rekenen en algebra op niveau eindexamen havo Wiskunde B. Daarnaast wordt er aandacht besteed aan logica en discrete wiskunde.
-
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- J. Blankespoor, K. de Joode & A. Sluijter \- Toegepaste Wiskunde voor het hoger beroepsonderwijs.
-Deel 1. ThiemeMeulenhof, 2010. ISBN 9789006952278. H1. 
+
+- Wiskunde voor technici, boom hoger onderwijs. 
 
 **Web**
 - Blackboard course thema 1
 
 ### Competenties
-- 4(I)
+\- 
 
 ### Werkvormen  
 - Het vak Basisvaardigheden Wiskunde bestaat uit 8 lessen van 90 minuten, waarin theorie en opdrachten worden afgewisseld (Hoor/werkcolleges)
+- Er wordt gewerkt met de leermethode Wiskunde voor technici die zelfstudie ondersteunt. Elk onderwerp begint met een toetst om de voorkennis te toetsen via instaptoetsen. Daarna wordt in theorie de inhoud uitgelegd op een praktische manier. De module biedt de mogelijkheid om buiten de colleges ook te trainen en te toetsen en geeft direct feedback. 
 
 #### Ingangseisen 
 \- 
@@ -57,11 +61,21 @@ Deel 1. ThiemeMeulenhof, 2010. ISBN 9789006952278. H1.
 \-
 
 #### Bronnen van zelfstudie
-- De DWO (Digitale Wiskunde Omgeving) is een gratis digitale omgeving waarin je gemakkelijk de wiskunde kunt oefenen die in Basisvaardigheden Wiskunde aan bod komt.
+
+De Wiskunde voor technici site bevat 
+- Voorbeelden met uitwerkingen
+- Interactieve animaties
+- Instaptoetsen
+- Trainingen
+- Toetsen
+- Interactieve begrippenlijst 
+- Formule-overzicht 
+- Overzicht van de voortgang
+
 
 #### Verplicht materiaal
 \-
 
 #### Aanbevolen materiaal
-- Het dictaat "Basisvaardigheden Wiskunde" bevat uitleg, stappenplannen en oefeningen. De antwoorden van deze oefenopgaven staan achterin, zodat je jezelf kunt controleren. Het dictaat is te vinden op blackboard. 
+- Naast Wiskunde voor technici bevat het dictaat "Basisvaardigheden Wiskunde" uitleg, stappenplannen en oefeningen. De antwoorden van deze oefenopgaven staan achterin, zodat je jezelf kunt controleren. Het dictaat is te vinden op blackboard. 
 

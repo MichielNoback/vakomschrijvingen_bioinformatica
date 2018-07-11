@@ -23,6 +23,7 @@ Informatica 2 is de tweede van drie cursussen over de programmeertaal Python. Di
 - docsctrings, help() & custom usage()
 - set, tuple
 - functies gevorderd
+- list comprehensions
 
 ### Literatuur en andere bronnen
 
