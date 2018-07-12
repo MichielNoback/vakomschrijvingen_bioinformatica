@@ -12,11 +12,12 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- De student is zelfstandig in staat om kwaliteitscontrole uit te voeren op ruwe Next-Generation sequencing data 
+- De student is zelfstandig in staat om kwaliteitscontrole uit te voeren op ruwe Next-Generation sequencing data.
 - De student is zelfstandig in staat om te werken met een workflow manager voor genoom-analyze (Galaxy) met als doel het kunnen identificeren van genoom variaties en deze te vergelijken met bekende mutaties (annotatie).
-- De student is zelfstandig in staat om datastromen te kunnen doorzoeken en aan elkaar te koppelen via scripting (Python)
-- De student kan op basis van informatiebehoeften zelfstandig eenvoudige, relationele, databases te ontwerpen en implementeren
-- Een (deel van een) wetenschappelijk verslag schrijven
+- De student is zelfstandig in staat om datastromen te kunnen doorzoeken en aan elkaar te koppelen via scripting (Python).
+- De student is zelfstandig in staat een eigen ontworpen Python programma geschikt te maken voor gebruik in de Galaxy-server omgeving en te integreren in een eigen ontworpen pipeline.
+- De student kan op basis van informatiebehoeften zelfstandig eenvoudige, relationele, databases te ontwerpen en implementeren.
+- Een (deel van een) wetenschappelijk verslag schrijven.
 
 ## Inhoud
 
