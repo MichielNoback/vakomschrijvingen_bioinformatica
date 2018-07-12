@@ -6,8 +6,8 @@
 | ECTS  | 1 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | V |
-| Docent(en)  | LUMF |
-| Contactpersoon  | LUMF |
+| Docent(en)  | KEMC |
+| Contactpersoon  | KEMC |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
@@ -26,10 +26,11 @@ SLB ondersteunt studenten in hun persoonlijke en professionele ontwikkeling. SLB
 - De student krijgt zicht op het beroep d.m.v. lezingen, excursies en opdrachten
  
 **Bijzonderheden:**
-Contacttijd:Minimaal 3 uur per kwartaal. Zelfstudietijd:30 uur per jaar.
-Onderwijsvorm:Per kwartaal zijn 2 lesblokken van 1.5 uur SLB ingepland. Daarnaast vinden individuele gesprekken plaats. Verder zijn er activiteiten zoals introductie, lezingen, posterpresenstaties en excursies.
-Beoordeling (tijdsduur):Aanwezig zijn en actief deelnemen aan alle groepsbijeenkomsten en andere geplande bijeenkomsten.
-Portfolio met alle opdrachten bijhouden en volgens afspraak inleveren. Beoordeling met voldoende of onvoldoende.
+
+- **Contacttijd**: Minimaal 3 uur per kwartaal. 
+- **Zelfstudietijd**: 30 uur per jaar.
+- **Onderwijsvorm**: Per kwartaal zijn 2 lesblokken van 1.5 uur SLB ingepland. Daarnaast vinden individuele gesprekken plaats. Verder zijn er activiteiten zoals introductie, lezingen, posterpresenstaties en excursies.
+- **Beoordeling** (tijdsduur):Aanwezig zijn en actief deelnemen aan alle groepsbijeenkomsten en andere geplande bijeenkomsten. Portfolio met alle opdrachten bijhouden en volgens afspraak inleveren. Beoordeling met voldoende of onvoldoende.
 
 ### Literatuur en andere bronnen
 
@@ -48,7 +49,7 @@ Portfolio met alle opdrachten bijhouden en volgens afspraak inleveren. Beoordeli
 **Beoordeling:**
 - Aanwezig zijn en actief deelnemen aan alle groepsbijeenkomsten en andere geplande bijeenkomsten.
 - Portfolio met alle opdrachten bijhouden en volgens afspraak inleveren.
-- Beoordeling met “voldoende” of “onvoldoende”
+- Beoordeling met "voldoende" of "onvoldoende"
 
 #### Ingangseisen 
 \- 
