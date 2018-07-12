@@ -67,6 +67,7 @@ This [Excel sheet](https://michielnoback.github.io/vakomschrijvingen_bioinformat
 
 **Web**
 - Blackboard course thema 9
+- [Course website](https://bincourses.bitbucket.io/data_mining_project.html)
 
 ### Competenties
 1(III), 2(III), 3(III), 4(III), 5(III), 7(II), 9(II), 10(I)
