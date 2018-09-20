@@ -1674,17 +1674,41 @@
 </tbody>
 </table>
 <h2 id="cursusdoelen-leerdoelen">Cursusdoelen (leerdoelen)</h2>
-<p><strong>AANVULLEN</strong></p>
+<p>After successfully attending this course, students are able to</p>
+<ul>
+<li>Design an API according to the REST (REpresentational State Transfer) architectural style</li>
+<li>Implement an API using the REST Maturity levels, up to level 3 (full HATEOAS compliant)</li>
+<li>Incorporate Domain Driven Design for implementing Data Transfer Objects</li>
+<li>Understand methods of (De)serializing POJOs to and from JSON data for communication purposes</li>
+<li>Test microservices using JUnit, Mockito and Spring Test (MockMVC)</li>
+<li>Recognize the proper use of the HTTP Status codes for communication and testing purposes</li>
+<li>Auto-generate full REST API documentation by using Spring REST Docs and the asciidoc plugin</li>
+<li>Reduc the application load by implementing pagination for accessing large resources (databases)</li>
+<li>Provide monitoring endpoints for assessing the application health and status through an API (using Spring Actuator)</li>
+<li>(optional) enable advanced scalability by configuring a Docker container for use with Kubernetes</li>
+</ul>
 <h2 id="inhoud">Inhoud</h2>
-<p><strong>AANVULLEN</strong></p>
+<p>During this course, titled <em>From Monoliths to Microservices</em>, we will explore modern techniques for designing and developing applications consisting of scalable, modular microservices. These services communicate through a REST API (a developer&#x2019;s UI) implemented using the Java Spring framework which is the main technique used in this course. </p>
+<p>The course begins by creating a single, small, microservice to which new features are added in later weeks and resulting in a mature, well documented REST API that provides insights in its usage (using HATEOAS links to resources), statistics and health information and properly communicates on error using JSON and HTTP status codes. Upon completion of the service, a Docker container configuration file (<code>Dockerfile</code>) is created for use with the Kubernetes container orchestrator for deployment as a scalable application.</p>
+<p><strong>beoordeling</strong>
+Your final project, and the functionality it offers, will be assessed and graded. These aspects will be taken into account (percentage indicates weighing factor):</p>
+<ul>
+<li>General code-quality and code-documentation (10% &amp; 5%)</li>
+<li>Application design, including proper use of DAO/DTOs (20%)</li>
+<li>Implemented Unit/ Integration tests, both positive and negative (15%)</li>
+<li>Documentation of the REST API endpoints using asciidoc (10%)</li>
+<li>Implementation of custom health and info actuator endpoints (10%)</li>
+<li>Functionality of the API, depending on project choice (30%)</li>
+</ul>
 <h3 id="literatuur-en-andere-bronnen">Literatuur en andere bronnen</h3>
 <p><strong>Literatuur</strong>  </p>
 <ul>
-<li><strong>BOEKEN</strong></li>
+<li>Chapter 1 from <em>Testing Java Microservices</em>, Alex Soto Bueno, Jason Porter and Andy Gumbrecht, ISBN 9781617292897. Free chapter 1 for download at <a href="https://www.manning.com/books/testing-java-microservices" target="_blank">manning publications</a>.</li>
 </ul>
 <p><strong>Web</strong></p>
 <ul>
-<li>Blackboard course thema XX</li>
+<li>Blackboard course thema 12</li>
+<li><a href="https://bitbucket.org/mkempenaar/webbasedinfo2/" target="_blank">Bitbucket repository</a></li>
 </ul>
 <h3 id="competenties">Competenties</h3>
 <p>-</p>
@@ -1697,13 +1721,25 @@
 <h4 id="ingangseisen-toets">Ingangseisen toets</h4>
 <p>- </p>
 <h4 id="voorkennis">Voorkennis</h4>
-<p>-</p>
+<ul>
+<li>It is very strongly advised to take the course &#x201C;Application Design&#x201D; first, since this course relies heavily on advanced Java coding skills and the Java Spring framework. </li>
+</ul>
 <h4 id="voorkennis-kan-worden-opgedaan-met">Voorkennis kan worden opgedaan met</h4>
-<p>-</p>
+<ul>
+<li>Introductie Java</li>
+<li>Webbased Information Systems 1</li>
+<li>Application Design</li>
+</ul>
 <h4 id="bronnen-van-zelfstudie">Bronnen van zelfstudie</h4>
-<p>-</p>
+<ul>
+<li>Articles by <a href="https://martinfowler.com/articles/microservices.html" target="_blank">Martin Fowler and James Lewis</a> about microservices.</li>
+</ul>
 <h4 id="verplicht-materiaal">Verplicht materiaal</h4>
-<p>-</p>
+<p>Current material for 2017-2018 (blog posts and online resources, might change based on availability)</p>
+<ul>
+<li><a href="https://martinfowler.com/articles/richardsonMaturityModel.html" target="_blank">Martin Fowler; <em>the Richardson Maturity Model</em></a></li>
+<li><a href="http://www.restapitutorial.com/httpstatuscodes.html" target="_blank">HTTP Status Codes for REST APIs</a></li>
+</ul>
 <h4 id="aanbevolen-materiaal">Aanbevolen materiaal</h4>
 <p>-</p>
 
@@ -1749,7 +1785,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Webbased Information Systems 2","level":"5.2.2","depth":2,"next":{"title":"Statistiek 5","level":"5.2.3","depth":2,"path":"thema-12AD/statistiek5.md","ref":"thema-12AD/statistiek5.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"5.2.1","depth":2,"path":"thema-12AD/praktijkopdracht12AD.md","ref":"thema-12AD/praktijkopdracht12AD.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-12AD/webbased2.md","mtime":"2018-02-19T10:37:37.535Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-10T09:47:58.429Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Webbased Information Systems 2","level":"5.2.2","depth":2,"next":{"title":"Statistiek 5","level":"5.2.3","depth":2,"path":"thema-12AD/statistiek5.md","ref":"thema-12AD/statistiek5.md","articles":[]},"previous":{"title":"Praktijkopdracht","level":"5.2.1","depth":2,"path":"thema-12AD/praktijkopdracht12AD.md","ref":"thema-12AD/praktijkopdracht12AD.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","livereload"],"pluginsConfig":{"toggle-chapters":{},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"thema-12AD/webbased2.md","mtime":"2018-09-20T12:36:24.388Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-09-20T12:38:09.846Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
