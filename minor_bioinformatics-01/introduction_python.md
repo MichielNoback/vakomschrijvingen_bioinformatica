@@ -1,63 +1,62 @@
-# Module: __MODULENAAM__
+# Module: 	Programming with Python
 
-| Gegevensveld  | Waarde |
+| Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
+| Osiriscode  | BFVH15PYTHON  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
-| Minimum cijfer  | 5,5 |
-| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
-| Voertaal  | Nederlands |
+| Assessment  | Computer exam |
+| Minimum grade  | 5,5 |
+| Lecturer(s))  | FEFE |
+| Contact person  | FEFE |
+| Language  | Nederlands/English* |
+\* depending on the student population
 
-## Cursusdoelen (leerdoelen)
+## Learning outcomes (leerdoelen)
 
-__AANVULLEN__
+A student can, without help, formulate a solution to a moderately complex problem and divide this solution into a logical series of smaller steps.
+Given well-defined specifications, a student is able to write a script in Python using Python data types, (built- in) functions, flow control structures and standard library without the help of others.
+A student is able to...  
 
-## Inhoud
+- handle specific exceptions in his/her script without the help of others.
+- A student is able to use regular expressions in Python without help.
+- clearly document her/his scripts without help using the pydoc standard.
+- access (text) files using Python without help.
+- debug a simple Python script containing logical and/or syntax errors.
 
-__AANVULLEN__
+## Contents
 
-### Literatuur en andere bronnen
+The goal of this module is to learn how to think like a programmer, and –applying these concepts- to create procedural scripts using the programming language Python. Since this is an introductory course, the first week will be focused on obtaining some medium advanced but, for programmers at least, indispensable computer skills. Starting the second week, basic programming concepts such as variables, functions and flow control and their application in Python will be introduced.
 
-**Literatuur**  
-- __BOEKEN__
+### Literature and other resources
+
+**Literature**  
 
 **Web**
-- Blackboard course thema XX
+- Blackboard course of the minor
 
-### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
+### Competences
+\- 
 
-### Werkvormen  
-
-__KIES UIT__
-
-- Praktijkopdrachten/Projectonderwijs  
-- Hoorcollege
-- Werkcollege
+### Method  
 - Hoor/werkcolleges
-- Peer review
-- Zelfstudie
 
-#### Ingangseisen 
+#### Entry conditions 
+- You need to be enrolled in a Bachelor programme in the Domain of Applied Science. 
+
+#### Entry demands for test
 \- 
 
-#### Ingangseisen toets
-\- 
-
-#### Voorkennis
+#### Foreknowledge
 \-
 
-#### Voorkennis kan worden opgedaan met
+#### Foreknowledge can be obtained through
 \-
 
-#### Bronnen van zelfstudie
+#### Resources for self study
 \-
 
-#### Verplicht materiaal
+#### Mandatory materials
 \-
 
-#### Aanbevolen materiaal
+#### Recommended materials
 \-
-

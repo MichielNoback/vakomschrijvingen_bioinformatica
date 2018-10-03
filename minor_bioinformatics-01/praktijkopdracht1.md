@@ -1,63 +1,63 @@
-# Module: __MODULENAAM__
+# Module: Diagnostic Genome Analysis
 
-| Gegevensveld  | Waarde |
+| Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
-| ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
-| Minimum cijfer  | 5,5 |
-| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
-| Voertaal  | Nederlands |
+| Osiriscode  | BFVH15DIAGN  |
+| ECTS  | 5 |
+| Assessment  | Project |
+| Minimum grade  | 5,5 |
+| Lecturer(s))  | KEMC |
+| Contact person  | KEMC |
+| Language  | Nederlands/English* |
+\* depending on the student population
 
 ## Cursusdoelen (leerdoelen)
 
-__AANVULLEN__
+After taking this course, you should be able to: 
+ 
+Asses the quality of next-generation sequence (NGS) data
+Map NGS reads to a reference genome or region(s)
+Determine the mapping quality
+Call variants in the mapped reads
+Determine the possible disease causing variants
+Store the relevant information in a SQLite database
+Present your findings in a scientific poster
 
 ## Inhoud
 
-__AANVULLEN__
+In this course a wide range of bio-informatics tools will be used on next-generation sequence data from patients to identify genomic variations likely involved in the (possible hereditary) disease cardiomyopathy.
 
 ### Literatuur en andere bronnen
 
-**Literatuur**  
-- __BOEKEN__
+**Literature**  
+- Introduction to Bioinformatics 4th Edition. ISBN-13:978-0199651566
 
 **Web**
-- Blackboard course thema XX
+- Blackboard course of the minor
 
-### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
+### Competences
+\-
 
-### Werkvormen  
+### Method  
+- project work
 
-__KIES UIT__
+#### Entry demands 
+- You need to be enrolled in a Bachelor programme in the Domain of Applied Science. 
 
-- Praktijkopdrachten/Projectonderwijs  
-- Hoorcollege
-- Werkcollege
-- Hoor/werkcolleges
-- Peer review
-- Zelfstudie
-
-#### Ingangseisen 
+#### Entry demands for test
 \- 
 
-#### Ingangseisen toets
-\- 
+#### Foreknowledge
+- We assume knowledge of the central dogma of biology
 
-#### Voorkennis
+#### Foreknowledge can be obtained through
 \-
 
-#### Voorkennis kan worden opgedaan met
+#### Resources for self study
 \-
 
-#### Bronnen van zelfstudie
+#### Mandatory materials
 \-
 
-#### Verplicht materiaal
+#### Recommended materials
 \-
-
-#### Aanbevolen materiaal
-\-
-

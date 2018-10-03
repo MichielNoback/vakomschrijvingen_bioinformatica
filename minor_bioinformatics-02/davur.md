@@ -1,16 +1,17 @@
 # Module: Data analysis and visualization using R
 
-| Gegevensveld  | Waarde |
+| Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | BFVH17DAVUR2  |
+| Osiriscode  | BFVH15DIAGN  |
 | ECTS  | 4 |
-| Toetsvorm  | Computertentamen |
-| Minimum cijfer  | 5,5 |
-| Docent(en)  | NOMI |
-| Contactpersoon  | NOMI |
-| Voertaal  | Engels |
+| Assessment  | Computer exam |
+| Minimum grade  | 5,5 |
+| Lecturer(s))  | NOMI |
+| Contact person  | NOMI |
+| Language  | Nederlands/English* |
+\* depending on the student population
 
-## Cursusdoelen (leerdoelen)
+## Learning outcomes (leerdoelen)
 
 After taking this course, you should be able to
 
@@ -24,7 +25,7 @@ After taking this course, you should be able to
 - perform exploratory data analysis using both textual and graphical output
 - create well-decorated charts and figures and use them appropriately
 
-## Inhoud
+## Contents
 
 R is a programming language and software environment for data analysis, statistical computing and visualization. In this course you will learn to use R in these three areas, in particular data analysis and visualization. 
 
@@ -36,39 +37,40 @@ You are supposed to give all solutions/answers in an R Markdown file and submit 
 - The completeness of figures (axes, legends, titles)
 
 
-### Literatuur en andere bronnen
+### Literature and other resources
 
-**Literatuur**  
+**Literature**  
 \-
 
 **Web**
 - Blackboard course of the minor
 - https://bincourses.bitbucket.io/davur.html
 
-### Competenties
-\-
+### Competences
+\- 
 
-### Werkvormen  
+### Method  
 - Hoor/werkcolleges
 
-#### Ingangseisen 
+#### Entry demands 
+- You need to be enrolled in a Bachelor programme in the Domain of Applied Science. 
+
+#### Entry demands for test
 \- 
 
-#### Ingangseisen toets
-\- 
+#### Foreknowledge
+- Working knowledge of distributions, basic statistical tests and descriptive statistics concepts are assumed.
 
-#### Voorkennis
-It is strongly advised to have acquired knowledge of basic descriptive and inferential statistics (means, median, distributions, t-test, chi-square test, p-values etc.) before taking this course. 
-
-#### Voorkennis kan worden opgedaan met
+#### Foreknowledge can be obtained through
 - Statistics course(s)
 
-#### Bronnen van zelfstudie
+#### Resources for self study
 \-
 
-#### Verplicht materiaal
+#### Mandatory materials
 \-
 
-#### Aanbevolen materiaal
+#### Recommended materials
 \-
+
 

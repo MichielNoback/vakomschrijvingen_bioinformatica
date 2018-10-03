@@ -1,14 +1,15 @@
-# Module: __MODULENAAM__
+# Module: Introduction to academic counseling (SLB)
 
-| Gegevensveld  | Waarde |
+| Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
-| ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
-| Minimum cijfer  | 5,5 |
-| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
-| Voertaal  | Nederlands |
+| Osiriscode  | BFVH15IAC  |
+| ECTS  | 1 |
+| Assessment  | Homework Assignment | 
+| Minimum grade  | V (pass/fail) |
+| Lecturer(s))  | NOMI |
+| Contact person  | NOMI |
+| Language  | Nederlands/English* |
+\* depending on the student population
 
 ## Cursusdoelen (leerdoelen)
 
@@ -18,46 +19,37 @@ __AANVULLEN__
 
 __AANVULLEN__
 
-### Literatuur en andere bronnen
+### Literature and other resources
 
-**Literatuur**  
-- __BOEKEN__
+**Literatur**  
+\- 
 
 **Web**
-- Blackboard course thema XX
+- Blackboard course of the minor
 
-### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
+### Competences
+\-
 
-### Werkvormen  
+### Method  
+- lecture/seminar/tutorial
 
-__KIES UIT__
+#### Entry demands 
+- You need to be enrolled in a Bachelor programme in the Domain of Applied Science. 
 
-- Praktijkopdrachten/Projectonderwijs  
-- Hoorcollege
-- Werkcollege
-- Hoor/werkcolleges
-- Peer review
-- Zelfstudie
-
-#### Ingangseisen 
+#### Entry demands for test
 \- 
 
-#### Ingangseisen toets
-\- 
-
-#### Voorkennis
+#### Foreknowledge
 \-
 
-#### Voorkennis kan worden opgedaan met
+#### Foreknowledge can be obtained through
 \-
 
-#### Bronnen van zelfstudie
+#### Resources for self study
 \-
 
-#### Verplicht materiaal
+#### Mandatory materials
 \-
 
-#### Aanbevolen materiaal
+#### Recommended materials
 \-
-

@@ -1,63 +1,66 @@
-# Module: __MODULENAAM__
+# Module: Capstone Project: Analysis of Gene Expression	
 
-| Gegevensveld  | Waarde |
+| Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
-| ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
-| Minimum cijfer  | 5,5 |
-| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
-| Voertaal  | Nederlands |
+| Osiriscode  | BFVH15CAPSTONE  |
+| ECTS  | 8 |
+| Assessment  | Project |
+| Minimum grade  | 5,5 |
+| Lecturer(s))  | KEMC |
+| Contact person  | KEMC |
+| Language  | Nederlands/English* |
+\* depending on the student population
 
-## Cursusdoelen (leerdoelen)
+## Learning outcomes (leerdoelen)
 
-__AANVULLEN__
+During this course you will
+ 
+- read published scientific literature to select an appropriate RNA-seq or microarray experiment for further analysis
+- present a project proposal outlining the
+- use the R statistical language with a variety of external libraries to analyze, filter and to provide insight into large gene expression data sets
+- perform Exploratory Data Analysis on selected experiment data
+- choose and apply the correct form of preprocessing/ normalization techniques
+- perform extensive descriptive statistics
+- identify, cluster, and visualize differential gene expression using multiple techniques
+- report on performed tasks and findings with text, code, figures and tables using R Markdown
+- write a publication-style document of your research and findings
 
-## Inhoud
+## Contents
 
-__AANVULLEN__
+This final course as part of the Bioinformatics minor revolves around the analysis of gene expression data. The student will start by browsing for a topic of interest in a vast repository of published gene expression data sets (originating from RNA-seq and microarray experiments). Given the experiment, the next phase will include a literature study resulting in a project proposal used as a basis for the remainder of the project where the data will be analyzed in depth using the statistical programming language R. This includes exploratory data analysis, normalization, descriptive statistics and identifying relevant cases of differential gene expression. The end product is a publication-style report of the research and findings.
 
-### Literatuur en andere bronnen
+### Literature and other resources
 
-**Literatuur**  
-- __BOEKEN__
+**Literature** 
+- Introduction to Bioinformatics 4th Edition. ISBN-13:978-0199651566
 
 **Web**
-- Blackboard course thema XX
+- Blackboard course of the minor
 
 ### Competenties
-1(II), 2(II), 3(II), 4(II), 5(II), 6(II), 7(II), 8(II), 9(II), 10(II), 11(II), 12(II), 13(II)
+\-
 
-### Werkvormen  
+### Method  
+- Project work
 
-__KIES UIT__
+#### Entry demands 
+- You need to be enrolled in a Bachelor programme in the Domain of Applied Science. 
 
-- Praktijkopdrachten/Projectonderwijs  
-- Hoorcollege
-- Werkcollege
-- Hoor/werkcolleges
-- Peer review
-- Zelfstudie
-
-#### Ingangseisen 
+#### Entry demands for test
 \- 
 
-#### Ingangseisen toets
-\- 
+#### Foreknowledge
+- Working knowledge of distributions, basic statistical tests and descriptive statistics concepts are assumed.
+- We assume knowledge of the central dogma of biology
 
-#### Voorkennis
+#### Foreknowledge can be obtained through
+- Statistics course(s)
+
+#### Resources for self study
 \-
 
-#### Voorkennis kan worden opgedaan met
+#### Mandatory materials
 \-
 
-#### Bronnen van zelfstudie
+#### Recommended materials
 \-
-
-#### Verplicht materiaal
-\-
-
-#### Aanbevolen materiaal
-\-
-
