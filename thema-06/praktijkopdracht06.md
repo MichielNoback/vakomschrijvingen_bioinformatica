@@ -12,12 +12,21 @@
 
 ## Cursusdoelen (leerdoelen)
 
--	Samenwerking, organisatie en communicatie
--	Het inzicht krijgen in verschillende genomics-tools, hun functioneren en gebruik
--	BLAST-resultaten te interpreteren en de invloed van de BLAST-settings te beredeneren en analyseren.
--	Een eigen ontworpen Python programma in de Galaxy-server omgeving te installeren en te integreren in een eigen ontworpen pipeline 
--	Wetenschappelijke literatuur op een goede manier te gebruiken en te verweken in een verslag.
--	Resultaten verkregen vanuit een bio-informatica onderzoek op een heldere manier te presenteren en te communiceren.
+Er zijn een aantal doelstellingen waaraan je gaat werken.
+•	Onderzoeksdoel, het beantwoorden van jou specifieke onderzoeksvraag
+•	Het maken van een in Python geschreven analyse pipeline.
+
+Daarnaast zijn er nog leerdoelen:
+	Aan het einde van dit kwartaal heb je de volgende vaardigheden opgedaan:
+•	Samenwerking, organiseren en op een constructieve manier communiceren
+•	Leren plannen en hierop reflecteren
+•	Het leren interpreteren van een onderzoeksvraag en de juiste strategie bedenken om deze te kunnen beantwoorden aan de hand van een verkregen dataset
+•	Het inzicht krijgen in verschillende genomics-tools, hun functioneren en gebruik
+•	BLAST-resultaten te interpreteren en de invloed van de BLAST-settings te beredeneren en analyseren.
+•	Een eigen ontworpen Python pipeline programma ontwikkelen 
+•	Wetenschappelijke literatuur op een goede manier te gebruiken en te verweken in een verslag.
+•	Resultaten verkregen vanuit een bio-informatica onderzoek op een heldere manier te presenteren en te communiceren.
+
 
 
 ## Inhoud
@@ -29,11 +38,9 @@ Om te kijken welke functionele elementen, genen, promotor sequenties en andere r
 DNA verborgen zijn wordt er gebruik gemaakt van een verscheidenheid aan NGS-tools. 
 Daarnaast zal ook Basic Local Alignment Search Tool (BLAST), het meest gebruikte algoritme om DNA-volgordes met elkaar 
 te vergelijken, een belangrijke rol gaan spelen. De data zal gericht zijn op veranderingen in genexpressie 
-in relatie met functionele annotatie. Uitkomsten zullen in een database worden opgeslagen, 
-zodat deze gebruikt kunnen worden voor metabolische route analyses. 
-Samenwerking in teamverband speelt een belangrijke rol in dit thema. 
-Uiteindelijk zal ieder team een eigen annotatie pipeline hebben geconstrueerd, 
-om het metaboloom van het onbekende DNA monster te annoteren en zo de mogelijk functionaliteiten van de bacteriën te bepalen.  
+in relatie met functionele annotatie. Samenwerking in teamverband speelt een belangrijke rol in dit thema, er wordt samengewerkt
+in teams van 4 studenten. Uiteindelijk zal ieder team een eigen  pipeline hebben geconstrueerd. Deze pipeline moet instaat zijn om een wetenschappelijke vraag, verkregen vanuit het werkveld, te beantwoorden.
+Dit thema heeft een sterke relatie met de leerlijn ondernemerschap. Planning en samenwerking staan hierin centraal.
 
 ### Literatuur en andere bronnen
 
