@@ -33,6 +33,8 @@ Visualisatie van een dataformat uit de bio-informatica met behulp van Python web
 **Web**  
 - Blackboard course thema 3
 - https://www.w3schools.com/html/default.asp
+- http://jinja.pocoo.org/docs/2.10/
+- http://flask.pocoo.org
 
 ### Competenties
 1(I), 2(I), 3(I), 4(I), 5(I), 7(I), 8(I), 11(I), 13(I)
@@ -47,10 +49,10 @@ Visualisatie van een dataformat uit de bio-informatica met behulp van Python web
 \- 
 
 #### Voorkennis
-\-
+Er word vanuit gegaan dat de student zijn Python programeer kennis gelijkt loopt met informatica theorie lessen
 
 #### Voorkennis kan worden opgedaan met
-\-
+Bestuderen van de voorgaande informatica lessen
 
 #### Bronnen van zelfstudie
 \-
