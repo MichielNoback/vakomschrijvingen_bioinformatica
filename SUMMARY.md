@@ -1,7 +1,6 @@
 # Summary
 
 * [Inleiding](README.md)
-* [Overzicht wijzigingen](changelog.md)
 * [Werkinstructie voor BFV docenten](werkinstructie.md)
 
 ## Jaar 1

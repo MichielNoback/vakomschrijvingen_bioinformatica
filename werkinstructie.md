@@ -12,7 +12,8 @@ Het volgende beschrijft de manier van werken door BFV docenten om dit gitbook up
 - Fork de repository https://github.com/MichielNoback/vakomschrijvingen_bioinformatica
 - Clone hem lokaal op je computer `git clone https://github.com/<YourUserName>/vakomschrijvingen_bioinformatica.git`
 - Breng wijzigingen aan in je lokale kopie
-- Doe een Add `git add ...`, een Commit `git commit -m <een goede omschrijving van wijzigingen>` en een Push `git push origin master`
+- Doe een Add `git add ...`, een Commit `git commit -m <een goede omschrijving van wijzigingen>` en een Push `git push origin master`  
+**Let op!** Het is heel belangrijk dat je commit message een goede omschrijving is van de module en wat er gewijzigd is. Geef voorkeur aan meerdere kleine commits (1 per module) gebundeld in 1 pull request.
 - Op je github fork (**Github website!**): Stuur een pull request naar de originele repo. Zie voor hulp: [https://help.github.com/articles/creating-a-pull-request-from-a-fork/](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 ### Latere updates  
