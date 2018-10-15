@@ -8,7 +8,7 @@ git checkout gh-pages
 git pull origin gh-pages --rebase
 
 # copy the static site files into the current directory.
-cp -R _book/* .
+#cp -R _book/* .
 # OR to prevent confimation dialog
 yes | cp -R _book/* .
 
