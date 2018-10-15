@@ -12,14 +12,12 @@
 
 ## Cursusdoelen (leerdoelen)
 
-Er zijn een aantal doelstellingen waaraan je gaat werken.
+Aan het einde van dit kwartaal heeft de student volgende vaardigheden opgedaan:
 •	Onderzoeksdoel, het beantwoorden van jou specifieke onderzoeksvraag
 •	Het maken van een in Python geschreven analyse pipeline.
-
-Daarnaast zijn er nog leerdoelen:
-	Aan het einde van dit kwartaal heb je de volgende vaardigheden opgedaan:
-•	Samenwerking, organiseren en op een constructieve manier communiceren
-•	Leren plannen en hierop reflecteren
+•	Samenwerking, organiseren en op een constructieve manier communiceren (leerlijn ondernemerschap)
+•	Het gebruik en principe van Trello (trello.com)	begrijpen en toepassen
+•	Leren plannen en hierop reflecteren (leerlijn ondernemerschap)
 •	Het leren interpreteren van een onderzoeksvraag en de juiste strategie bedenken om deze te kunnen beantwoorden aan de hand van een verkregen dataset
 •	Het inzicht krijgen in verschillende genomics-tools, hun functioneren en gebruik
 •	BLAST-resultaten te interpreteren en de invloed van de BLAST-settings te beredeneren en analyseren.
