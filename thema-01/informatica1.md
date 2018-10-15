@@ -11,9 +11,22 @@
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
-- Na het volgen van deze cursus kan de deelnemer omgaan met het Linux filesysteem.
-- De cursist kan omgaan met code editors.
-- Daarnaast kan de student een eenvoudig Python script ontwerpen en schrijven, gebruikmakend van variabelen, lijsten, dictionaries, flow control en functies
+De student kan na afloop van deze module:
+ 
+- onderscheid maken tussen de datatypen None, Boolean, Integer, Floating point getallen en deze datatypen correct toepassen.
+- gebruik maken van de verzamelingen String, List, Tuple en Dictionaries en de methoden van deze verzamelingen correct toepassen.
+- gedeelde functies op verzamelingen zoals in, not, len, min en max toepassen.
+- de rekenkundige operatoren -, + , *, **, /, % en // toepassen.
+- de vergelijkingsoperatoren ==, <, <=, >=, > en != correct toepassen.
+- assignment operatoren =, +=, -=, *=, /= %=, **= en //= correct toepassen.
+- op correcte wijze flow control logica toepassen met if, elif en else.
+- de for loop en de while loop correct toepassen.
+- een eenvoudige functie definiëren waarbij waarden geretourneerd worden met return.
+- positionele argumenten, positionele parameters en default parameters gebruiken.
+- een file inlezen met behulp van de functie open.
+- met behulp van de print functie tekst naar de console printen en tekst naar een file printen.
+- help documentatie vinden met de functies dir en help en de pydoc website
+ 
 
 ## Inhoud
 

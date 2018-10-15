@@ -16,6 +16,7 @@ De kerndocenten van de opleiding (voor mail adres: neem  tussen haakjes en voeg 
 - **BOJP** Jasper Bosman (j.bosman)
 - **FEFE** Fenna Feenstra (f.feenstra)
 - **HEMI** Martijn Herber (m.herber)
+- **HJUR** Jurre Hageman (j.hageman)
 - **LADR** Dave Langers (d.r.m.langers)
 - **KEMC** Marcel Kempenaar (m.kempenaar)
 - **LUMF** Mirjam Lurvink (m.f.lurvink)
