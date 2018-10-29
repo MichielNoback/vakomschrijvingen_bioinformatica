@@ -11,22 +11,50 @@
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
-- Na het volgen van deze cursus kan de deelnemer omgaan met het Linux filesysteem.
-- De cursist kan omgaan met code editors.
-- Daarnaast kan de student een eenvoudig Python script ontwerpen en schrijven, gebruikmakend van variabelen, lijsten, dictionaries, flow control en functies
 
+De student kan na afloop van deze module:
+ 
+- IDLE gebruiken voor het schrijven en uitvoeren van Python 3
+  programma's
+
+- documentatie vinden met de functies dir() en help() en met de pydoc
+  website
+
+- de basis data typen (bool, int, float, str, list, tuple, en
+  dictionary) correct toepassen
+
+- rekenkundige operatoren toepassen
+
+- vergelijkingsoperatoren toepassen
+
+- variabelen correct definieren en toepassen, rekening houdend met de
+  scope van die variabelen
+
+- flow control implementeren door middel van if/elif/else constructs
+  (beslissing) en for-loops (herhaling)
+
+- standaard built-in functies (print, range, len, min, max)
+  toepassen
+
+- eenvoudige functies definiëren die positionele input argumenten
+  gebruiken en een resultaat teruggeven (return)
+
+- een bestand inlezen en verwerken met behulp van de functies open/close en
+  een for-loop
+
+- met behulp van de print functie tekst naar de console printen en
+  tekst naar een file printen
+ 
 ## Inhoud
 
-Informatica 1 geeft een introductie in programmeren met de programmeertaal Python, alsmede een korte introductie in het gebruik van Linux.
-
-De kennismaking met Linux bestaat uit omgaan met Linux filesysteem; leren documentatie opzoeken en gebruiken en werken met code editors
+Informatica 1 geeft een introductie in programmeren met de programmeertaal Python.
 
 Van Python worden de volgende onderwerpen behandeld:  
 
 - rekenen, (typen) variabelen
 - basis strings (tekst) & formattering & print()
 - booleans (True/False), operators (==, !=) en beslissingen (flow control: if/else)
-- gebruik maken van data types "list" en "dict"
+- gebruik maken van data types "list", "tuple" en "dict"
 - kennis maken met het gebruik, syntax en ontwerp van functies
 - structuur van een script leren kennen
 - leren python documentatie opzoeken en gebruiken
