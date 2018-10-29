@@ -12,16 +12,54 @@
 
 ## Cursusdoelen (leerdoelen)
 
-Na deze cursus kan de deelnemer zelfstandig een goed gedocumenteerd Python script schrijven dat command line argumenten accepteert en afhandelt, met gebruik van functies, uitgebreide flow control en de juiste data types.
+De student kan na afloop van deze module:
+
+- een programma schrijven volgens een gegeven template, dat vanuit de
+  terminal kan worden uitgevoerd en als module geimporteerd kan worden
+
+- command-line argumenten die meegegeven worden bij aanroepen in een
+  terminal correct verwerken door middel van sys.argv
+
+- programmeerproblemen analyseren en opdelen in logische deelproblemen
+  met behulp van commentaar en/of pseudocode
+
+- een programma logisch en strategisch opbouwen door gebruik van
+  functies en flow-control
+
+- programma's en functies voorzien van docstrings, volgens de
+  standaard van het Python help-systeem
+
+- functies schrijven met variabele argumentenlijsten en keyword argumenten
+
+- functies gebruiken als objecten
+
+- functies implementeren voor het lezen, verwerken en het schrijven van bestanden
+
+- strings opmaken met de Python format syntax
+
+- gebruik maken van het set datatype waar dit voor efficientie van het
+  programma voorkeur heeft
+
+- syntax en runtime fouten opsporen en verbeteren door middel van de
+  Python traceback
+
+- semantische fouten opsporen en verbeteren door functioneel testen
+
+- enkelvoudige list comprehensions opstellen
+
 
 ## Inhoud
 
-Informatica 2 is de tweede van drie cursussen over de programmeertaal Python. Dit kwartaal worden de volgende onderwerpen behandeld:
-- CL arguments (sys-argv)
+Informatica 2 is de tweede van drie cursussen over de programmeertaal
+Python. Dit kwartaal wordt nadruk gelegd op strategie en implementatie
+en worden de volgende onderwerpen behandeld:
+
+- programma c.q. module template
+- command-line arguments (sys.argv)
 - I/O: files lezen en schrijven
-- String formatting
+- string formatting
 - docsctrings, help() & custom usage()
-- set, tuple
+- set
 - functies gevorderd
 
 ### Literatuur en andere bronnen
