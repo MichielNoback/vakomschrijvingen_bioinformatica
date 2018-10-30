@@ -31,6 +31,10 @@ Python based programma. Enzymen zijn eiwitten met een speciale functie: het uitv
  De reactiemechanismen en de kinetiek van enzymen kunnen goed gemodelleerd worden. In Biochemie 1 voor BIN 
  gaan we dan ook in op de bioinformatica van eiwitten om zo de stof eigen te maken.
 
+**Beoordeling**
+Tussentijdse toets kennis aminozuren: 10%
+Schriftelijk tentamen in tentamenweek: 90%
+
 ### Literatuur en andere bronnen
 
 **Literatuur**  
