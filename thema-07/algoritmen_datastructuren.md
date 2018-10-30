@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 | Osiriscode  | BFVH4ADS1 |
 | ECTS  | 3 |
-| Toetsvorm  | Practisch tentamen |
+| Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | PARN |
 | Contactpersoon  | PARN |
@@ -27,7 +27,7 @@ In deze module maken de studenten kennis met verschillende datastructuren en hun
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- nog niet bekend
+- Data Structures and Algorithms using Python
 
 **Web**
 - Blackboard course thema 7
