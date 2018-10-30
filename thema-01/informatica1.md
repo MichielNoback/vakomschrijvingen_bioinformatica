@@ -30,9 +30,7 @@ De student kan na afloop van deze module:
 
 ## Inhoud
 
-Informatica 1 geeft een introductie in programmeren met de programmeertaal Python, alsmede een korte introductie in het gebruik van Linux.
-
-De kennismaking met Linux bestaat uit omgaan met Linux filesysteem; leren documentatie opzoeken en gebruiken en werken met code editors
+Informatica 1 geeft een introductie in programmeren met de programmeertaal Python.
 
 Van Python worden de volgende onderwerpen behandeld:  
 
