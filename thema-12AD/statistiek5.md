@@ -12,10 +12,22 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- Visualisatie van data
-- Non-lineaire regressie (non-linear least-squares)
-- Normaliteit en analyse van residuals (quality control)
-- Genome-wide association studies
+- gegeven een dataset modellen opstellen voor enkelvoudige
+  niet-lineaire modellen (niet-samengestelde functies) met
+  een exponentieel, logaritmisch, of een sigmoide verband
+- gegeven een dataset voor een niet-lineair model de parameters
+  schatten met behulp van de nls funtie van R
+- gegeven een dataset voor een niet-lineair model de parameters
+  schatten door middel van een parameter-sweep en de residual sum of
+  squares
+- gegeven een dataset de kwaliteit van de fit tegen een niet-linear
+  model evalueren
+- de kwaliteit van fit van verschillende niet-lineaire en/of lineaire
+  modellen vergelijken door middel van AIC of BIC
+- de resultaten van een niet-lineaire fit grafisch presenteren
+- de normaliteit van een dataset op vier verschillende manieren
+  beoordelen
+- een genome-wide association study uitvoeren
 
 ## Inhoud
 
