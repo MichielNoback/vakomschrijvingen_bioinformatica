@@ -1,4 +1,4 @@
-# Module: Immunologie 2
+# Module: Immunologie 2: The Adaptive Immune System
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
@@ -12,29 +12,33 @@
 
 ## Cursusdoelen (leerdoelen)
 
-Na afloop van de onderwijseenheid kan de student:  
+Na het bestuderen van de behandelde stof kan de student:  
 
-- Immunologische afweer op pathogenen duiden in termen van humorale en cellulaire afweer.
-- De opbouw van antibody moleculen nauwkeurig beschrijven
-- De werking van immunoglobuline loci nauwkeurig beschrijven
-- De werking van CHIP-Seq analyses beschrijven en de resultaten interpreteren
-- De werking van het HIV virus beschrijven en het effect van het virus op het immuunsysteem uitleggen
+1.	T- en B-cel receptoren vergelijken met betrekking tot de immunoglobuline domeinenen en co-receptoren
+2.	De herrangschikkking van B- en T-cel receptor genen uitleggen en beschrijven dat herrangschikking verandert in ‘mature’ B- en T-cellen
+3.	De enzymen betrokken bij en de individuele stappen van VDJ recombinatie reproduceren
+4.	Uitleggen hoe RNA splicing de expressie van membraan gebonden en uitgescheiden IgM en IgD antilichamen bepaalt
+5.	De 6 categorieën antilichaamfuncties met bijbehorende klasse, locatie en Fc receptor benoemen
+6.	MHC-klassen beschrijven inclusief de expressiepatronen, structuur, antigen type en T-cel interacties
+7.	Beschrijven hoe MHC overerft en wat voor gevolgen dit heeft voor niet-matchende weefseltransplantaties
+8.	Het gedrag van het aangeboren en verworven immuunsysteem voor en tijdens een immuunrespons visualiseren
+
 
 ## Inhoud
 
-Immunologie 2 levert de ondersteuning voor begrip van immunologische afweer in geval van infecties met diverse soorten
-pathogenen. Daarbij zal voornamelijk de humorale afweer ter sprake komen. De biochemische basis van antigeniciteit en moleculair biologische achtergrond van antilichaam-diversiteit zullen in dit verband aandacht krijgen. Daarnaast wordt aandacht besteed aan de toepassing van antilichamen voor laboratoriumexperimenten die voor bioinformatici belangrijk zijn zoals CHIP-seq analyse.
+Immunologie 2 levert de ondersteuning voor begrip van immunologische afweer in geval van infecties met diverse soorten pathogenen. Daarbij zal voornamelijk de humorale afweer ter sprake komen waarbij de biochemische basis van antigeniciteit en moleculair biologische achtergrond van antilichaam-diversiteit in dit verband aandacht krijgen. Voor de cellulaire afweer zal de TCR en MHC in detail behandeld worden.
  
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- Kuby Immunology; Thomas J. Kindt, Richard A. Goldsby, Barbara A. Osborne, J., W.H. Freeman and company, 7e druk (2013).
-Kuby 7
-    - C3 Antibodies [blz 80-94]
-    - C7 The organization and expression of lymphocyte receptor genes [blz. 225-247]
-    - C12 B-Cell Activation, Differentiation, and Memory Generation [blz. 398-403]
-    - C20 Experimental methods [blz 654-655] (monoclonal AB) + slides chip-seq
-    - C18 AIDS [blz 607-626]
+- Kuby Immunology; Owen, Punt & Stranford. W.H. Freeman and company, 8e druk (2018) ISBN 9781319114701  
+    - C 3 BCR and TCR
+    - C 6 VDJ recombination in BCR and TCR 
+    - C 7 MHC and Antigen Presentation 
+    - C 11 CSR and SH
+    - C12 Antibody Effector functions
+    - C 14 The Adaptive Immune Respons in Space and Time
+
 
 **Web**
 - Blackboard course thema 11
