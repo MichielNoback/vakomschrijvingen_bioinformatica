@@ -50,7 +50,7 @@ Voorafgaand aan het werken aan de eind simulatie zijn er een drietal beoordeelde
     * Deelopdrachten
 
 ### Competenties
-1(I), 2(I), 3(I), 5(I), 10(I), 11(I), 13(I)
+1(I), 2(I), 3(I), 5(I), 9(I), 10(I), 11(I), 13(I)
 
 ### Werkvormen  
 

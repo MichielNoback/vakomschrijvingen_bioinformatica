@@ -12,11 +12,12 @@
 
 ## Cursusdoelen (leerdoelen)
 - Beginselen van de programmeertaal Python aanleren / oefenen. Deze worden behandeld bij informatica 1. En betreffen o.a.
-    - Bestanden openen en lezen
+    - Bestanden openen en lezen, verwerken en resultaten wegschrijven
     - Variabelen, lijsten, dictionaries, flow control en functies
-- Verwerven van inzicht in verschillende bestandsformaten
 - Studenten leren eenvoudige biologische vragen te beantwoorden aan de hand van digitale informatie
 - De student kan biologische kennis omzetten in programmatische concepten
+- Verwerven van inzicht in verschillende bestandsformaten
+- De student kan meerdere bestandsformaten herkennen en verwerken middels een Python-script
 
 
 

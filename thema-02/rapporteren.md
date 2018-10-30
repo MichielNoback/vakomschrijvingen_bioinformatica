@@ -12,28 +12,47 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- De student kan onderzoeksresultaten doeltreffend en op een aantrekkelijke manier schriftelijk in het Nederlands presenteren
-- Vergroten van de schrijfvaardigheid door te leren werken volgens een systematische methode
-- De student krijgt inzicht en grip op zijn eigen schrijfproces
-- Met anderen samenwerken om op effectieve en efficiënte wijze opdrachten af te ronden
-- Bewustwording bij de student van het belang van het correct taalgebruik in de opleiding en later in het werkveld.
+De student 
+1. formuleert onderzoeksresultaten doeltreffend.   
+2. formuleert onderzoeksresultaten aantrekkelijk.   
+3. formuleert onderzoeksresultaten in correct Nederlands.   
+4. maakt een onderzoeksverslag via een voorgestructureerde methode met vaste hoofdstukken en bijhorende criteria. (=template)
+5. toont de bereidheid zijn schrijfvaardigheid te ontwikkelen.
+6. werkt samen met anderen om zijn onderzoeksverslag te maken.  
+7. hanteert schriftelijk taalgebruik passend bij de doelgroep van vakexperten en medestudenten.   
+
 
 ## Inhoud
 
 - Voorbereiding op de eindopdracht: het schrijven van een onderzoeksverslag  
 - Doelgroepgericht schrijven  
-- Richtlijnen verslaglegging ILST/ werkveld  
+- Richtlijnen verslaglegging ILST/werkveld  
 - Schrijfopdrachten aan de hand van opleiding gerelateerde teksten  
-- Als onderdeel van rapporteren neemt de student deel aan de diagnostische taaltoets startvaardigheden Nederlands. Deze toets heeft als doel: het signaleren van de deficiënties van de basale taalvaardigheden Nederlands bij de student
 
-Het schrijven van onderzoeksverslagen en rapporten is een complexe vaardigheid, die uiteen valt in deelvaardigheden: heldere opbouw, logische structuur, concrete formulering van doelstelling, gericht op de doelgroep, correcte spelling en dergelijke. Een goede schrijfvaardigheid is een noodzakelijke voorwaarde om te kunnen functioneren als HBO-professional. Het vak Rapporteren is gericht op de totstandkoming van een rapport of onderzoeksverslag in de professionele praktijk van organisaties. Aandachtspunten daarbij zijn het gebruiken van tekststructuren en het correct toepassen van regels voor en herstructurering is dan ook dat je in staat bent vaardigheden van het schrijfproces. Dit om met de middelen de doelen te bereiken of stijl, grammatica en spelling.
-Tijdens de werkcolleges wordt aan de hand van opleidinggerelateerde teksten, geoefend met de verschillende deelvaardigheden van het schrijfproces: doelen  in kaart brengen, concreet formuleren doel- en vraagstelling en het structureren van informatie.
+Het schrijven van onderzoeksverslagen en rapporten is een complexe vaardigheid, die uiteen 
+valt in deelvaardigheden: heldere opbouw, logische structuur, concrete formulering van 
+doelstelling, gericht op de doelgroep, correcte spelling en dergelijke. Een goede 
+schrijfvaardigheid is een noodzakelijke voorwaarde om te kunnen functioneren als HBO-professional.
+Het vak Rapporteren is gericht op de totstandkoming van een rapport of onderzoeksverslag 
+in de professionele praktijk van organisaties. Aandachtspunten daarbij zijn het gebruiken 
+van tekststructuren en het correct toepassen van regels voor stijl, grammatica en spelling.
+Tijdens de werkcolleges wordt aan de hand van opleidingsgerelateerde teksten, geoefend 
+met de verschillende deelvaardigheden van het schrijfproces: doelen  in kaart brengen, 
+concreet formuleren doel- en vraagstelling en het structureren van informatie.
+
+**Beoordeling**
+Het definitieve onderzoeksverslag van de practicumopdracht wordt beoordeeld met een 
+voldoende/onvoldoende. Dit verslag wordt inhoudelijk beoordeeld door de praktijkdocenten; 
+het rapporttechnische deel door de docent Communicatie. Voor het vak Rapporteren wordt 
+een credit in Osiris toegekend dat gebaseerd is op de rapporttechnische eisen van het 
+verslag, op aanwezigheid in de les en de tussentijds gemaakte opdrachten  in de les.
 
 ### Literatuur en andere bronnen
 
 **Literatuur**
 - Richtlijnen voor verslaglegging voor de studenten ILST 
-- Syllabus Regels voor correct taalgebruik
+- Oefenbundel Rapporteren 
+- Syllabus "Regels voor correct taalgebruik"
 
 **Web**
 - Blackboard course thema XX
@@ -42,7 +61,7 @@ Tijdens de werkcolleges wordt aan de hand van opleidinggerelateerde teksten, geo
 \-
 
 ### Werkvormen  
-- Praktijkopdrachten/Projectonderwijs  
+- 7 hoor-/ werkcolleges van 90 minuten per week 
 
 #### Ingangseisen 
 Diagnostische taaltoets startvaardigheden Nederlands

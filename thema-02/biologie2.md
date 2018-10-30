@@ -31,7 +31,7 @@ In Biologie 2 worden de macromoleculen in detail beschreven. Daarnaast wordt er 
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- Campbell Biology, 10th ed., ISBN 10: 1-292-00865-2, ISBN 13: 978-1-292-00865-3, Pearson Education  
+Campbell Biology, 11th ed., ISBN 10: 1-292-17043-3, ISBN 13: 978-1-292-17043-5, Pearson Education
     - Hfst. 5.   Biological Macromolecules and Lipids  
     - Hfst. 6.  Energy and Life 
     - Hfst. 7.   Cell Structure and Function 

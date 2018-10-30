@@ -6,7 +6,7 @@
 | ECTS  | 1 |
 | Toetsvorm  | Portfolio onwikkeling |
 | Minimum cijfer  | V |
-| Docent(en)  | LUMF, KEMC |
+| Docent(en)  | KEMC |
 | Contactpersoon  | KEMC |
 | Voertaal  | Nederlands |
 
@@ -33,6 +33,7 @@ SLB helpt studenten bij het maken van keuzes in hun studie en hun toekomstig ber
 
 **Web**
 - Blackboard course thema 6
+- SLB Studentenhandleiding Jaar 2
 
 ### Competenties
 \-

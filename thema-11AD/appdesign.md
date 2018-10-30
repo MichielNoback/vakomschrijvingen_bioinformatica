@@ -33,14 +33,17 @@ This course is assessed through a practical assessment scheduled in the examinat
 - Implementing a design pattern
 - Creating Lambda's and stream operations
 
+**Course program**
+
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- __BOEKEN__
+\- **_Optioneel_**: Clean Code by Robert C. Martin
 
 **Web**
 - Blackboard course thema 11
-- http://www.bioinf.nl/~michiel/courses/AppDesign/ 
+- https://bincourses.bitbucket.io/appdesign.html
+
 
 ### Competenties
 \-

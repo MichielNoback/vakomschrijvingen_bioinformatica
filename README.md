@@ -16,6 +16,7 @@ De kerndocenten van de opleiding (voor mail adres: neem  tussen haakjes en voeg 
 - **BOJP** Jasper Bosman (j.bosman)
 - **FEFE** Fenna Feenstra (f.feenstra)
 - **HEMI** Martijn Herber (m.herber)
+- **HJUR** Jurre Hageman (j.hageman)
 - **LADR** Dave Langers (d.r.m.langers)
 - **KEMC** Marcel Kempenaar (m.kempenaar)
 - **LUMF** Mirjam Lurvink (m.f.lurvink)
@@ -26,6 +27,7 @@ De kerndocenten van de opleiding (voor mail adres: neem  tussen haakjes en voeg 
 
 Docenten uit andere teams:  
 - **APMA** Emile Apol (m.e.f.apol)
+- **BORA** Ronald Boonstra (r.boonstra)
 - **DIMH** Marike Dijkstra (m.h.dijkstra)
 - **KEYJ** Jeanine de Keyzer (j.de.keyzer)
 - **KJON** Marjon Kuiper (j.m.kuiper)

@@ -27,8 +27,7 @@ In Biologie 3 wordt de basis van de moleculaire genetica behandeld. Dit omvat de
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- Campbell & Reece, Biology 10th ed, Addison Wesley, ISBN 978-0-321-53616-7/0-321-53616-9  
-
+- Campbell Biology, 11th ed., ISBN 10: 1-292-17043-3, ISBN 13: 978-1-292-17043-5, Pearson Education
     - Hfd 16 The Molecular Basis of Inheritance  
     - Hfd 17 From Gene to Protein  
     - Hfd 18, tot 18.4, niet chromatin remodelling Regulation of gene expression  

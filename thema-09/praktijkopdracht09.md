@@ -6,62 +6,59 @@
 | ECTS  | 6 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | ???? |
-| Contactpersoon  | ???? |
+| Docent(en)  | NOMI |
+| Contactpersoon  | NOMI |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
 
-De student kan na het volgen van deze module  
-- een verkennende data-analyse uitvoeren op een dataset die als input dient voor een datamining project; 
-    - outliers herkennen en correct behandelen
-    - benodigde data-transformaties uitvoeren
-    - visualisaties maken
-- Data Mining algoritmen testen, optimaliseren, evalueren en beargumenteerd selecteren op relevantie voor het lopende onderzoek
-- een gedegen kwaliteitsanalyse uitvoeren op de aspecten code, performance, benchmarks
-- een ontwikkeld datamining algoritme voor een groter gebruikerspubliek ontlsuiten middels
- een Java command-line applicatie en een goed gedocumenteerde _git_ code repository
-- over de gevonden resultaten rapporteren middels een wetenschappelijk verslag en mondelinge presentaties
-- het eigen werk vertalen naar een projectvoorstel voor vervolgonderzoek
+After successfully completing the course, students will be able to 
+- Perform an exploratory data analysis (EDA) on a dataset that serves as input data for machine learning;
+    - Identify outliers and treat these correctly
+    - Identify correlated attributes
+    - Apply appropriate data transformations
+    - Create visualizations that help understand the data and assess its quality
+- Carry out Machine Learning research:  
+    - Intelligently select, apply, optimize and evaluate ML algorithms;
+    - Carry out a quality control on the aspects of code and algorithm performance using appropriate measures of quality;  
+    - Design and perform benchmarks to compare ML applications;
+- Publishing a ML algorithm to the scientific community by wrapping it into a Command-line Java application and publishing it on a well-documented git repository;
+- Communicate research results by means of work discussions, presentations, and a scientific report – focusing primarily on the sections Results and Discussion;
+- Translate the end result of her own project into a proposal for a subsequent research project, i.e. in one of the bioinformatics minors;
+- Display a well-founded critical attitude towards own and others' results as well as own professional functioning 
+
 
 ## Inhoud
 
-Naast het hoofdonderwerp Data Mining en -heel belangrijk- research skills zijn dit aspecten van verschillende leerlijnen die hier in een rol moeten krijgen:
-- Verslaglegging - Resultaten en Discussie (en summier geheel verslag)
-- Ondernemerschap -
-    1.	Kwaliteitszorg (statistiek, controles, benchmarks). Minimaal 2 uit de volgende vier aspecten worden door de student uitgevoerd tijdens het practicum (keuze uit 1 of 2 en keuze uit 3 of 4):  
-        1.	De student ontwerpt controles om de betrouwbaarheid van eigen code (of die van projectpartners) te borgen. 
-        2.	De student ontwerpt een of meerdere benchmark experimenten om verschillende analyse tools te vergelijken met als doel de meest geschikte voor een bepaalde analyse/proces te selecteren
-        3.	De student zet statistiek in om eigen resultaten te evalueren
-        4.	De student ontwerpt een experimentele opzet om een bepaalde (deel-)onderzoeksvraag te beantwoorden
-    2.	Bedenk een practicumproject voor een minor. De student moet, op basis van het eigen werk in thema 9, een potentieel interessant project bedenken die in een van de verdiepende minors van de opleiding bio-informatica uitgevoerd kan worden. Hiervoor moet een partner uit het werkveld gezocht worden.
-- Versiebeheer - richting gevorderd git gebruik, vooral lettend op een schone/heldere commit geschiedenis, maar ook inclusief pull requests en bv forks.
-- Competitie - meerdere koppels werken aan hetzelfde probleem 
+In this quarter project you will get to know Data Mining (DM), also called Machine Learning (ML). These two terms are not quite the same but are often used as if they are. By the end of the course, you will know what the difference is.
 
-**Algemene opzet**
-Voor de themaopdracht kiezen studenten in groepen van 2 (of 3) studenten een project. Bij voorkeur zal dat een project zijn via Alife/KCBBE/Health hub/UMCG. Indien er geen of onvoldoende projecten zijn, kunnen studenten op een van deze sites zelf gaan zoeken
+You will work individually on a ML problem of your own choice, but one or more other students will analyze the same dataset. This will make troubleshooting easier and opens the possibility of peer review (analysis and code), which is also an important skill to master: providing help and critical feedback to colleagues. The research projects will either come from the public domain, or from the Hanze or one of its partners.
 
-**Beoordelingscriteria**
-1.	Dagelijks functioneren (20%)
-    - a. Discussie
-    - b. Aanwezigheid
-    - c. Kritische houding
-    - d. Zelfstandigheid
-2.	Werkende command line app - let op (30%)
-    - a. Gebruiksvriendelijkheid
-    - b. code kwaliteit (git repo)
-    - c. docs (git repo)
-    - d. Gebruik van git
-3.	Verslag (50%)
-    (met name R&D); hier ook beoordeling kwaliteit klassifier pp aspecten  
-    - a. Strategie van data exploratie & data cleaning/transformatie  
-    - b. Strategie van de performance evaluatie (zowel training als test data,
-        - Snelheid
-        - memory
-        - FP/FN
-        - Ontwerp en uitvoering van controles & benchmarks
-    - c. Verslagtechniek volgens geupdate formulier zoals gebruikt in propedeuse
+**General organization**
+Although the central theme is Machine Learning, several other topics and/or competences will be trained as well – in particular research skills. Therefore, the learning outcomes for the course are the following.
 
+**Assessment criteria**  
+
+1. Day-to-day professional functioning (25%)
+    - Critical attitude towards own work and that of others
+    - Peer review (giving and receiving!)
+2. Research log (Markdown) containing description of daily work - primarily dealing with the research phase (25%)
+    - Reproducibility
+    - Readability
+3. Wrapper application of final algorithm (25%)
+    - Functionality
+    - Code quality
+    - Documentation + Readme.md
+    - Git usage
+4.	Report, focusing on the sections Results and Discussion and also assessing reporting technique (25%)
+The report should discuss  
+    - data exploration, data cleaning and transformations 
+    - Strategy and methodology of ML algorithm benchmarking and selection
+    - Strategy and methodology of ML algorithm performance testing and optimization focusing on aspects of speed, memory usage, performance (accuracy, sensitivity etc)
+    - Evaluation of final ML algorithm 
+    - Suggestions for future work
+
+This [Excel sheet](https://michielnoback.github.io/vakomschrijvingen_bioinformatica/files/AssessmentFormThema9_template.xlsx) shows you exactly how you will be graded. It has the form of a Rubrics grading system.
 
 ### Literatuur en andere bronnen
 
@@ -70,9 +67,10 @@ Voor de themaopdracht kiezen studenten in groepen van 2 (of 3) studenten een pro
 
 **Web**
 - Blackboard course thema 9
+- [Course website](https://bincourses.bitbucket.io/data_mining_project.html)
 
 ### Competenties
-1(II), 2(III), 3(II), 4(III), 5(II), 7(II), 9(I), 10(I), 11(I), 12(I)
+1(III), 2(III), 3(III), 4(III), 5(III), 7(II), 9(II), 10(I)
 
 ### Werkvormen  
 - Praktijkopdrachten/Projectonderwijs  
@@ -84,7 +82,7 @@ Voor de themaopdracht kiezen studenten in groepen van 2 (of 3) studenten een pro
 \- 
 
 #### Voorkennis
-- Er wordt van een goede basis in statistiek uitgegaan (Statistiek 1+2 & 3) en goede beheersing van R (Informatica 4).
+- Er wordt uitgegaan van een goede basis in statistiek (Statistiek 1+2 & 3) en goede beheersing van R (Informatica 4).
 
 #### Voorkennis kan worden opgedaan met
 \-
@@ -97,4 +95,3 @@ Voor de themaopdracht kiezen studenten in groepen van 2 (of 3) studenten een pro
 
 #### Aanbevolen materiaal
 \-
-
