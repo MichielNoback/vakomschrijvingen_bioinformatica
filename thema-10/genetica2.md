@@ -34,6 +34,15 @@ Als afsluiting wordt er gekeken hoe DNA, de volgorde ervan en dus ook de eigensc
 **Literatuur**  
 - Concepts of Genetics (global edition) 11th edition. William S. Klug, Michael R Cummings, Charlotte A. Spencer, Michael A. Palladino. Pearson
 
+Hoofdstuk	                Onderwerp
+Special Topic 1 (deel 1)	Epigenetics
+Special Topic 2 (deel 1)	Emerging Roles of RNA
+Hoofdstuk 5 (deel 1)	    Chromosome Mapping in Eukaryotes
+Hoofdstuk 6 (deel 1)	    Genetic Analysis and Mapping in Bacteria
+Hoofdstuk 23 (deel 2)	    Quantitative Genetics and Multifactorial Traits
+Hoofdstuk 25 (deel 2)	    Population and Evolutionary Genetics
+Special Topic 3	            DNA Forensics
+
 **Web**
 - Blackboard course thema 10
 
