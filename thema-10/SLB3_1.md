@@ -6,8 +6,8 @@
 | ECTS  | 1 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | V |
-| Docent(en)  | LUMF |
-| Contactpersoon  | LUMF |
+| Docent(en)  | HEMI |
+| Contactpersoon  | HEMI |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

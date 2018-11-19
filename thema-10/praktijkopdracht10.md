@@ -12,7 +12,8 @@
 
 ## Cursusdoelen (leerdoelen)
 After following this course, the student will be able to 
-- Translate a given concise problem outline in a proposal into a  manageable web application and database system using Java (web-) technology.
+- Translate a given concise problem outline in a proposal into a manageable web application and an - optional - database system using Java (web-) technology.
+- Create a dynamic interface (using JavaScript) for processing user input and visualizing output
 - Interact with a (technically) ignorant customer and come to a satisfying product
 - Work relatively independent on a single project and plan its aspects professionally
 - Generate quality software documentation
@@ -23,10 +24,10 @@ During the project you will work on a research project that you choose from seve
 
 **beoordeling**
 
-Grading is based on the end product made available through a (Bitbucket) online code repository as well as a software report that describes usage of the web product given a described use-case. Individual grading applies if the repository commit-history as well as source file metadata (author) indicates an imbalance in productivity.
+Grading is based on the end product (Java web application) made available through a (Bitbucket) online code repository as well as two chapters for a software report (Summary and Materials & Methods) that describe all used software (languages, frameworks, libraries, etc.). Individual grading applies if the repository commit-history as well as source file metadata (author) indicates an imbalance in productivity.
 
 **beoordelingscriteria**
-1. Web Application: **40%**
+1. Web Application: **50%**
     - a. usage
     - b. functionality
     - c. interface
@@ -36,7 +37,7 @@ Grading is based on the end product made available through a (Bitbucket) online 
     - c. proper use of Git (commit messages, number of commits and merge-strategy)
     - d. code structure (dividing of code into packages and modules)
     - e. quality (proper use of language features and documentation)
-3. Report: **20%**
+3. Report: **10%**
 
 ### Literatuur en andere bronnen
 
@@ -45,6 +46,7 @@ Grading is based on the end product made available through a (Bitbucket) online 
 
 **Web**
 - Blackboard course thema 10
+- Bitbucket, small example project demonstrating dynamic displaying of analysis results: https://bitbucket.org/mkempenaar/bfvh3th10-examples
 
 ### Competenties
 1(II), 2(III), 3(II), 5(III), 6(I), 7(II), 9(I), 11(I), 12(I), 13(II)
@@ -60,11 +62,12 @@ Grading is based on the end product made available through a (Bitbucket) online 
 \- 
 
 #### Voorkennis
-A solid understanding of the basic Java programming language is necessary for completing this course. Furthermore, a basic understanding of the different aspects and technologies that are relevant to developing web based information systems is expected.
+A solid understanding of the basic Java programming language is necessary for completing this course. Furthermore, a basic understanding of the different aspects and technologies that are relevant to developing web based information systems combined with a possible database is expected.
 
 #### Voorkennis kan worden opgedaan met
 - Introduction Java
 - Web Based Information Systems I
+- Databases I & II
 
 #### Bronnen van zelfstudie
 \-
