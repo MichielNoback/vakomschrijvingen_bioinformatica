@@ -6,8 +6,8 @@
 | ECTS  | 3 |
 | Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | R. Boonstra |
-| Contactpersoon  | R. Boonstra |
+| Docent(en)  | BORA |
+| Contactpersoon  | BORA |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

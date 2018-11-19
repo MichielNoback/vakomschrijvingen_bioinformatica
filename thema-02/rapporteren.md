@@ -6,8 +6,8 @@
 | ECTS  | 1 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | LUMF |
-| Contactpersoon  | LUMF |
+| Docent(en)  | BEVL |
+| Contactpersoon  | BEVL |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
