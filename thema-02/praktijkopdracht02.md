@@ -6,8 +6,8 @@
 | ECTS  | 4 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | PARN, KEMC, WERD |
-| Contactpersoon  | KEMC |
+| Docent(en)  | PARN, WERD |
+| Contactpersoon  | WERD |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

@@ -6,8 +6,8 @@
 | ECTS  | 1 |
 | Toetsvorm  | Aanwezigheid, Portfolio |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | LUMF, E.A.S.H.L. Borgonjon |
-| Contactpersoon  | LUMF |
+| Docent(en)  | WERD, WATS, BEVL |
+| Contactpersoon  | BEVL |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

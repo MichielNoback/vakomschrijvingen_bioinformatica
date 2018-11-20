@@ -6,8 +6,8 @@
 | ECTS  | 3 |
 | Toetsvorm  | OSchriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | M.J.J.B. Sibbald, 	J.C. Zweers |
-| Contactpersoon  | KEMC |
+| Docent(en)  | WOOL, SPAI |
+| Contactpersoon  | WERD |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)

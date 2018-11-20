@@ -30,10 +30,10 @@ Gedurende het gehele project wordt er gewerkt aan deelopdrachten die resulteren 
 **beoordelingscriteria**
 
 1. Deelopdrachten: **40%**
-    - a. *deliverable* 1-7; Pileup analyze (20% van deelopdrachten)
-    - b. *deliverable* 8; VCF-bestand filter (15% van deelopdrachten)
-    - c. *deliverable* 11; database ontwerp (schema + SQL) (15% van deelopdrachten)
-    - d. *deliverable* 9, 10, 12; Verwerking geannoteerde varianten (Python + database) (50% van deelopdrachten)
+    - a. *deliverable* 1-4; Pileup analyze (20% van deelopdrachten)
+    - b. *deliverable* 5; VCF-bestand filter (15% van deelopdrachten)
+    - c. *deliverable* 8; database ontwerp (schema + SQL) (15% van deelopdrachten)
+    - d. *deliverable* 9; Verwerking geannoteerde varianten (Python + database) (50% van deelopdrachten)
 2. Digitaal logboek: **50%%**
 3. Hoofdstuk Inleiding en Referenties: **10%**
 
