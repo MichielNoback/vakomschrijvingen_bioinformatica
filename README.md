@@ -4,6 +4,10 @@
 
 Dit `gitbook` bevat alle vakomschrijvingen van de opleiding bio-informatica van de Hanzehogeschool Groningen.  
 Het is vooral voor intern gebruik door docenten en studenten.  
+
+Onderstaande link opent de opleidingsbeschrijving waarin de thema's in samenhang en contxt worden beschreven.
+<a href="opleiding_bfv.pdf" target="_blank">Opleidingsbeschrijving Bio-informatica</a>
+
 Meer informatie? Neem contact op via de Hanzehogeschool.
 
 [Werkinstrucie voor git gebruikers](werkinstructie.md)
