@@ -2,9 +2,9 @@
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
+| Osiriscode  | BFVH4DMN2  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht + Schriftelijk tentamen |
+| Toetsvorm  | Opdracht + Mondeling |
 | Minimum cijfer  | 5,5 |
 | Docent(en)  | LADR |
 | Contactpersoon  | LADR |
@@ -12,33 +12,22 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- Samenstellen, gebruiken en augmenteren van grote (trainings- en test-) datasets
-- Begrijpen van de globale werking en kenmerken van diverse "moderne" machine learning algoritmen
-    - Neurale Netwerken (feedforward, recurrent, auto-encoders, convolutioneel)
-    - Support Vector Machines
-    - Model trees
-    - Bayesiaanse netwerken, (hidden) Markov models
-    - Mixture-model clustering
-- Interactief diverse classificatie, regressie en clustering analyses kunnen uitvoeren en evalueren m.b.v. Weka
-- Leercurven kunnen interpreteren en kunnen gebruiken om algoritmen te optimaliseren
-- Kernel-methoden kunnen toepassen om niet-lineaire classificatie-boundaries te verkrijgen
-- Regularisatie-methoden kunnen toepassen om overfitting te beperken
-- Het kunnen implementeren van een Machine Learning algoritme volgens specificaties en theorie
+- Het kunnen herkennen van toepassingen van neurale netwerken in het kader van classificatie en regressie
+- Het begrijpen van de werking van een neuraal netwerk, waaronder vallen o.a. de begrippen (multi-layer) perceptron, cost-function en cross-entropy, (stochastic) gradient descent, back-propagation, soft-max, adaptive learning, verscheidene vormen van regularisatie en data-augmentatie
+- Het kunnen implementeren en toepassen van een eigen basaal neuraal netwerk
+- Het kunnen diagnostiseren en verhelpen van over- en underfitting
+- Het kunnen onderscheiden van een aantal veelgebruikte netwerktopologieen, waaronder vallen deep neural networks, auto-encoders, recurrent neural networks, en convolutional neural networks
 
 ## Inhoud
 
-Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biologische vraag erachter te kunnen oplossen. Door gebruik te maken van geautomatiseerde machine learning technieken kan in een grote, complexe dataset gezocht worden naar relevante patronen. Tijdens deze module wordt voortgebouwd op de inhoud van de module "Introductie datamining" en wordt dieper ingegaan op geavanceerdere datamining toepassingen, algoritmen en analyses. In het bijzonder wordt ingegaan op de werking van (Deep) Neural Networks. In de loop van deze module zal een neuraal netwerk vanaf de grond opgebouwd worden in Python, door stapsgewijs een Perceptron uit te breiden met aanvullende features (activatiefuncties, cost-functies, gradient-descent, input-/hidden/output-layers, back-propagation, initialisatie, L1/L2-regularisatie, drop-out, data-augmentatie, batch/online-trainingsstrategie??n). Parallel hieraan zal in de les aandacht worden besteed aan Support Vector Machines, model trees, discriminant analyse, Bayesiaanse netwerken, mixture-model clustering, (hidden) Markov models, auto-encoders, recurrente en convolutionele neurale netwerken.
+Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biologische vraag erachter te kunnen oplossen. Door gebruik te maken van geautomatiseerde machine learning technieken kan in een grote, complexe dataset gezocht worden naar relevante patronen. Tijdens deze module wordt voortgebouwd op de inhoud van de module "Introductie datamining" en wordt dieper ingegaan op geavanceerdere datamining toepassingen, algoritmen en analyses. In het bijzonder wordt ingegaan op de werking van (Deep) Neural Networks, oftewel het Multi-Layer Perceptron. In de loop van deze module zal een neuraal netwerk vanaf de grond opgebouwd worden (in Python) door stapsgewijs een Perceptron uit te breiden met aanvullende features (activatiefuncties, cost-functies, gradient-descent, input-/hidden/output-layers, back-propagation, initialisatie, L1/L2-regularisatie, drop-out, data-augmentatie, batch/online-trainingsstrategieen). De toetsvorm bestaat uit het uitvoeren en inleveren van een programmeer-opdracht, gebruikmakend van het door jezelf geschreven neurale netwerk, die mondeling wordt nabesproken; hierbij zullen ook algemene theoretische vragen worden gesteld en besproken.
 
 ### Literatuur en andere bronnen
 
 **Literatuur**
 
-- Witten, Frank, Hall & Pal. Data Mining - Practical Machine Learning Tools and Techniques (4th edition) ISBN 978-0-12-804291-5:
-    - Chapter 7: &sect; 2-3
-    - Chapter 8: &sect; 3-6
-    - Chapter 9: &sect; 2-3,8
-    - Chapter 10: &sect; 1-4,6
-    - Chapter 11: geheel
+- Witten, Frank, Hall & Pal. Data Mining - Practical Machine Learning Tools and Techniques (4th edition) ISBN 978-0-12-804291-5
+- Goodfellow, Bengio & Courville - Deep Learning (1st edition) ISBN 978-0-26-203561-3 ("free" beschikbaar online: http://www.deeplearningbook.org/)
     
 **Web**
 
@@ -58,10 +47,10 @@ Veel biologische datasets zijn te onoverzichtelijk om in een oogopslag de biolog
 \- 
 
 #### Voorkennis
-\-
+- Knowledge and skills to program with python
 
 #### Voorkennis kan worden opgedaan met
-\-
+- previous informatics courses
 
 #### Bronnen van zelfstudie
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
