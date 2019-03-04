@@ -11,17 +11,19 @@
 | Language  | Nederlands/English* |
 \* depending on the student population
 
-## Cursusdoelen (leerdoelen)
+## Learning outcomes (leerdoelen)
 
-__AANVULLEN__
+- Reflecteren op de inhoud van de minor
+- De minor in de context van en aansluiting op de eigen opleiding beoordelen
+- Het kennisnemen van bioinformatica in een breder \-maatschappelijk\- perspectief
 
 ## Inhoud
 
-__AANVULLEN__
+This module consist of a single portfolio assignment.
 
 ### Literature and other resources
 
-**Literatur**  
+**Literature**  
 \- 
 
 **Web**
