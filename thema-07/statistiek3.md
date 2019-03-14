@@ -12,19 +12,22 @@
 
 ## Cursusdoelen (leerdoelen)
 
-- Preprocessing van microarray data (background correctie, normalisatie, log-transformatie);
-- Analyseren van (continue) microarray data met parametrische toetsen (1-sample, 2-sample en gepaarde t-toetsen, 1-way ANOVA en 2-way ANOVA met blocking);
-- Berekenen en interpreteren van effectsterktes voor deze parametrische toetsen;
-- Toepassing van multiple-toetsing correcties (Bonferroni, Holm, Benjamini-Hochberg);
-- Clustering van genen en/of samples via hiërarchische en k-means clustering methoden, en maken van dendrogrammen en heatmaps;
-- Analyseren van (discrete) data met parametrische toetsen (1-sample en 2-sample z-toetsen, 1-way en 2-way chi-kwadraat toetsen);
- - Berekenen en interpreteren van effectsterktes voor deze parametrische toetsen;
-- Gebruik van R, RStudio en enkele extra libraries.
+Na afloop van deze module kan de student:  
+
+- Microarray data preprocessen (background correctie, normalisatie, log-transformatie)
+- Continue (genexpressie) data analyseren met parametrische toetsen (1-sample, 2-sample (Welch) en gepaarde t-toetsen, 1-way ANOVA en 2-way ANOVA met blocking)
+- Effectsterktes voor deze parametrische toetsen berekenen en interpreteren
+- Multiple-toetsing correcties (Bonferroni, Holm, Benjamini-Hochberg) voor parametrische toetsen toepassen
+- Genen en/of samples op basis van genexpressiedata clusteren via hiërarchische en k-means clustering methoden, en daar dendrogrammen en heatmaps van maken
+- Discrete data analyseren met categorische toetsen (1-sample en 2-sample z-toetsen, 1-way en 2-way chi-kwadraat toetsen)
+- Effectsterktes voor deze categorische toetsen berekenen en interpreteren
+- R, RStudio en enkele extra libraries gebruiken bij deze analyses
+
 
 
 ## Inhoud
 
-Statistiek 3 geeft een introductie in hypothese-toetsen, het analyseren van micro-array gegevens, en het gebruik van R.
+Statistische methoden vormen een belangrijk onderdeel van de toolbox van een bio-informaticus. Statistiek 3 geeft een introductie in hypothese-toetsen, het analyseren van genexpressie (micro-array) gegevens, en het gebruik van R daarbij. Onderwerpen die worden behandeld zijn o.a. t-toetsen en ANOVA, effectsterktes, multiple testing correcties, hierarchische en k-means clustering en heatmaps.
 
 ### Literatuur en andere bronnen
 

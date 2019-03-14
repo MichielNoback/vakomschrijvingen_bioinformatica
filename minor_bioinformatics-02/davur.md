@@ -2,7 +2,7 @@
 
 | Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | BFVH15DIAGN  |
+| Osiriscode  | BFVH17DAVUR  |
 | ECTS  | 4 |
 | Assessment  | Computer exam |
 | Minimum grade  | 5,5 |
