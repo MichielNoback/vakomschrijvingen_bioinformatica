@@ -2,12 +2,12 @@
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | __OSIRISCODE__  |
+| Osiriscode  | BFVH18WIS  |
 | ECTS  | 3 |
-| Toetsvorm  | Opdracht/Computertentamen/Schriftelijk tentamen/Digitale toets/Anders nml |
+| Toetsvorm  | Schriftelijk tentamen |
 | Minimum cijfer  | 5,5 |
-| Docent(en)  | BEVL, BOJP, FEFE, HEMI, LADR, LUMF, KEMC, NOMI, PARN, WATS, WERD |
-| Contactpersoon  |  |
+| Docent(en)  | WIBA, FEFE |
+| Contactpersoon  | FEFE |
 | Voertaal  | Nederlands |
 
 ## Cursusdoelen (leerdoelen)
@@ -39,10 +39,11 @@ methoden en geavanceerde statistiek.
 ### Literatuur en andere bronnen
 
 **Literatuur**  
-- __BOEKEN__
+- J. Blankenspoor: Toegepaste Wiskunde voor het hoger beroepsonderwijs Deel 1 en 2
+
 
 **Web**
-- Blackboard course thema XX
+- Blackboard course thema 08
 
 ### Competenties
 \-
@@ -64,7 +65,7 @@ methoden en geavanceerde statistiek.
 \-
 
 #### Bronnen van zelfstudie
-\-
+- khan academy
 
 #### Verplicht materiaal
 \-
