@@ -125,7 +125,7 @@
 
 * [Quarter 1: Diagnostic Genome Analysis](minor_bioinformatics-01/Readme.md)
     * [Project](minor_bioinformatics-01/praktijkopdracht1.md)
-    * [Data Analysis and Visualization using R (1)](minor_bioinformatics-02/davur1.md)
+    * [Data Analysis and Visualization using R (1)](minor_bioinformatics-01/davur1.md)
     * [Linux](minor_bioinformatics-01/linux.md)
     * [Theory of Bioinformatics 1](minor_bioinformatics-01/theory_bioinformatics1.md)
     * [SLB / Introduction or Acedemic Counselling](minor_bioinformatics-01/SLB_minor.md)

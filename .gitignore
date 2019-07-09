@@ -1,5 +1,11 @@
+_backup
+
+
 #Mac shit
 .DS_Store
+
+#Visual Studio
+.vscode
 
 # Logs
 logs
