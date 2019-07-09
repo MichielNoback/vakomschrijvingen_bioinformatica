@@ -2,7 +2,7 @@
 
 | Gegevensveld  | Waarde |
 | ------------- | ------------- |
-| Osiriscode  | BFVH15THM11AD  |
+| Osiriscode  | BFVH3TH12  |
 | ECTS  | 8 |
 | Toetsvorm  | Opdracht |
 | Minimum cijfer  | 5,5 |

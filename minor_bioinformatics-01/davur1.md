@@ -1,9 +1,9 @@
-# Module: Data analysis and visualization using R
+# Module: Data analysis and visualization using R (1)
 
 | Datafield  | Value |
 | ------------- | ------------- |
-| Osiriscode  | BFVH17DAVUR  |
-| ECTS  | 4 |
+| Osiriscode  | BFVH19DAVUR1  |
+| ECTS  | 3 |
 | Assessment  | Computer exam |
 | Minimum grade  | 5,5 |
 | Lecturer(s))  | NOMI |
@@ -19,7 +19,7 @@ After taking this course, you should be able to
 - use R Markdown to create reporting documents with embedded R code and output
 - read R documentation and apply these to your work cases
 - know the basic R data types (vectors, lists and data frames), and how to use and manipulate them
-- write basic R syntax using functions and flow control, and combine these elements into a functional, readable script (or Markdown file)
+- write basic R syntax using functions and flow control
 - install and use external R libraries
 - import and export data from and to –sometimes inconsistent- text files
 - perform exploratory data analysis using both textual and graphical output
@@ -31,11 +31,6 @@ R is a programming language and software environment for data analysis, statisti
 
 **Assessment**
 This course will be assessed using a 2-hour practical computer test. 
-
-You are supposed to give all solutions/answers in an R Markdown file and submit both the markdown file and a PDF document generated from this Markdown file. These aspects will be taken into account when grading your work (on a per-question basis):
-- Correctness and quality (efficiency/effectiveness) of the solution
-- The completeness of figures (axes, legends, titles)
-
 
 ### Literature and other resources
 
