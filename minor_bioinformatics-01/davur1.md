@@ -39,8 +39,7 @@ This course will be assessed using a 2-hour practical computer test.
 
 **Web**
 - Blackboard course of the minor
-- https://bincourses.bitbucket.io/davur.html
- https://michielnoback.github.io/bincourses/davur.html
+- https://michielnoback.github.io/bincourses/davur.html
 ### Competences
 \- 
 
