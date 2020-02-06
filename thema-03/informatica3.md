@@ -18,6 +18,7 @@
 - Kunnen werken met enkele van de standaard Python modules: sys, os, math door middel van imports  
 - Een basaal object georiënteerd ontwerp kunnen maken en implementeren; de relatie tussen klassen en objecten kennen en eenvoudige klassen schrijven  
 - Correct gebruik van docstrings en help() functionaliteit kunnen maken.
+- De student kan het exceptie mechanisme begrijpen en toepassen.
 
 ## Inhoud
 In deze module wordt de programmeertaal Python verder verkend en worden specifieke aspecten geïntroduceerd, zoals reguliere expressies en object-georiënteerd programmeren (OO).
@@ -25,7 +26,6 @@ In deze module wordt de programmeertaal Python verder verkend en worden specifie
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- __BOEKEN__
 
 **Web**
 - Blackboard course thema 3
