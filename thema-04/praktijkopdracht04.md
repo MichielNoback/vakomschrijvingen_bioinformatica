@@ -13,16 +13,13 @@
 ## Cursusdoelen (leerdoelen)
 
 De student kan aan het eind van deze module:
-
-- Zelfstandig kernachtig een onderzoeksvraag formuleren
-- Een protocol schrijven voor het uitvoeren van het onderzoek
-- Data verzamelen volgens een protocol
-- Data verwerken, analyseren en visualiseren met R en RStudio
-- Een sectie materiaal en methoden schrijven waarin duidelijk wordt beschreven wat is gedaan
-- Figuren met bijschriften maken die kernachtig de belangrijkste bevindingen presenteren
-- Uitspraken doen over verdelingen van en verbanden in datasets
-- Uitspraken doen over erfelijkheid in relatie tot de data
-
+    • De student is in staat om met een groep medestudenten een goede onderzoeksvraag te formuleren voor een eenvoudig onderzoek.
+    • De student is in staat om met een groep medestudenten een eenvoudig, duidelijk protocol te schrijven om data ter beantwoording van een eenvoudige onderzoeksvraag te verzamelen.
+    • De student is in staat om met een groep medestudenten data te verzamelen volgens een eenvoudig protocol.
+    • De student is in staat om zelfstandig eenvoudige data te verwerken, te analyseren en te visualiseren met behulp van R en RStudio.
+    • De student is in staat om met een groep medestudenten een eenvoudige materiaal en methoden sectie te schrijven.
+    • De student is zelfstandig in staat om duidelijke figuren met correcte, duidelijke bijschriften te maken die het beantwoorden van een onderzoeksvraag ondersteunen.
+    • De student is in staat om zelfstandig een eenvoudige dataset statistisch te analyseren en de resultaten hiervan samen te vatten zodat een eenvoudige onderzoeksvraag beantwoord kan worden.
 
 ## Inhoud
 
@@ -31,7 +28,6 @@ Zelf meten, analyseren en visualiseren van data
 ### Literatuur en andere bronnen
 
 **Literatuur**
-- Using R for Introductory Statistics
 
 **Web**
 - Blackboard course thema 4
